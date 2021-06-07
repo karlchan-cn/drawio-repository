@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T11:34:30.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="brRGSrYCJmckMdT3oeOO" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T13:13:39.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9ybY-Icn0spXknqIK3-R" version="14.7.6" type="github">
   <diagram id="4WeLWoLbl9c9doZnRNi1" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXINRgHEy04y-cdiXWr6-2" value="获取品牌场景的&lt;br&gt;定向维度元数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g26gJI3OPP5dfYRT891p-6" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-6">
+        <mxCell id="HXINRgHEy04y-cdiXWr6-2" value="获取品牌场景的&lt;br&gt;定向维度元数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="g26gJI3OPP5dfYRT891p-6" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="230" as="targetPoint" />
             <Array as="points">
@@ -55,7 +55,7 @@
             <mxPoint x="55" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXINRgHEy04y-cdiXWr6-4" value="保存定向包" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="g26gJI3OPP5dfYRT891p-40" target="g26gJI3OPP5dfYRT891p-9">
+        <mxCell id="HXINRgHEy04y-cdiXWr6-4" value="保存定向包" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="g26gJI3OPP5dfYRT891p-40" target="g26gJI3OPP5dfYRT891p-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="660" />
@@ -76,7 +76,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g26gJI3OPP5dfYRT891p-45" value="过滤品牌场景&lt;br&gt;不支持的定向纬度值" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="g26gJI3OPP5dfYRT891p-40">
+        <mxCell id="g26gJI3OPP5dfYRT891p-45" value="过滤品牌场景&lt;br&gt;不支持的定向纬度值" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="g26gJI3OPP5dfYRT891p-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405.5" y="484.5" as="targetPoint" />
             <mxPoint x="406" y="450" as="sourcePoint" />
@@ -104,7 +104,7 @@
             <mxPoint x="55" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXINRgHEy04y-cdiXWr6-3" value="返回品牌支持定向列表+定向维度元数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-9">
+        <mxCell id="HXINRgHEy04y-cdiXWr6-3" value="返回品牌支持定向列表+定向维度元数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="320" />
