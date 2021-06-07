@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T09:46:24.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8gCtebQjYzYCKvWCMxvs" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T11:30:52.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bc-GttxiT_DPrQbFV82o" version="14.7.6" type="github">
   <diagram id="4WeLWoLbl9c9doZnRNi1" name="Page-1">
-    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,12 +13,21 @@
         <mxCell id="g26gJI3OPP5dfYRT891p-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="g26gJI3OPP5dfYRT891p-6" vertex="1">
           <mxGeometry x="45" y="50" width="10" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="g26gJI3OPP5dfYRT891p-35" value="城市等级元数据构造" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="g26gJI3OPP5dfYRT891p-6" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-6" edge="1">
+        <mxCell id="g26gJI3OPP5dfYRT891p-35" value="根据定向包&lt;br&gt;过滤非品牌列表" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="g26gJI3OPP5dfYRT891p-6" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="133" y="80" />
-              <mxPoint x="133" y="110" />
+              <mxPoint x="133" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXINRgHEy04y-cdiXWr6-2" value="获取品牌场景的&lt;br&gt;定向维度元数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="g26gJI3OPP5dfYRT891p-6" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="165" />
+              <mxPoint x="130" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -29,7 +38,7 @@
           <mxGeometry x="50" y="60" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="g26gJI3OPP5dfYRT891p-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="g26gJI3OPP5dfYRT891p-9" vertex="1">
-          <mxGeometry x="45" y="50" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="50" width="10" height="220" as="geometry" />
         </mxCell>
         <mxCell id="g26gJI3OPP5dfYRT891p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -41,7 +50,7 @@
             <mxPoint x="395" y="124.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g26gJI3OPP5dfYRT891p-12" value="品牌定向维度与条件值查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g26gJI3OPP5dfYRT891p-11" vertex="1" connectable="0">
+        <mxCell id="g26gJI3OPP5dfYRT891p-12" value="查询定向列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g26gJI3OPP5dfYRT891p-11" vertex="1" connectable="0">
           <mxGeometry x="-0.422" y="-1" relative="1" as="geometry">
             <mxPoint x="55" y="-6" as="offset" />
           </mxGeometry>
@@ -106,26 +115,6 @@
             <mxPoint x="55" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g26gJI3OPP5dfYRT891p-51" value="安卓版本元数据构造" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="g26gJI3OPP5dfYRT891p-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="220" as="targetPoint" />
-            <mxPoint x="411" y="190" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="489" y="190" />
-              <mxPoint x="489" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g26gJI3OPP5dfYRT891p-52" value="兴趣标签元数据过滤" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="270" as="targetPoint" />
-            <mxPoint x="405" y="256.83000000000004" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="489" y="240" />
-              <mxPoint x="489" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g26gJI3OPP5dfYRT891p-53" value="定向纬度值交/并集合条件构造" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="600" as="targetPoint" />
@@ -143,6 +132,14 @@
               <mxPoint x="470" y="645" />
             </Array>
             <mxPoint x="625" y="645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXINRgHEy04y-cdiXWr6-3" value="返回品牌支持定向列表+定向维度元数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="g26gJI3OPP5dfYRT891p-7" target="g26gJI3OPP5dfYRT891p-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="320" />
+              <mxPoint x="340" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
