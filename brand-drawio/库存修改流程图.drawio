@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T11:26:11.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="3B4t_qs-E_U47L3pRp7s" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T11:28:34.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bAdu1DSfi1BEEC3Qd6h5" version="14.7.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1185" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iLalV0UGRLuFDr469e8n-184" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#1478A8;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="268.5" width="600" height="861.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iLalV0UGRLuFDr469e8n-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#1478A8;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="805.25" y="-130" width="449.5" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="909.5" y="-180" width="120" height="30" as="geometry" />
         </mxCell>
@@ -212,6 +218,12 @@
         </mxCell>
         <mxCell id="iLalV0UGRLuFDr469e8n-181" value="下单人员修改投放量" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="690" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLalV0UGRLuFDr469e8n-185" value="库存锁定" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="730" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLalV0UGRLuFDr469e8n-186" value="库存释放" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="820.5" y="-40" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
