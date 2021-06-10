@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T09:03:46.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QGye2k2-VyY4r2XlUE4s" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T09:03:55.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="lYqwLgYYMunLyjk434Zi" version="14.7.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="noWKgFkb6oJTjKW2lA6C-56" value="剔除不支持锁量&lt;br&gt;的广告位排期" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="noWKgFkb6oJTjKW2lA6C-58" value="点击锁量按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="noWKgFkb6oJTjKW2lA6C-58" value="点击锁量按钮" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="noWKgFkb6oJTjKW2lA6C-59" value="避免非品牌广告支持定向维度出现" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
