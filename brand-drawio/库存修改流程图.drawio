@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T10:19:45.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="4Q2FaS6Dtoi_0EQkVYY_" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T10:23:32.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Tpwmkjqm_iCeYF2r4l4l" version="14.7.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="5" value="遍历订单+排期+&lt;br&gt;对应投放量列表" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;strokeColor=#10739e;fillColor=#1681B5;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="250" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="流量释放" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#1681B5;" parent="1" vertex="1">
+        <mxCell id="6" value="流量释放&lt;br&gt;成功" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#1681B5;" parent="1" vertex="1">
           <mxGeometry x="271" y="390" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" edge="1">
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="11" value="NO" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="370" y="390" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontColor=#001933;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="6" target="4" edge="1">
@@ -50,7 +50,7 @@
         <mxCell id="13" value="定向包校验" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="640" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="no" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="14" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="447" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="15" value="联投广告位需要后续&lt;br&gt;考虑拆解" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="noWKgFkb6oJTjKW2lA6C-56" value="剔除不支持锁量&lt;br&gt;的广告位排期" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="noWKgFkb6oJTjKW2lA6C-56" value="提示流量释放失败&lt;br&gt;重试" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="noWKgFkb6oJTjKW2lA6C-58" value="点击修改流量按钮" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1681B5;" parent="1" vertex="1">
