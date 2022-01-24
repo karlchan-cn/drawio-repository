@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T09:41:55.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="EtVsY8VT__qiLHy5EfLR" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T11:23:24.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="HGRsQYP8z6YnDYvv8TYt" version="16.4.5" type="github">
   <diagram id="zacrkn34sIO4L3OqYdmY" name="Page-1">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="84d6I-7gki2v_Zni0cwv-9" value="原配置文件:&lt;font color=&quot;#00cc00&quot;&gt;config_gray.property&lt;/font&gt;&lt;br&gt;灰度分流方案:&lt;font color=&quot;#00cc00&quot;&gt;服务IP sharding,10%生效&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="805" y="460" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84d6I-7gki2v_Zni0cwv-10" value="Conf A" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="84d6I-7gki2v_Zni0cwv-10" value="Conf A" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontColor=#00CC00;strokeColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84d6I-7gki2v_Zni0cwv-11" value="Conf B" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="84d6I-7gki2v_Zni0cwv-11" value="Conf B" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontColor=#00CC00;strokeColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="520" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84d6I-7gki2v_Zni0cwv-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;entryX=0.538;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="84d6I-7gki2v_Zni0cwv-14" value="读取灰度配置文件 + 灰度策略,覆盖配置项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="610" y="280" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="84d6I-7gki2v_Zni0cwv-17" value="gray strategy" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="84d6I-7gki2v_Zni0cwv-17" value="gray strategy" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;fontColor=#00CC00;strokeColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84d6I-7gki2v_Zni0cwv-18" value="&lt;font style=&quot;font-size: 30px&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00CC00;" vertex="1" parent="1">
