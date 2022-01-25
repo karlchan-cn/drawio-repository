@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T02:45:08.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FXWEg2MQQQdL7jV8PYny" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T02:50:48.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="tykCALtLpgPTb9WjrRJI" version="16.4.5" type="github">
   <diagram id="zacrkn34sIO4L3OqYdmY" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ohWERltiv4rnFWLkneOm-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;dashPattern=1 4;fillColor=none;strokeColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="200" y="450" width="870" height="130" as="geometry" />
+          <mxGeometry x="200" y="450" width="760" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ohWERltiv4rnFWLkneOm-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="620" as="sourcePoint" />
-            <mxPoint x="1100" y="620" as="targetPoint" />
+            <mxPoint x="970" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ohWERltiv4rnFWLkneOm-2" value="研发测试完毕" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
@@ -34,9 +34,6 @@
         <mxCell id="ohWERltiv4rnFWLkneOm-12" value="灰度 -&amp;gt; 全量" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#00CC00;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="810" y="490" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ohWERltiv4rnFWLkneOm-13" value="量化交付" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#00CC00;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="960" y="490" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ohWERltiv4rnFWLkneOm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;strokeWidth=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="ohWERltiv4rnFWLkneOm-15" target="ohWERltiv4rnFWLkneOm-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -57,7 +54,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ohWERltiv4rnFWLkneOm-18" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1. 选择依赖DBMS/No SQL&lt;br style=&quot;font-size: 9px&quot;&gt;2. 定义各个数据中心依赖&lt;br&gt;3. 定义初始化DDL/DML脚本并自动校验执行&lt;br&gt;&lt;/font&gt;" style="shape=document;html=1;boundedLbl=1;fontColor=#00CC00;strokeColor=#00CC00;strokeWidth=3;fillColor=none;align=left;fontSize=9;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="265" y="196" width="140" height="100" as="geometry" />
+          <mxGeometry x="265" y="227" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-21" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1. 定义接口暴露要求,云平台注册接口暴露机制&lt;br&gt;2. 定义依赖接口配置,自动检测接口依赖可用性&lt;br&gt;&lt;/font&gt;" style="shape=document;html=1;boundedLbl=1;fontColor=#00CC00;strokeColor=#00CC00;strokeWidth=3;fillColor=none;align=left;fontSize=9;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="157.51" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;strokeWidth=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" source="ohWERltiv4rnFWLkneOm-21" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="561" y="234.51" as="sourcePoint" />
+            <mxPoint x="561" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="362" />
+              <mxPoint x="561" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;strokeWidth=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;exitX=0.436;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ohWERltiv4rnFWLkneOm-24" target="ohWERltiv4rnFWLkneOm-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715.5" y="150" as="sourcePoint" />
+            <mxPoint x="715.5" y="405.49" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="716" y="195" />
+              <mxPoint x="716" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-24" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1. 定义其他中间件依赖并自动检测&lt;br&gt;&lt;/font&gt;" style="shape=document;html=1;boundedLbl=1;fontColor=#00CC00;strokeColor=#00CC00;strokeWidth=3;fillColor=none;align=left;fontSize=9;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="611" y="135" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-25" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1. 研发应用灰度,观察日志与产运观察数据&lt;br&gt;2. 全量服务以及观察&lt;br&gt;3. 执行交付注册事项:接口暴露,TT通知等&lt;br&gt;&lt;/font&gt;" style="shape=document;html=1;boundedLbl=1;fontColor=#00CC00;strokeColor=#00CC00;strokeWidth=3;fillColor=none;align=left;fontSize=9;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="780" y="59.999999999999986" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;strokeWidth=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;entryPerimeter=0;" edge="1" source="ohWERltiv4rnFWLkneOm-25" parent="1" target="ohWERltiv4rnFWLkneOm-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="894.5" y="137" as="sourcePoint" />
+            <mxPoint x="894.5" y="392.49" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="854" y="265" />
+              <mxPoint x="895" y="265" />
+              <mxPoint x="895" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
