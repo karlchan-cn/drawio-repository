@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T02:38:30.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KIxHxFbBvD-9e9yrL5OB" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T02:45:08.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FXWEg2MQQQdL7jV8PYny" version="16.4.5" type="github">
   <diagram id="zacrkn34sIO4L3OqYdmY" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -36,6 +36,28 @@
         </mxCell>
         <mxCell id="ohWERltiv4rnFWLkneOm-13" value="量化交付" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#00CC00;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="960" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;strokeWidth=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="ohWERltiv4rnFWLkneOm-15" target="ohWERltiv4rnFWLkneOm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-15" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1. 分数据中心配置参数&lt;br style=&quot;font-size: 9px&quot;&gt;2. 定义配置参数校验器&lt;br&gt;3. 程序化校验参数配置结果&lt;br&gt;&lt;/font&gt;" style="shape=document;html=1;boundedLbl=1;fontColor=#00CC00;strokeColor=#00CC00;strokeWidth=3;fillColor=none;align=left;fontSize=9;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="271" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=-0.017;entryDx=0;entryDy=0;fontColor=#00CC00;strokeWidth=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;entryPerimeter=0;" edge="1" source="ohWERltiv4rnFWLkneOm-18" parent="1" target="ohWERltiv4rnFWLkneOm-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="480" />
+              <mxPoint x="403" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohWERltiv4rnFWLkneOm-18" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1. 选择依赖DBMS/No SQL&lt;br style=&quot;font-size: 9px&quot;&gt;2. 定义各个数据中心依赖&lt;br&gt;3. 定义初始化DDL/DML脚本并自动校验执行&lt;br&gt;&lt;/font&gt;" style="shape=document;html=1;boundedLbl=1;fontColor=#00CC00;strokeColor=#00CC00;strokeWidth=3;fillColor=none;align=left;fontSize=9;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="265" y="196" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
