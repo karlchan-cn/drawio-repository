@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T11:22:57.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="l2_dHOokH0Nr9uLe6s3r" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T06:17:33.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="G-DZDAXx5zt10hlmcQpW" version="16.4.7" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1422" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="7" value="抽象策略需求" style="" parent="2" vertex="1">
           <mxGeometry x="40" y="140" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="构建策略模板树" style="fontColor=#00CC00;" parent="2" vertex="1">
+        <mxCell id="8" value="构建策略模板树&#xa;（上图绿色部分）" style="fontColor=#00CC00;" parent="2" vertex="1">
           <mxGeometry x="40" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" target="8" edge="1">
@@ -60,7 +60,7 @@
         <mxCell id="mSakcA1AUA2T8X-hf3nH-39" value="根据策略ID&#xa;打开策略模板树" style="" vertex="1" parent="mSakcA1AUA2T8X-hf3nH-31">
           <mxGeometry x="40" y="340" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mSakcA1AUA2T8X-hf3nH-41" value="选择可编辑维度,&#xa;新增/修改纬度值" style="fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);" vertex="1" parent="mSakcA1AUA2T8X-hf3nH-31">
+        <mxCell id="mSakcA1AUA2T8X-hf3nH-41" value="选择可编辑维度,&#xa;新增/修改纬度值&#xa;(下图绿色部分)" style="fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=#00CC00;" vertex="1" parent="mSakcA1AUA2T8X-hf3nH-31">
           <mxGeometry x="40" y="470" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mSakcA1AUA2T8X-hf3nH-52" value="异步同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mSakcA1AUA2T8X-hf3nH-31">
@@ -136,7 +136,7 @@
         <mxCell id="mSakcA1AUA2T8X-hf3nH-63" value="资源位" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="790" y="-210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mSakcA1AUA2T8X-hf3nH-65" value="node_type:object&lt;br&gt;node_key_type:&lt;font color=&quot;#ff3333&quot;&gt;string&lt;/font&gt;&lt;br&gt;sub_node_key_type:ref(owner_id)&lt;br&gt;sub_node_value_type:int&lt;br&gt;sub_node_key_desc:string&lt;br&gt;sub_node_value_desc:string&lt;br&gt;sub_node_value_validator:ReExp" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="mSakcA1AUA2T8X-hf3nH-65" value="node_type:object&lt;br&gt;node_key_type:&lt;font color=&quot;#ff3333&quot;&gt;string&lt;/font&gt;&lt;br&gt;field_key_type:ref(owner_id)&lt;br&gt;field_value_type:int&lt;br&gt;field_key_desc:string&lt;br&gt;field_value_desc:string&lt;br&gt;field_value_validator:ReExp" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="-160" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mSakcA1AUA2T8X-hf3nH-67" value="node_type:object&lt;br&gt;sub_node_key_type:ref(pos_id)&lt;br&gt;sub_node_value_type:&lt;font color=&quot;#ff3333&quot;&gt;repeated int&lt;/font&gt;&lt;br&gt;sub_node_key_desc:string&lt;br&gt;sub_node_value_desc:string&lt;br&gt;sub_node_value_validator:ReExp" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
             <mxPoint x="840" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSakcA1AUA2T8X-hf3nH-72" value="node_type:kv&lt;br&gt;node_key_type:string&lt;br&gt;node_value_type:&lt;font color=&quot;#ff3333&quot;&gt;int&lt;/font&gt;&lt;br&gt;node_key_desc:string&lt;br&gt;node_value_desc:int&lt;br&gt;node_value_validator:ReExp" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="mSakcA1AUA2T8X-hf3nH-72" value="node_type:int&lt;br&gt;node_key_type:string&lt;br&gt;node_value_type:&lt;font color=&quot;#ff3333&quot;&gt;int&lt;/font&gt;&lt;br&gt;node_value_validator:ReExp" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="580" y="-160" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mSakcA1AUA2T8X-hf3nH-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF3333;strokeWidth=2;" edge="1" parent="1" source="mSakcA1AUA2T8X-hf3nH-75" target="mSakcA1AUA2T8X-hf3nH-78">
@@ -234,8 +234,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSakcA1AUA2T8X-hf3nH-103" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;owner_id&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;100204&quot;:5,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;100205&quot;:8&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ratio&quot;:10,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;positions&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;1&quot;:10,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;7&quot;:5&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="820" y="705" width="270" height="210" as="geometry" />
+        <mxCell id="mSakcA1AUA2T8X-hf3nH-103" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00cc00&quot;&gt;//运行时的value&lt;/font&gt;&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;owner_id&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;100204&quot;:5,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;100205&quot;:8&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;ratio&quot;:10,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;positions&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;1&quot;:10,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;7&quot;:5&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="820" y="680" width="270" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
