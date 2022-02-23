@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T03:53:18.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VpgBfSAzUYEzA3sBCjQT" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T04:14:07.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="p6AGbdoNKqB-ELYrQGaC" version="16.5.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2248" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -110,8 +110,14 @@
         <mxCell id="fIHSXyvkr7CKKRP50xWv-124" value="&lt;h1&gt;动态配置列表&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;pingfang sc, helvetica, tahoma, arial, hiragino sans gb, microsoft yahei, simsun, heiti, sans-serif&quot;&gt;search_ocpx.json&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-70" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIHSXyvkr7CKKRP50xWv-127" value="试验号决策" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-133" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="fIHSXyvkr7CKKRP50xWv-127" target="fIHSXyvkr7CKKRP50xWv-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-127" value="试验号选择" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="-240" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-132" value="&lt;h1&gt;动态配置列表&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;pingfang sc, helvetica, tahoma, arial, hiragino sans gb, microsoft yahei, simsun, heiti, sans-serif&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;gateway.experiment.search&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="520" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
