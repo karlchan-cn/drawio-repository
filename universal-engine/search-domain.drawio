@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T10:02:03.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="AnENVIryR1q4-5kR141W" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T02:15:46.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="onYcF4js4SizrsK8F7SM" version="16.5.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
           <mxGeometry x="436" y="1645" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fIHSXyvkr7CKKRP50xWv-201" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-119" y="1846" width="786" height="278" as="geometry" />
+          <mxGeometry x="-100" y="1846" width="748" height="452" as="geometry" />
         </mxCell>
         <mxCell id="fIHSXyvkr7CKKRP50xWv-202" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;元数据中心&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="207" y="1850" width="134" height="30" as="geometry" />
@@ -293,6 +293,27 @@
         </mxCell>
         <mxCell id="fIHSXyvkr7CKKRP50xWv-214" value="内容渠道" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="482" y="1970" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-215" value="落地页能力" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="482" y="2053" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-216" value="下载能力" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="-77" y="2136" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-217" value="OCPX元数据" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="110" y="2136" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-218" value="关键词调整能力" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="296" y="2136" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-220" value="召回能力" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="482" y="2136" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-221" value="预取能力" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="-77" y="2219" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIHSXyvkr7CKKRP50xWv-222" value="实时能力" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="113" y="2219" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
