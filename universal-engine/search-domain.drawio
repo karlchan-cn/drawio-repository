@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T08:23:05.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YaXS305nWrDH2E-c2vTI" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T08:51:01.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="F9RrpowetQz3T6aDykeX" version="16.6.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1822" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -384,6 +384,15 @@
         <mxCell id="fIHSXyvkr7CKKRP50xWv-249" value="&lt;ul&gt;&lt;li&gt;策略缓存按需加载&lt;/li&gt;&lt;li&gt;计算命中策略&lt;/li&gt;&lt;li&gt;策略排序&lt;/li&gt;&lt;li&gt;策略指标/能力应用&lt;/li&gt;&lt;li&gt;策略上报&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="436" y="3317" width="182" height="112" as="geometry" />
         </mxCell>
+        <mxCell id="T-LG99AsrfYSBy4o_uD9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-LG99AsrfYSBy4o_uD9-16" target="T-LG99AsrfYSBy4o_uD9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-LG99AsrfYSBy4o_uD9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-LG99AsrfYSBy4o_uD9-16" target="T-LG99AsrfYSBy4o_uD9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-LG99AsrfYSBy4o_uD9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-LG99AsrfYSBy4o_uD9-16" target="T-LG99AsrfYSBy4o_uD9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T-LG99AsrfYSBy4o_uD9-16" value="ad-redis.oppo.local" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="68" y="3805" width="210" height="105" as="geometry" />
         </mxCell>
@@ -413,6 +422,12 @@
         </mxCell>
         <mxCell id="T-LG99AsrfYSBy4o_uD9-23" value="Serving(连云)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-302.25" y="3985" width="254.5" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="T-LG99AsrfYSBy4o_uD9-27" value="redis访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11" y="3772" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-LG99AsrfYSBy4o_uD9-32" value="CNAME映射" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3767" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
