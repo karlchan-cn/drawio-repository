@@ -1,9 +1,12 @@
-<mxfile modified="2022-03-24T12:11:31.790Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ZJyOb-bRhf62gwOQgE4h" version="17.2.1" type="github" pages="3">
+<mxfile modified="2022-03-24T13:45:56.640Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="nHCBhGqBWib2FRmHebdv" version="17.2.1" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AE8LTrn44UM5D20SRycZ-634" value="" style="fillColor=none;strokeColor=default;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="810" width="570" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-632" value="" style="fillColor=none;strokeColor=default;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="560" width="250" height="440" as="geometry" />
         </mxCell>
@@ -167,6 +170,14 @@
         <mxCell id="AE8LTrn44UM5D20SRycZ-569" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;strokeColor=#4284F3;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="AE8LTrn44UM5D20SRycZ-552" target="AE8LTrn44UM5D20SRycZ-568" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="AE8LTrn44UM5D20SRycZ-570" target="UenqhBxCQtRhmMlYFGFT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-4" value="内容demo&lt;br&gt;首行版本号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="UenqhBxCQtRhmMlYFGFT-3">
+          <mxGeometry x="-0.1284" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-570" value="app-prod-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1400" y="947.5" width="120" height="25" as="geometry" />
         </mxCell>
@@ -203,70 +214,100 @@
           <mxGeometry x="172.88" y="680" width="107.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-619" value="安装目录" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="1200" width="300" height="291.25" as="geometry" />
+          <mxGeometry x="1230" y="1200" width="300" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="AE8LTrn44UM5D20SRycZ-620" target="UenqhBxCQtRhmMlYFGFT-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-620" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="1242.5" width="75.5" height="20" as="geometry" />
+          <mxGeometry x="1234.5" y="1241" width="75.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-621" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" parent="1" source="AE8LTrn44UM5D20SRycZ-624" target="AE8LTrn44UM5D20SRycZ-626" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1377.5" y="1334.25" />
-              <mxPoint x="1443.5" y="1334.25" />
+              <mxPoint x="1377.5" y="1485.25" />
+              <mxPoint x="1443.5" y="1485.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-622" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" parent="1" source="AE8LTrn44UM5D20SRycZ-624" target="AE8LTrn44UM5D20SRycZ-627" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1338" y="1375.5" />
+              <mxPoint x="1338" y="1526.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-623" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fontColor=#009900;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" parent="1" source="AE8LTrn44UM5D20SRycZ-624" target="AE8LTrn44UM5D20SRycZ-628" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1338" y="1414.5" />
+              <mxPoint x="1338" y="1565.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-624" value="conf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="1292.5" width="75.5" height="20" as="geometry" />
+          <mxGeometry x="1300" y="1443.5" width="75.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-625" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;strokeColor=#4284F3;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="AE8LTrn44UM5D20SRycZ-620" target="AE8LTrn44UM5D20SRycZ-624" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-626" value="app-prod-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1320" width="120" height="25" as="geometry" />
+        <mxCell id="AE8LTrn44UM5D20SRycZ-626" value="prod_app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="1471" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-627" value="app-test-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1362.5" width="120" height="25" as="geometry" />
+        <mxCell id="AE8LTrn44UM5D20SRycZ-627" value="test_app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="1513.5" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-628" value="app-dev-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1402.25" width="120" height="25" as="geometry" />
+        <mxCell id="AE8LTrn44UM5D20SRycZ-628" value="dev_app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="1553.25" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-630" value="软链" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;fontColor=#009900;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" parent="1" source="AE8LTrn44UM5D20SRycZ-629" target="AE8LTrn44UM5D20SRycZ-626" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1530" y="1464.25" />
-              <mxPoint x="1530" y="1332.25" />
+              <mxPoint x="1530" y="1615.25" />
+              <mxPoint x="1530" y="1483.25" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-629" value="app-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1451.25" width="120" height="25" as="geometry" />
+        <mxCell id="AE8LTrn44UM5D20SRycZ-629" value="app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="1602.25" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-633" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot;&gt;P0需求&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="794.13" y="540" width="41.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-634" value="" style="fillColor=none;strokeColor=default;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="810" width="570" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-635" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot;&gt;P0需求&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+        <mxCell id="AE8LTrn44UM5D20SRycZ-635" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot;&gt;P1需求&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="1240" y="780" width="41.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-636" value="&lt;font color=&quot;#9e9e9e&quot; face=&quot;helvetica&quot;&gt;读取/etc/cloud_env&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1545" y="1385.25" width="105" height="22.75" as="geometry" />
+          <mxGeometry x="1550" y="1330" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-1" value="version: 1.2.1&lt;br&gt;xxx:&amp;nbsp;&lt;br&gt;&amp;nbsp;- 1&lt;br&gt;&amp;nbsp;- 3" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1403" y="740" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-6" value="bin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1272" width="75.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="UenqhBxCQtRhmMlYFGFT-9" target="AE8LTrn44UM5D20SRycZ-636">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1446" y="1345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-16" value="安装软链" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="UenqhBxCQtRhmMlYFGFT-9" target="AE8LTrn44UM5D20SRycZ-626">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="1373" />
+              <mxPoint x="1560" y="1477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-9" value="install.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1385.5" y="1360" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-10" value="start.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1385.5" y="1404" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UenqhBxCQtRhmMlYFGFT-11" value="deplay.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1385.5" y="1310" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -383,7 +424,7 @@
           <mxGeometry x="334.5" y="250" width="26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cmR0M2w6-fhWL8Qhlz7A-0" value="&lt;font face=&quot;helvetica&quot;&gt;1. 三环境配置修改&lt;br&gt;2. 根据/etc/cloud_env以及start.sh脚本启动服务&lt;br&gt;3. 服务启动对配置中心无依赖&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="Xc2cF77wQMKxna-Gk_nH-1">
-          <mxGeometry x="840" y="382.25" width="120" height="97.75" as="geometry" />
+          <mxGeometry x="810" y="630" width="120" height="97.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
