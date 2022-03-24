@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-24T07:52:29.588Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="O35QQRL4mJva-m31l2_O" version="17.1.5" type="github">
+<mxfile modified="2022-03-24T07:53:54.759Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="VlYamoyn-040B2odUeiJ" version="17.1.5" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="AE8LTrn44UM5D20SRycZ-576" value="仓库目录" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="827.5" width="300" height="241.25" as="geometry" />
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-537" value="&lt;b&gt;APP非灰度节点&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
+        <mxCell id="AE8LTrn44UM5D20SRycZ-537" value="&lt;b&gt;APP正式节点&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="972.5" width="480" height="126.25" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-585" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;endArrow=classic;endFill=1;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="AE8LTrn44UM5D20SRycZ-530" target="AE8LTrn44UM5D20SRycZ-576">
@@ -123,8 +123,8 @@
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-547" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=9;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1140" as="sourcePoint" />
-            <mxPoint x="440" y="780" as="targetPoint" />
+            <mxPoint x="438" y="1140" as="sourcePoint" />
+            <mxPoint x="438" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-544" value="&lt;font style=&quot;font-size: 9px&quot;&gt;配置文件&lt;/font&gt;" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_filestore" vertex="1" parent="1">
