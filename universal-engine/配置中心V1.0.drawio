@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-24T12:05:24.671Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="8Dc7nvLaUv5ICuriJWL9" version="17.2.1" type="github" pages="3">
+<mxfile modified="2022-03-24T12:11:31.790Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ZJyOb-bRhf62gwOQgE4h" version="17.2.1" type="github" pages="3">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -381,6 +381,9 @@
         </mxCell>
         <mxCell id="KWovQWPzQAgsjp7BVI3q-0" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="Xc2cF77wQMKxna-Gk_nH-1">
           <mxGeometry x="334.5" y="250" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cmR0M2w6-fhWL8Qhlz7A-0" value="&lt;font face=&quot;helvetica&quot;&gt;1. 三环境配置修改&lt;br&gt;2. 根据/etc/cloud_env以及start.sh脚本启动服务&lt;br&gt;3. 服务启动对配置中心无依赖&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="Xc2cF77wQMKxna-Gk_nH-1">
+          <mxGeometry x="840" y="382.25" width="120" height="97.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
