@@ -1,9 +1,12 @@
-<mxfile modified="2022-03-24T07:54:06.578Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="YSpAFXF-wm4YU_qMDQJB" version="17.1.5" type="github">
+<mxfile modified="2022-03-24T08:28:43.520Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="noDW9aXUPnHVkcEXE0bx" version="17.1.5" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AE8LTrn44UM5D20SRycZ-632" value="" style="fillColor=none;strokeColor=default;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="560" width="250" height="440" as="geometry" />
+        </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-631" value="安装" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;fontColor=#009900;endArrow=classic;endFill=1;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="AE8LTrn44UM5D20SRycZ-576" target="AE8LTrn44UM5D20SRycZ-619">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -173,7 +176,7 @@
         <mxCell id="AE8LTrn44UM5D20SRycZ-574" value="app-dev-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1029.75" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-581" value="多人交叉审核配置修改" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;endArrow=classic;endFill=1;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="AE8LTrn44UM5D20SRycZ-577" target="AE8LTrn44UM5D20SRycZ-506">
+        <mxCell id="AE8LTrn44UM5D20SRycZ-581" value="配置中心格式检查+&lt;br&gt;多人交叉审核配置内容" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;endArrow=classic;endFill=1;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="AE8LTrn44UM5D20SRycZ-577" target="AE8LTrn44UM5D20SRycZ-506">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-577" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
@@ -252,9 +255,6 @@
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-629" value="app-conf.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1451.25" width="120" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="AE8LTrn44UM5D20SRycZ-632" value="" style="fillColor=none;strokeColor=default;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="560" width="250" height="440" as="geometry" />
         </mxCell>
         <mxCell id="AE8LTrn44UM5D20SRycZ-633" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot;&gt;P0需求&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="794.13" y="540" width="41.75" height="20" as="geometry" />
