@@ -1,6 +1,6 @@
-<mxfile modified="2022-03-24T09:55:52.432Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="JrthME7k2N_WHls2V9XC" version="17.1.5" type="github" pages="2">
-  <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+<mxfile modified="2022-03-24T11:17:42.967Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="LGdatMIbsRq9BRYrnHyt" version="17.1.5" type="github" pages="3">
+  <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
+    <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="JauirINM07sfuQy9O_C1" name="Page-2">
+  <diagram id="JauirINM07sfuQy9O_C1" name="研发流程">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="O7FoYRUvHxGpD1PqUULq-0" />
@@ -297,6 +297,14 @@
         <mxCell id="O7FoYRUvHxGpD1PqUULq-96" value="配置更新与灰度" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="O7FoYRUvHxGpD1PqUULq-1">
           <mxGeometry x="880" y="380" width="115" height="115" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3tob7_4wUzieDE24oawT" name="研发编码">
+    <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="Xc2cF77wQMKxna-Gk_nH-0" />
+        <mxCell id="Xc2cF77wQMKxna-Gk_nH-1" parent="Xc2cF77wQMKxna-Gk_nH-0" />
       </root>
     </mxGraphModel>
   </diagram>
