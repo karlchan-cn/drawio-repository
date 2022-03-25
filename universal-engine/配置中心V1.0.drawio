@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-25T08:29:23.931Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="SFEw4Vma5VQiroKO7lAq" version="17.2.2" type="github" pages="6">
+<mxfile modified="2022-03-25T08:37:35.323Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Z75tHM204aNrMBbkzxbt" version="17.2.2" type="github" pages="6">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -433,10 +433,12 @@
         <mxCell id="r7pq-K3jZidU4_F4aYZP-17" value="bin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1272" width="75.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r7pq-K3jZidU4_F4aYZP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" parent="1" source="r7pq-K3jZidU4_F4aYZP-20" edge="1">
+        <mxCell id="r7pq-K3jZidU4_F4aYZP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#4284F3;strokeWidth=2;" parent="1" source="r7pq-K3jZidU4_F4aYZP-20" edge="1" target="r7pq-K3jZidU4_F4aYZP-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1456" y="1345" />
+              <mxPoint x="1530" y="1345" />
+              <mxPoint x="1530" y="1220" />
             </Array>
             <mxPoint x="1560" y="1345" as="targetPoint" />
           </mxGeometry>
@@ -461,7 +463,7 @@
           <mxGeometry x="1395.5" y="1310" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="r7pq-K3jZidU4_F4aYZP-23" value="&lt;font color=&quot;#9e9e9e&quot; face=&quot;helvetica&quot;&gt;读取/etc/cloud_env&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="1330" width="105" height="30" as="geometry" />
+          <mxGeometry x="1397.5" y="1204" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
