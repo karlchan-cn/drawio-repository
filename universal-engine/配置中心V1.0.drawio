@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-06T03:14:43.317Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="LyqlG_eoVoLMpzWipxru" version="17.4.0" type="github" pages="11">
+<mxfile modified="2022-04-06T03:29:41.404Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="_gXoqcyVeNNptAdSsmGR" version="17.4.0" type="github" pages="11">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1695,6 +1695,35 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="dxjmNkvKApdTaAX2WCoX" name="配置版本关联">
+    <mxGraphModel dx="1422" dy="32" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sphUIMVV9DMazP8DFWlB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1430" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sphUIMVV9DMazP8DFWlB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1245" width="140" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="sphUIMVV9DMazP8DFWlB-1" value="app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99C147;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1260" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sphUIMVV9DMazP8DFWlB-2" value="app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99C147;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1310" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sphUIMVV9DMazP8DFWlB-3" value="app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99C147;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1360" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sphUIMVV9DMazP8DFWlB-4" value="app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#336AAC;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1460" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sphUIMVV9DMazP8DFWlB-5" value="app.yaml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#336AAC;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1510" width="120" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="-NZo5fVr_VQIM3BsnNU6" name="可视化运维备份">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1796,14 +1825,6 @@
         <mxCell id="hlSE8EKiuJWzOJlB-pkz-25" value="&lt;font color=&quot;#9e9e9e&quot; face=&quot;helvetica&quot;&gt;&amp;gt;start.sh --version&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="150" y="750" width="107.12" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="dxjmNkvKApdTaAX2WCoX" name="配置版本关联">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
