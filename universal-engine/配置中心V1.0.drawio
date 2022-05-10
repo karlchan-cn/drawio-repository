@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-10T04:36:20.636Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="e9AE7LdjWf03OE2-a_WC" version="18.0.2" type="github" pages="13">
+<mxfile modified="2022-05-10T06:54:34.162Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wot65x3tFPgNnYzzcqjT" version="18.0.2" type="github" pages="13">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1879,7 +1879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J0fu4OuxEr59xUXrHz28" name="配置SDK V0.1">
-    <mxGraphModel dx="3622" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3697" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2090,6 +2090,14 @@
         </mxCell>
         <mxCell id="6HAxLdMwwuhOXKNevK4D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#FF3333;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="FbahNoG4D066ZQvajQ_W-24" target="6HAxLdMwwuhOXKNevK4D-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6HAxLdMwwuhOXKNevK4D-30" value="配置制品" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="1" source="FbahNoG4D066ZQvajQ_W-24" target="6HAxLdMwwuhOXKNevK4D-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1012" y="500" />
+              <mxPoint x="-830" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FbahNoG4D066ZQvajQ_W-24" value="&lt;font&gt;Agent分发&lt;/font&gt;" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;fontColor=#FF3333;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1075" y="440.63" width="125" height="38.75" as="geometry" />
