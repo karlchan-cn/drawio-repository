@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-10T04:34:39.464Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="y4HZCyYHnsrO-keyhSbY" version="18.0.2" type="github" pages="13">
+<mxfile modified="2022-05-10T04:34:50.553Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HJzh6QiXTlsIhB_XIJ7S" version="18.0.2" type="github" pages="13">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2148,7 +2148,7 @@
         <mxCell id="6HAxLdMwwuhOXKNevK4D-27" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案二-必须重启,上线最少1~2小时&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="160" width="520" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6HAxLdMwwuhOXKNevK4D-28" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案二-无需服务重启,需要云平台增加Agent分发配置(云平台:改造大)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="6HAxLdMwwuhOXKNevK4D-28" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案二-无需服务重启,需要云平台增加Agent分发配置&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="590" width="520" height="120" as="geometry" />
         </mxCell>
       </root>
