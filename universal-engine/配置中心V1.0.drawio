@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-10T04:34:50.553Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HJzh6QiXTlsIhB_XIJ7S" version="18.0.2" type="github" pages="13">
+<mxfile modified="2022-05-10T04:36:20.636Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="e9AE7LdjWf03OE2-a_WC" version="18.0.2" type="github" pages="13">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2016,7 +2016,7 @@
           <mxGeometry x="-780" y="35.95" width="240" height="174.05" as="geometry" />
         </mxCell>
         <mxCell id="FbahNoG4D066ZQvajQ_W-1" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案一-配置中心Agent分发&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-1310" y="-319.99" width="370" height="50" as="geometry" />
+          <mxGeometry x="-1310" y="-320" width="670" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FbahNoG4D066ZQvajQ_W-3" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案二-持续交付流水线 + 云原生&amp;nbsp;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="20" width="450" height="50" as="geometry" />
@@ -2148,8 +2148,11 @@
         <mxCell id="6HAxLdMwwuhOXKNevK4D-27" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案二-必须重启,上线最少1~2小时&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="160" width="520" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6HAxLdMwwuhOXKNevK4D-28" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案二-无需服务重启,需要云平台增加Agent分发配置&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="6HAxLdMwwuhOXKNevK4D-28" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案三-无需服务重启,需要云平台增加Agent分发配置&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="590" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6HAxLdMwwuhOXKNevK4D-29" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot; style=&quot;font-size: 30px;&quot;&gt;方案一-&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 153, 0); font-family: helvetica;&quot;&gt;已与配置中心对齐&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="-170" width="520" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
