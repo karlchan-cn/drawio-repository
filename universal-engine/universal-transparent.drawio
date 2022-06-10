@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T02:33:44.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="8NZOkxEEaH8WkNE1Ew3L" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T06:38:06.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="glnXM51n0F61War7qDne" version="19.0.0" type="github">
   <diagram id="5oWeMIHYimpNjEYFYi9c" name="信息流效果集合品牌SDK">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,6 +114,9 @@
         </object>
         <mxCell id="68UAQQjrMY6dqDlBcahg-28" value="read creativeTransparent" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeWidth=2;exitX=1;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="68UAQQjrMY6dqDlBcahg-24" target="68UAQQjrMY6dqDlBcahg-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="68UAQQjrMY6dqDlBcahg-29" value="测试点:&lt;br&gt;1. 浏览器开屏支持召回效果广告(历史功能)&lt;br&gt;2. 实验支持双通道数据上报功能(测试100%实验配置)&lt;br&gt;3. 召回的信息流广告,支持双通道数据上报(曝光+点击)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="425" width="220" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
