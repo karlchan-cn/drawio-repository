@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T07:49:44.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EZBeOBMP7U6MRhrXiWmS" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-01T07:52:08.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BHbgog7YjbSinp0xjBLt" version="20.0.4" type="github" pages="8">
   <diagram id="6dQ7-a586Rl9UVJy2Ls_" name="Context">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -470,6 +470,9 @@
         </mxCell>
         <mxCell id="sinFJTNTF06DDttfLTiC-11" value="External Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#8B8496;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
           <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-12" value="只消费商业化消息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-140" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
