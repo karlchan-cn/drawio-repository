@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T07:48:27.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="J9mllrzT-4afvLIMq0IF" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-01T07:49:44.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EZBeOBMP7U6MRhrXiWmS" version="20.0.4" type="github" pages="8">
   <diagram id="6dQ7-a586Rl9UVJy2Ls_" name="Context">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -447,6 +447,30 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="sinFJTNTF06DDttfLTiC-4" value="Legend" style="align=left;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;fontColor=#4D4D4D;spacingTop=-8;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-5" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;align=left;spacingLeft=10;strokeColor=none;rounded=1;arcSize=11;fontColor=#FFFFFF;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-6" value="Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#1E4074;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-7" value="Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#3162AF;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-8" value="Container" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#52A2D8;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-9" value="Component" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#7CBEF1;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-10" value="External Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#6B6477;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-11" value="External Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#8B8496;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
