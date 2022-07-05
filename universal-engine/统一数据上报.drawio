@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:55:05.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5HYh97tt-Sh0VRjcciIV" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:56:11.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zjy3QigziS-ZDTGx99c2" version="20.0.4" type="github" pages="2">
   <diagram id="aJgjSPVNpbIEY2sJiBNT" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="KUPyvud-g7VJleF3JgOH-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="230" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="KUPyvud-g7VJleF3JgOH-8" value="PRICE:1.7&lt;br&gt;STRATEGY:v1.2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KUPyvud-g7VJleF3JgOH-8" value="PRICE:1.7&lt;br&gt;STRATEGY:v1.2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KUPyvud-g7VJleF3JgOH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KUPyvud-g7VJleF3JgOH-9" target="KUPyvud-g7VJleF3JgOH-22">
@@ -63,10 +63,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KUPyvud-g7VJleF3JgOH-9" value="PRICE:1.6&lt;br&gt;STRATEGY:v1.2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KUPyvud-g7VJleF3JgOH-9" value="PRICE:1.6&lt;br&gt;STRATEGY:v1.2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KUPyvud-g7VJleF3JgOH-10" value="PRICE:1.5&lt;br&gt;STRATEGY:v1.2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KUPyvud-g7VJleF3JgOH-10" value="PRICE:1.5&lt;br&gt;STRATEGY:v1.2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KUPyvud-g7VJleF3JgOH-13" value="下发" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
@@ -84,7 +84,7 @@
         <mxCell id="KUPyvud-g7VJleF3JgOH-18" value="100~200亿" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="130" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KUPyvud-g7VJleF3JgOH-22" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KUPyvud-g7VJleF3JgOH-22" value="join cache" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KUPyvud-g7VJleF3JgOH-23" value="问题:&lt;br&gt;1. 响应包体大-出入口的带宽成本&lt;br&gt;2. 用户-消耗&lt;br&gt;3. 被浏览器Get拒绝-8000Byte(UTF-8)&lt;br&gt;4. 按需增长,不可控制" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
