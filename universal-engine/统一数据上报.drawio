@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:44:49.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="q8OcF6U8qW00IK0fCYeJ" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:46:15.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LqUSye7Xgh9p2u5FELs_" version="20.0.4" type="github" pages="2">
   <diagram id="aJgjSPVNpbIEY2sJiBNT" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         <mxCell id="KUPyvud-g7VJleF3JgOH-24" value="1. 95%+ 1~4小时就完成使用&lt;br&gt;2.&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="570" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KUPyvud-g7VJleF3JgOH-25" value="1. 现状都是使用维表关联-维表数据量比较小&lt;br&gt;2. join cache 使用怎样中间件承载-&lt;br&gt;3.&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="KUPyvud-g7VJleF3JgOH-25" value="1. 现状都是使用维表关联-维表数据量比较小&lt;br&gt;2. join cache 使用怎样中间件承载-&lt;br&gt;3. cache数据需要业务写入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-100" y="790" width="360" height="160" as="geometry" />
         </mxCell>
       </root>
