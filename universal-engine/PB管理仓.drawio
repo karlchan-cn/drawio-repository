@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T07:23:17.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wVzaDQYkqJJs9YSfTSaV" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T07:38:58.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ehDlDpN_GF4we43QcxGV" version="20.2.1" type="github">
   <diagram id="PrcVy_qIDNZo11KBOe-M" name="PB仓库打包文件测试">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
