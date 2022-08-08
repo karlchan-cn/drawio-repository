@@ -1,1 +1,415 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T08:47:04.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YNjtn9gCVJVsKeeNwhd4" version="20.2.3" type="github" pages="8"><diagram id="6dQ7-a586Rl9UVJy2Ls_" name="Context">7Z1bd5u4Fsc/DY/JQmBuj+BLZ6YnU3ecnjNzXs4itmLTYnAxiZP59LO3kDA3A74c20lI21XYSEKA+OmvrS0iqf3ly6fIXS3uwhn1JUWevUjqQFIU0lMUCf/Ks9fEYprcMI+8GU+0NUy8vyk3ytz65M3oOpcwDkM/9lZ54zQMAjqNczY3isJNPtlj6OfPunLntGSYTF2/bP2PN4sX3EpkeXvgF+rNF/zUpsYPLF2RmBvWC3cWbjImdSip/SgM42Rr+dKnPt48cV+SfKMdR9OKRTSIKzKED9/xfkAK353SBVw3jQq3rPe7u+SXKQ01ybEkZ4QbFpFMWxr2JMeUHEckvn9d8cT2DAxfNgGNxLEBXU8jbxV7YSDK07EMS8MNC0oajp/Wi6qzNJzXdx+gRSVlKroPV+o8hgFe1zp+5Q9J//kUigM3a9aEbEhA9NXL9iBszfn/rJSHrUHjd0LRxEG4iw/FDGBLzpw3z7zn1KQlhbE7BYVpg0zebDpRhaiusH2vltRdLS9lGvphlCtFUtQp+6nKq+WfbO7+VN2L4mUqmfb6/cf/Ppu9wdj++rPfW3/777fPyvyGpO9B2r63F6os4iU+esLrz+FAcH/mrhcUS5ZhZ7PwYrpeQTMHwwY4hBk83++nV6vKpjoyNLCv4yj8QbNHdJVofX6KjP2R/WCOhcsa/vJljoi7nfZuV/AqhQHU3HF9b45NfgovIbwOqrOksTuceTGv9yr0gpi9dho2D/kWbmFfZv+wdfTBRnCP2/M2I2/kBlIwVtmUCmNlkflzw1/ViSg0KveBPQQ5fYxZznB+PNMopi8ZE3+Qn2gIdyF6hST8qEDgZktQRQB0kYEnMbnR5aSap0VtwQYbvLGIXY66g7AHmLIk02GY6ksO4MdA9pgmbtiOZI9wAwhmmywxkMkoE3HMGkQ9DYeSndJQ30XD6lN1EHzPEFQ6CH4kCHIhrFlXC0V4SkhBFUGY4NAacVmW6jOOTMCUwW6k/IUhrUTGPjQo1wOpOJmGK+qET8HM5VWvIqXgIghHU+ensphKNPt4tr3qdTZ2ZrhVUSq0j/iGvyNYrE8f4x2gKRO4Aob7cvm4Ku1k336QU2shh/WBcjKsyyMqCANa4Bk3CfawK1AdfB09GL3Z3ByHK8HGSZ6NETbFlJ4FYrm+H25sMXyUC0AgLHvsxhlA8PFnxhLR6VO09p7pHzRpUsxKX1ZuIM7KwEij4TNN+JjasrBUyrSsImiKtTJClSquXgVrMzYlD+ATAJfkgWuaFcDVK4DbOzNvv6xWoTQEzslMIVooAaGuXB2qDH4jyZGrBuKsva+9YA5H7tzAndMlZXCbvK5juqxRpGXGAjwBrQN2Phi6O1V1Ko7qd9WyU6zvWbH2amG+JSvZwd4M51lDcdzpjznLVgN8uGQi68SRa2RqSYm60VQoZrlS+A402SLlDqCo/zoqMyqnI45tFy28osppoK2pBZmsl6Hdq1LJylmovWXvH9R38fVaL7xVo5y1h1zFAk+huZUxCrecJxsyI6hbHbELKtYcbeUvJoOjimT3MlBOhC9jsUnQjZGWv4vFx+rC/Urhb2NLpu9EVxXa9+OWVsstGsyY5IO9Bz+c/rhfeEEeVtkBeAWGejL+Kb0ZmBPKHnl+tbiFnKaCfzCd/8AqIHRsmUxQkqhCjxXlRnHW8P1puZrwiwL6CQtPoZeUL53NqUgfRvEinIeB6w+3VjgjvEZ/iuS48xfu3Gpid/CSPTh4ze6NaeTBFSCMuf71YlbWrWVpfD8pTtcJ39+WhzuvmZ1iaTuBsw6foimtaQpiLsmN5jRu6uoUGe9SLb6q+BQxRDznZ5Kq+MSLG2Mns0WhWhCwVoFwyTXyTNmZokI5mlZfTnIPSuUwWKZXeHrVm7CxNJ4vgZY7FuQJjZ4Todugbe/6EwZHjblWYUNlQjXjgsUNk+FVRmImvl9TKF+bdBr2/WtY/UIa1uybPUs/pYY1VN1gnUenYc/lWdD0PFJ1XTubTC1FAlQ2b+79fHb9J+HWTTrGbRsXGuNf2HzH4drjCH0I4zhc5pt4tV+t1FQbvXY45JKd4Qiba3FOwf37KaK3y/DBY7Kj6Bwjp3l2OtHyj67CLWRUPDlj/wd3/IDink4XAdy6Oa/sb5Mvv8NJ7vvjnb2f6C7v6HqNsS3l7u5jDQpOVCvRv24fSItedu9OyeoGKMcMUMgpByi5wYkYqpxjaKK3HJqI4cElxiaE9PIY1cT+vqMTopoNJV1mfMJGEaVYkLILPphFIbzTimyPAcqjcRROgbz1g5NyiImJYxWLDYNsNonZjUDe/QiEyFId7bshSDcEqZvcVC43BDm9sHVXcEiGaixCZKkXPEMD2wnRb7+irMUoYRZaZ43Qx9PJ2quVtaQ++qPTtR9C1wq92ihsjcvpWsPIU1UrwrK1rJVJQ0nnlLUHTVvqOAdpJrHIhKlUsLAoD5CrtoGHcD4SNhSMAUHnORO2lZOUSn/mrX1PQP3DcLqZjfWO6I6NZ5yUFBOQSVHGOeGoXD8b0+jklGjKrWUehkeNkOuhY2lSMuEcyQVgOH0RsKGiQ7XsCEDdKpyvw2DuBbv165fGMOe2Neg8BO/aQ2BcyEPQBdq9+0C7kkBVReTdlTgQ6hcnJwJzkA9EboPoyQK0TCOh28VHF9agyO2r1XH7XXPb7LjdcftM3NavC9sHBTTcfa0ncZ8FMBi4PjvpBcpfkbBk1M5AWaCv/dEin9+UNzjXwDuPx0U8Hoc7KnotHRXEvJynIo3p4pRR1AO9uJbSUND1OHGLZB3ji/nL/f3uSLEqL4OJfl7HYIeIJL7V1HH0Kjnazaodx1EUbxmUprNsh61nUXLLWaQzzqsZbwDJpGkVSuuJNaUQe00uuZ5l7ygHH16DBEyjl5vNZnPzGEbLm6fIp8E0xGbc6DM2B8KdMMClKl1871tCdrcC8Uhk54i9ZfRBxM4C+5xrD5W2Eb76BXld1NBqcQFEa2AbRUezfkFgF+f6FHkw+Vym+WSQGneRuLRoUETzpnk7J+97dvIq3QrCD+rk3Un+I1YQXtvs2+mdDVVOW9PET12g14EwCauxOTLGVMfGGbROy16vlq2f5Oq0bKOWNU4pZo3j1Gxu4uoIX4TZ1hdxwUA2omon8g+T9CueezqI4dVwXzPJeM+6u8qkeCLef+ysWUMG2EjqcC2+kd/cZ1fCVXS/7uxDQFjjYVwsJ2MsRvq15K6XuNpeQu0m+w7qJSojks+6WqOtV1m5pJfCKvgWSuq4LckB5Q0lXcZLUdbN9xGOItuGuyWpW8W7VcRUjNj3lNMVHmm8m4mfqsPvJPXR7Wwr4qN2Q1wXgkaRAFndw7ydQ+TdO0RU5UIOkS7q7e07RIrf/Xzb/pBP0GO2iL6wHJzEQz+Ihr+GpGo1Hac9W3Bn6/wry0jb9KOf6ffv2Uc/u9C3q1bDXcjGKef/jozYuFTARltlrSqXU9ZFHve0A4V1cUV1qaATeUj0gn7XSb2DpCH99flHGiOl+bxkKr0T97rSBUdfaQ/xdTb6+cnsbe7603vyb/Xr/fSVNvxGvK6DqHeXHO0GPxzqreOiL+j41os+YfF1/b3jogtQV+X/D9SLoSPCvb77qxu92gxHUh12t7+vNcm9/a236vAf</diagram><diagram id="oiKunYtbjSjzsgNA3_6e" name="Container Push Ad Engine">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</diagram><diagram id="zeBl55w1IHdbeJPlN8vB" name="Component-Ad OPush Engine">nZKxDoIwEIaf5vbaqmEWURcnBueGVtqkcKTUUH16RYrYMBBNbvruy/29S4GllT9a3qgzCmmAEuGB7YHS1ZpS6IuI+0CSJIDSahGkCeT6IQMkgd60kG0kOkTjdBPDAutaFi5i3FrsYu2KJk5teClnIC+4mdOLFk4FuiJkapykLlWITjahUfFRDqBVXGD3hVgGdAuUeQ5sBz2Li6UW0S1qo1z5VJr++ONdh9zD/wM+u1tZu99msvRlLTz/7UQfh2VP</diagram><diagram id="4Gh9zuPjqTZmI_G7rGEL" name="Componet-Ad Engine">nZKxDoIwEIaf5vbaqmEWURcnBueGVtqkcKTUUH16RYrYMBBNbvruy/29S4GllT9a3qgzCmmAEuGB7YHS1ZpS6IuI+0CSJIDSahGkCeT6IQMkgd60kG0kOkTjdBPDAutaFi5i3FrsYu2KJk5teClnIC+4mdOLFk4FuiJkapykLlWITjahUfFRDqBVXGD3hVgGdAuUeQ5sBz2Li6UW0S1qo1z5VJr++ONdh9zD/wM+u1tZu99msvRlLTz/7UQfh2VP</diagram><diagram id="9rmyU51ChP86VtImdiKT" name="Code-Ad Push Engine">nZKxDoIwEIaf5vbaqmEWURcnBueGVtqkcKTUUH16RYrYMBBNbvruy/29S4GllT9a3qgzCmmAEuGB7YHS1ZpS6IuI+0CSJIDSahGkCeT6IQMkgd60kG0kOkTjdBPDAutaFi5i3FrsYu2KJk5teClnIC+4mdOLFk4FuiJkapykLlWITjahUfFRDqBVXGD3hVgGdAuUeQ5sBz2Li6UW0S1qo1z5VJr++ONdh9zD/wM+u1tZu99msvRlLTz/7UQfh2VP</diagram><diagram id="KJlmVbwzfu9SrW1jqAsM" name="Code-Ad Show Engine">nZKxDoIwEIaf5vbaqmEWURcnBueGVtqkcKTUUH16RYrYMBBNbvruy/29S4GllT9a3qgzCmmAEuGB7YHS1ZpS6IuI+0CSJIDSahGkCeT6IQMkgd60kG0kOkTjdBPDAutaFi5i3FrsYu2KJk5teClnIC+4mdOLFk4FuiJkapykLlWITjahUfFRDqBVXGD3hVgGdAuUeQ5sBz2Li6UW0S1qo1z5VJr++ONdh9zD/wM+u1tZu99msvRlLTz/7UQfh2VP</diagram><diagram id="VDZ3AjctcdgYjtAtFd8l" name="V1-Context">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</diagram><diagram id="aR9_A9ksact8s4oPGOI3" name="V1-Component">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-08T08:55:46.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hbRvd5JyZpngLtj3RgNT" version="20.2.3" type="github" pages="8">
+  <diagram id="6dQ7-a586Rl9UVJy2Ls_" name="Context">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="手机终端用户" c4Type="Phone User" c4Description="广告展示用户" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jk_K84DPAQqC4sUZUK2g-2">
+          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="20" y="590" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OPush系统" c4Type="OPush Serving System" c4Description="MCS长链接推送服务" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jk_K84DPAQqC4sUZUK2g-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="1560" y="665" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jk_K84DPAQqC4sUZUK2g-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="481" y="680" width="70" height="70" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Relationship" c4Description="广告曝光,点击,下载等" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="jk_K84DPAQqC4sUZUK2g-16">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jk_K84DPAQqC4sUZUK2g-2" target="jk_K84DPAQqC4sUZUK2g-7" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="200" y="522.98" as="sourcePoint" />
+              <mxPoint x="511" y="520" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="application/x-www-form-urlencoded" c4Description="OPush单条推送" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="jk_K84DPAQqC4sUZUK2g-25">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="jk_K84DPAQqC4sUZUK2g-6" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="1680" y="450" as="sourcePoint" />
+              <mxPoint x="1710" y="360" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="4q9yqvnUaf1_Cdx9dwHS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jk_K84DPAQqC4sUZUK2g-32" target="4q9yqvnUaf1_Cdx9dwHS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4q9yqvnUaf1_Cdx9dwHS-5" value="1. 读取上下文" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4q9yqvnUaf1_Cdx9dwHS-4">
+          <mxGeometry x="0.3316" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4q9yqvnUaf1_Cdx9dwHS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jk_K84DPAQqC4sUZUK2g-32" target="4q9yqvnUaf1_Cdx9dwHS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4q9yqvnUaf1_Cdx9dwHS-11" value="3. 持久化埋点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4q9yqvnUaf1_Cdx9dwHS-10">
+          <mxGeometry x="-0.3385" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Trace引擎" c4Type="Ad Trace Engine" c4Description="埋点统计,频控,计费" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jk_K84DPAQqC4sUZUK2g-32">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="760" y="655" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Get/HTTPS" c4Description="HTTP长度不超过1024&#xa;曝光,点击Trace触发与上报" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="jk_K84DPAQqC4sUZUK2g-33">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jk_K84DPAQqC4sUZUK2g-7" target="jk_K84DPAQqC4sUZUK2g-32" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="650" y="780" as="sourcePoint" />
+              <mxPoint x="770" y="450" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="660" y="715" />
+                <mxPoint x="660" y="715" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="4q9yqvnUaf1_Cdx9dwHS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="4q9yqvnUaf1_Cdx9dwHS-3" target="jk_K84DPAQqC4sUZUK2g-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4q9yqvnUaf1_Cdx9dwHS-7" value="2. 响应上下文信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4q9yqvnUaf1_Cdx9dwHS-6">
+          <mxGeometry x="-0.1864" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Context Storage" c4Type="Component" c4Technology="Redis/Other KV" c4Description="曝光,点击等事件上下文&#xa;1. 广告完整信息&#xa;2. 推荐上下文信息&#xa;3. 策略上下文信息&#xa;4. 其他上下文" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="4q9yqvnUaf1_Cdx9dwHS-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="1120" y="440" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Storage Component" c4Container="Container " c4Technology="e.g. Apache Kafka/HDFS , etc." c4Description="埋点持久化&#xa;1. 持久化曝光/点击等埋点详情&#xa;2. 提供给下游读取/消费" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="4q9yqvnUaf1_Cdx9dwHS-8">
+          <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="1130" y="655" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oiKunYtbjSjzsgNA3_6e" name="Container Push Ad Engine">
+    <mxGraphModel dx="3622" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="广告播放引擎" c4Type="ContainerScopeBoundary" c4Application="Ad Show Engine" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="4LI2QD-FBRWGfYWi-tal-5">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-1090" y="80" width="420" height="400" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="PB/HTTP" c4Description="流量请求" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="7iCer3dr3cF9p3_bbJnh-3">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7iCer3dr3cF9p3_bbJnh-8" target="aGUO4Qxe7NiQJ0J4O9qJ-1" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-1440" y="130" as="sourcePoint" />
+              <mxPoint x="-1060" y="130" as="targetPoint" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="PB/HTTP" c4Description="广告列表响应" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="7iCer3dr3cF9p3_bbJnh-4">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aGUO4Qxe7NiQJ0J4O9qJ-1" target="7iCer3dr3cF9p3_bbJnh-8" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-990" y="190" as="sourcePoint" />
+              <mxPoint x="-1440" y="190" as="targetPoint" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OPush流量引擎" c4Type="SystemScopeBoundary" c4Application="Ad OPush Engine" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="7iCer3dr3cF9p3_bbJnh-5">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-2060" y="80" width="640" height="390" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OPush Query Engine" c4Type="Component" c4Technology="Spring Dubbo" c4Description="OPush请求服务" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7iCer3dr3cF9p3_bbJnh-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="-1690" y="100" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Opush Query Scheduler" c4Type="Component" c4Technology="Spring Dubbo" c4Description="OPush排期调度服务" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="4LI2QD-FBRWGfYWi-tal-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="-2020" y="100" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OPush User Dispacher" c4Type="Component" c4Technology="Spring Dubbo" c4Description="用户分配服务" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="4LI2QD-FBRWGfYWi-tal-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="-1690" y="340" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="广告播放服务" c4Type="Component" c4Technology="Spring Dubbo" c4Description="广告召回,过滤,竞价" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="aGUO4Qxe7NiQJ0J4O9qJ-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="-985" y="100" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Push Ad Frequncy" c4Type="Component" c4Technology="Spring Dubbo" c4Description="Push频控:小时下发频控,天频控,周频控" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="aGUO4Qxe7NiQJ0J4O9qJ-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" parent="1" vertex="1">
+            <mxGeometry x="-985" y="310" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="频控请求" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="aGUO4Qxe7NiQJ0J4O9qJ-6">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aGUO4Qxe7NiQJ0J4O9qJ-1" target="aGUO4Qxe7NiQJ0J4O9qJ-3" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-1370" y="260" as="sourcePoint" />
+              <mxPoint x="-905" y="260" as="targetPoint" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="频控结果" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="aGUO4Qxe7NiQJ0J4O9qJ-7">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aGUO4Qxe7NiQJ0J4O9qJ-3" target="aGUO4Qxe7NiQJ0J4O9qJ-1" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-975" y="290" as="sourcePoint" />
+              <mxPoint x="-1440" y="290" as="targetPoint" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="OPush DSK" c4Type="SDK" c4Description="OPush服务端SDK" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="hqASzrPKpDxWcDTy90hi-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-1690" y="570" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Batch/MQ" c4Description="流量请求" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="E3RZVx5keNTYSuSCgMiL-1">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7iCer3dr3cF9p3_bbJnh-8" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-1570" y="340" as="sourcePoint" />
+              <mxPoint x="-1115" y="580" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="-1570" y="340" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="HDFS/Redis Cluster(plus)" c4Type="Software System" c4Description="用户存储系统-内部APP可分配余量" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="keisSgdHAHO8jd_3uR-D-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=50;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-2050" y="570" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="读取OPush模拟用户" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="keisSgdHAHO8jd_3uR-D-4">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="keisSgdHAHO8jd_3uR-D-1" target="4LI2QD-FBRWGfYWi-tal-2" edge="1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="-1940" y="510" as="sourcePoint" />
+              <mxPoint x="-1700" y="510" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zeBl55w1IHdbeJPlN8vB" name="Component-Ad OPush Engine">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4Gh9zuPjqTZmI_G7rGEL" name="Componet-Ad Engine">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9rmyU51ChP86VtImdiKT" name="Code-Ad Push Engine">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KJlmVbwzfu9SrW1jqAsM" name="Code-Ad Show Engine">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VDZ3AjctcdgYjtAtFd8l" name="V1-Context">
+    <mxGraphModel dx="1422" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="广告主" c4Type="Ad Owner" c4Description="投放Push广告广告主" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="20" y="270" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="GPush API Gateway" c4Type="GPush Management System" c4Description="GPush API,推送计划CRUD&amp;其他管理" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="530" y="326" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Push免折叠投放计划管理" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-5">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u4DnDT0o62hyxwszUFsc-1" target="u4DnDT0o62hyxwszUFsc-4">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="310" y="360" as="sourcePoint" />
+              <mxPoint x="550" y="360" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="AdPushClickListener" c4Type="Ad Click Listener" c4Description="外部商业化埋点消费服务,负责消费Push商业化计划的点击数据" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#68B85C;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#68B85C;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="530" y="610" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="GPush Boss Gateway" c4Type="Commercialization Management System" c4Description="GPush账户与商业化账户管理" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#68B85C;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#68B85C;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="530" y="10" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="u4DnDT0o62hyxwszUFsc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u4DnDT0o62hyxwszUFsc-24" target="u4DnDT0o62hyxwszUFsc-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="70" />
+              <mxPoint x="310" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4DnDT0o62hyxwszUFsc-37" value="商业化API账户与Push账号关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4DnDT0o62hyxwszUFsc-25">
+          <mxGeometry x="0.0625" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="GPush与商业化管理员" c4Type="Person" c4Description="管理push账户与商业化账户" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-24">
+          <mxCell style="html=1;fontSize=11;dashed=0;whitespace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="10" y="-40" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Gpush Ad Click" c4Container="MQ" c4Technology="Kafka" c4Description="Push商业化推广计划消息队列,负责用于商业化push计费订阅" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-27">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="10" y="610" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Kafka" c4Description="消费Push商业化点击数据" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-34">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u4DnDT0o62hyxwszUFsc-27" target="u4DnDT0o62hyxwszUFsc-13">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="890" y="311" as="sourcePoint" />
+              <mxPoint x="1130" y="311" as="targetPoint" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Ad AccCharge Service" c4Type="Ad Account And Charge System" c4Description="广告账务服务,负责Push点击数据计费" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-35">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="1020" y="610" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="JSON/RPC" c4Description="计费调用" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-36">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u4DnDT0o62hyxwszUFsc-13">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="960" y="510" as="sourcePoint" />
+              <mxPoint x="1020" y="670" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="JSON/RPC" c4Description="计费锁定[是否需要?]" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="u4DnDT0o62hyxwszUFsc-40">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u4DnDT0o62hyxwszUFsc-4" target="u4DnDT0o62hyxwszUFsc-35">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="960" y="170" as="sourcePoint" />
+              <mxPoint x="1200" y="170" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aR9_A9ksact8s4oPGOI3" name="V1-Component">
+    <mxGraphModel dx="1422" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mGguAUBrQdA0a8Kuvs9j-3" value="uses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="YYBJ_7UvXnfZHQmkEthV-1" target="38uJnBW24cPjNl_-iuWm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="GpushMessageAdaptor" c4Type="Component" c4Technology="Spring Service" c4Description="转换外部Message反序列化成广告领域模型" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YYBJ_7UvXnfZHQmkEthV-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="450" y="425" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="AdPushClickListener" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="YYBJ_7UvXnfZHQmkEthV-2">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="340" y="190" width="470" height="620" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="mGguAUBrQdA0a8Kuvs9j-2" value="uses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="BhgMLoxtmLNjHRvUkCYH-1" target="YYBJ_7UvXnfZHQmkEthV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="GpushMessageListener" c4Type="Component" c4Technology="Spring Service" c4Description="Gpush消息订阅服务,负责消费Push点击数据并序列化成Push的领域对象" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="BhgMLoxtmLNjHRvUkCYH-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="450" y="220" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ChageInvokeService" c4Type="Component" c4Technology="Spring Service" c4Description="负责聚合日志计费" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="38uJnBW24cPjNl_-iuWm-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="450" y="620" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Gpush Ad Click" c4Container="MQ" c4Technology="Kafka" c4Description="Push商业化推广计划消息队列,负责用于商业化push计费订阅" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="C3pw4oxoc9p32MrWhUwJ-1">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="450" y="-50" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Kafka" c4Description="消费Push商业化点击数据" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="mGguAUBrQdA0a8Kuvs9j-1">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="C3pw4oxoc9p32MrWhUwJ-1" target="BhgMLoxtmLNjHRvUkCYH-1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="250" y="670" as="sourcePoint" />
+              <mxPoint x="530" y="670" as="targetPoint" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Ad AccCharge Service" c4Type="Ad Account And Charge System" c4Description="广告账务服务,负责Push点击数据计费" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="sinFJTNTF06DDttfLTiC-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="980" y="620" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="JSON/RPC" c4Description="Uses" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="sinFJTNTF06DDttfLTiC-3">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="38uJnBW24cPjNl_-iuWm-1" target="sinFJTNTF06DDttfLTiC-1">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="980" y="470" as="sourcePoint" />
+              <mxPoint x="1220" y="470" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="sinFJTNTF06DDttfLTiC-4" value="Legend" style="align=left;fontSize=16;fontStyle=1;strokeColor=none;fillColor=none;fontColor=#4D4D4D;spacingTop=-8;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-5" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;align=left;spacingLeft=10;strokeColor=none;rounded=1;arcSize=11;fontColor=#FFFFFF;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-6" value="Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#1E4074;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-7" value="Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#3162AF;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-8" value="Container" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#52A2D8;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-9" value="Component" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#7CBEF1;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-10" value="External Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#6B6477;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-11" value="External Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#8B8496;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;fontColor=#FFFFFF;" vertex="1" parent="sinFJTNTF06DDttfLTiC-5">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sinFJTNTF06DDttfLTiC-12" value="只消费商业化消息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-140" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
