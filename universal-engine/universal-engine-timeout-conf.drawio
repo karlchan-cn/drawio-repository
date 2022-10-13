@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T06:18:23.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="tx0lDbKjxarW69kF_jhf" type="github"><diagram id="C0RONLFH71mwAhmGzeT_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-13T06:09:28.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2gISJJN8pcUrfnIzYZvz" version="20.3.7" type="github">
+  <diagram id="C0RONLFH71mwAhmGzeT_" name="CompletableFuture">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-3" value="CompletableFutureA" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-4" value="+ stack: Completion&#xa;+ result: Object&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CJxb0Fy4q2eOk1ZuIJKJ-3">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-7" value="CompletableFutureB" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-8" value="+ stack: Completion&#xa;+ result: Object&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CJxb0Fy4q2eOk1ZuIJKJ-7">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="CJxb0Fy4q2eOk1ZuIJKJ-7">
+          <mxGeometry y="70" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-10" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CJxb0Fy4q2eOk1ZuIJKJ-7">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-11" value="A.thenApply(fn)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-17" value="src" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CJxb0Fy4q2eOk1ZuIJKJ-12" target="CJxb0Fy4q2eOk1ZuIJKJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-12" value="CompletionA" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="97" y="360" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-13" value="+ next: Completion&#xa;+ dep: CompletableFuture&#xa;+ src: CompletableFuture&#xa;+ fn: Function" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="CJxb0Fy4q2eOk1ZuIJKJ-12">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-16" value="stack" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJxb0Fy4q2eOk1ZuIJKJ-4" target="CJxb0Fy4q2eOk1ZuIJKJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJxb0Fy4q2eOk1ZuIJKJ-18" value="dep" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CJxb0Fy4q2eOk1ZuIJKJ-13" target="CJxb0Fy4q2eOk1ZuIJKJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
