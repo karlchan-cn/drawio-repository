@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T08:19:38.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="x0X4af3RGx7iRsBvCM_b" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-20T08:20:24.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Wh7DBWoz6gmr-kod0ApC" version="20.7.4" type="github" pages="4">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -723,7 +723,7 @@
         <mxCell id="hIYMqiaGOocXkzqq8Zc6-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="hIYMqiaGOocXkzqq8Zc6-6" source="hIYMqiaGOocXkzqq8Zc6-74" target="hIYMqiaGOocXkzqq8Zc6-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hIYMqiaGOocXkzqq8Zc6-74" value="替换榜单的cache" style="whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="hIYMqiaGOocXkzqq8Zc6-6">
+        <mxCell id="hIYMqiaGOocXkzqq8Zc6-74" value="替换榜单的缓存(后续曝光/点击逻辑如上)" style="whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="hIYMqiaGOocXkzqq8Zc6-6">
           <mxGeometry x="50" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hIYMqiaGOocXkzqq8Zc6-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="hIYMqiaGOocXkzqq8Zc6-6" source="hIYMqiaGOocXkzqq8Zc6-78" target="hIYMqiaGOocXkzqq8Zc6-80">
