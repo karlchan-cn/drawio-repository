@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T02:56:40.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3Wo4hPTMhEkNEGRaDOVi" version="20.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-29T02:56:59.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eRJwWLzSmBTuy31zD_IH" version="20.7.4" type="github" pages="6">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -957,8 +957,8 @@
         <mxCell id="_xI2uHtyU7UDY2YNlNOM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SVCzShUYt2OjwjC_MO5R-1" source="_xI2uHtyU7UDY2YNlNOM-2" target="_xI2uHtyU7UDY2YNlNOM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_xI2uHtyU7UDY2YNlNOM-2" value="ext.persistentEnable = false&amp;nbsp;&lt;br&gt;trackStrategy =&amp;nbsp;[{&quot;event&quot;:1,&quot;interval&quot;:259200,&quot;pix&quot;:0.0,&quot;ts&quot;:1000}]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="SVCzShUYt2OjwjC_MO5R-1">
-          <mxGeometry x="680" y="890" width="300" height="170" as="geometry" />
+        <mxCell id="_xI2uHtyU7UDY2YNlNOM-2" value="ext.persistentEnable = false&amp;nbsp;&lt;br&gt;ext.trackStrategy =&amp;nbsp;[{&quot;event&quot;:1,&quot;interval&quot;:259200,&quot;pix&quot;:0.0,&quot;ts&quot;:1000}]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="SVCzShUYt2OjwjC_MO5R-1">
+          <mxGeometry x="680" y="890" width="410" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
