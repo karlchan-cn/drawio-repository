@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T06:18:23.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wI-tk35TG-ul9Y9PYeWo" version="20.8.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-28T06:57:37.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VWbrh_QbiO5H3xFSsKax" version="20.8.5" type="github" pages="10">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1335,8 +1335,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="cBGpFdJ2CAXktqM0Vcw1" name="短链-延时与拼接率">
-    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="cBGpFdJ2CAXktqM0Vcw1" name="短链-延时与拼接率1">
+    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1372,6 +1372,38 @@
             <mxPoint x="500" y="370" as="sourcePoint" />
             <mxPoint x="570" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uX8fwXNztfwx4M2TdDUC" name="短链-延时与拼接率2">
+    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="280" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="20" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-6" value="30 Mins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-7" value="短链存储窗口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 点击" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-8" value="曝光" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="442.5" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3Zz27qe7wLXNnzEb-vtY-11" value="X%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
