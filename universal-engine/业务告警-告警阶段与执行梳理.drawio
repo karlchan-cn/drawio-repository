@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T08:48:33.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="P5VcQIEoGV3WIqhbMxUm" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T09:07:20.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FXxFcTYOCy9dFFCwa1Ci" version="20.8.20" type="github">
   <diagram name="第 1 页" id="094aknZZEEDUs84GfmSv">
     <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="70" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="flLgUbFeDydPVdvSiJaZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="240" width="440" height="130" as="geometry" />
+          <mxGeometry x="290" y="240" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="flLgUbFeDydPVdvSiJaZ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分析阶段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="200" width="135" height="30" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="342.5" y="270" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="flLgUbFeDydPVdvSiJaZ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="390" width="440" height="130" as="geometry" />
+          <mxGeometry x="290" y="390" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="flLgUbFeDydPVdvSiJaZ-6" value="数据分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="390" width="60" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="342.5" y="420" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="flLgUbFeDydPVdvSiJaZ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="540" width="440" height="130" as="geometry" />
+          <mxGeometry x="290" y="540" width="420" height="310" as="geometry" />
         </mxCell>
         <mxCell id="flLgUbFeDydPVdvSiJaZ-9" value="研发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="545" width="60" height="30" as="geometry" />
@@ -53,10 +53,16 @@
           <mxGeometry x="342.5" y="575" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8gjb7hjExFaKAG_wDMh-3" value="广告诊断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="540" y="207.5" width="70" height="495" as="geometry" />
+          <mxGeometry x="540" y="207.5" width="70" height="672.5" as="geometry" />
         </mxCell>
         <mxCell id="O8gjb7hjExFaKAG_wDMh-4" value="SRE事件中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="630" y="207.5" width="70" height="495" as="geometry" />
+          <mxGeometry x="630" y="207.5" width="70" height="672.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O8gjb7hjExFaKAG_wDMh-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;研发多维分析工具(grafana+prometheus)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="665" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8gjb7hjExFaKAG_wDMh-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;日志分析工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="760" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
