@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T07:34:40.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VUFNV84iMFKFp9XyKLi3" version="20.8.20" type="github">
-  <diagram name="第 1 页" id="094aknZZEEDUs84GfmSv">
+<mxfile host="app.diagrams.net" modified="2023-02-14T09:09:42.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xg6y21UszKraTZhxME_n" version="20.8.20" type="github" pages="2">
+  <diagram name="问题分析工具" id="094aknZZEEDUs84GfmSv">
     <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -52,17 +52,49 @@
         <mxCell id="flLgUbFeDydPVdvSiJaZ-10" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;服务监控(调用链/自定义)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="575" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8gjb7hjExFaKAG_wDMh-3" value="广告诊断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="O8gjb7hjExFaKAG_wDMh-3" value="广告诊断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="207.5" width="70" height="672.5" as="geometry" />
         </mxCell>
-        <mxCell id="O8gjb7hjExFaKAG_wDMh-4" value="SRE事件中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="O8gjb7hjExFaKAG_wDMh-4" value="SRE事件中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="630" y="207.5" width="70" height="672.5" as="geometry" />
         </mxCell>
-        <mxCell id="O8gjb7hjExFaKAG_wDMh-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;研发多维分析工具(grafana+prometheus)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="O8gjb7hjExFaKAG_wDMh-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;研发多维分析工具(grafana+prometheus)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="665" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8gjb7hjExFaKAG_wDMh-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;日志分析工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="O8gjb7hjExFaKAG_wDMh-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;日志分析工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="760" width="165" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_vlCRf2yDH1qmF8aJP1v" name="问题分析时间轴">
+    <mxGraphModel dx="1434" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="09KenSaMwTRWPB-E8sFx-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="320" as="sourcePoint" />
+            <mxPoint x="750" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="09KenSaMwTRWPB-E8sFx-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="320" as="sourcePoint" />
+            <mxPoint x="120" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="09KenSaMwTRWPB-E8sFx-7" value="&lt;h1&gt;发现问题&lt;/h1&gt;&lt;p&gt;1. 商业化收入告警&lt;/p&gt;&lt;p&gt;2. 媒体监控告警&lt;/p&gt;&lt;p&gt;3. IT指标告警&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="09KenSaMwTRWPB-E8sFx-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="09KenSaMwTRWPB-E8sFx-9" value="&lt;h1&gt;问题排查&lt;/h1&gt;&lt;p&gt;1. 产运分析应用报表工具分析-诊断,innereye&lt;/p&gt;&lt;p&gt;2. 数分多维分析&lt;/p&gt;&lt;p&gt;3. 工程研发-诊断,prometheus,云平台分析工具&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="220" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
