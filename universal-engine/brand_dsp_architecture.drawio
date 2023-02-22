@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T03:48:01.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="cHCYZf28r9EiIMAvDqbb" version="20.8.20" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-02-22T03:49:52.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GiPp2W3Mkkgd8zkjHXcq" version="20.8.20" type="github" pages="11">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1409,7 +1409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KDLTlzj2-kxqYE6C2Bq3" name="全搜隔天占比优化进度">
-    <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="990" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1477,8 +1477,8 @@
             <mxPoint x="910" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKGrvftWnZ7H_JJdhU9U-24" value="&lt;font color=&quot;#330000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;全局搜索-榜单隔天上报优化进度&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-120" width="280" height="30" as="geometry" />
+        <mxCell id="LKGrvftWnZ7H_JJdhU9U-24" value="&lt;font color=&quot;#330000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;全局搜索-#隔天上报下降#优化进度&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-120" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
