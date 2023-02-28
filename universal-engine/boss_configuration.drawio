@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T06:43:19.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rgH5ym2CeRZwZINtKKBs" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-28T06:45:04.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TOQmnIcT12OCuMNhXqSu" version="20.8.23" type="github" pages="2">
   <diagram name="策略模板方案-strategic template" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1434" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gf60SkINv0LEetYwzcfI" name="第 2 页">
+  <diagram id="gf60SkINv0LEetYwzcfI" name="BOSS-运营配置-Business architeture">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
