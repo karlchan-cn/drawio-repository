@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T06:56:21.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iDiNEglTPKllOQPoejhE" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-28T07:01:40.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Tcr23co5-l-WGtUiUO6w" version="20.8.23" type="github" pages="2">
   <diagram name="策略模板方案-strategic template" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1434" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -257,14 +257,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="StltUpFUbtguTTvQyVZK-1" value="&lt;font color=&quot;#ffffff&quot;&gt;运营配置设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="StltUpFUbtguTTvQyVZK-1" value="&lt;font color=&quot;#ffffff&quot;&gt;运营配置设计与输入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StltUpFUbtguTTvQyVZK-2" value="核心业务流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="60" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="StltUpFUbtguTTvQyVZK-3" value="&lt;font color=&quot;#ffffff&quot;&gt;BOSS配置输入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="StltUpFUbtguTTvQyVZK-4" value="&lt;font color=&quot;#ffffff&quot;&gt;配置审核&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
