@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:17:26.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_cQGsay5-1Pd2tYNORgT" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:22:55.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SS2asUXi-R_GkOe1ANq1" version="20.8.23" type="github" pages="4">
   <diagram name="策略模板方案-strategic template" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1434" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
         <mxCell id="StltUpFUbtguTTvQyVZK-34" value="&lt;font color=&quot;#ffffff&quot;&gt;策略版本管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#330000;fillColor=#365591;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="550" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="StltUpFUbtguTTvQyVZK-29" value="&lt;font color=&quot;#ffffff&quot;&gt;播放引擎能力管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#330000;fillColor=#365591;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="StltUpFUbtguTTvQyVZK-29" value="&lt;font color=&quot;#ffffff&quot;&gt;引擎全景管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#330000;fillColor=#365591;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="485" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="StltUpFUbtguTTvQyVZK-30" value="&lt;font color=&quot;#ffffff&quot;&gt;运营策略能力管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#330000;fillColor=#365591;strokeColor=none;" vertex="1" parent="1">
