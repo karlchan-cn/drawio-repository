@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T09:18:20.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ybADv7RcomyXyPuWIhWn" version="21.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-31T09:20:27.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5RusKwIuwyNy0E1BfjlA" version="21.1.2" type="github" pages="11">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -509,7 +509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KFY43PBLRKSX0s_Xrw4o" name="程序化榜单(PMP)">
-    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,19 +595,19 @@
         <mxCell id="9jnhoZ7SrWk647oyPF8U-32" value="+ ext.rankTitle: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="-200" y="1020" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tjaz1ptThpehplZND_s4-1" value="词条1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="tjaz1ptThpehplZND_s4-1" value="词条1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tjaz1ptThpehplZND_s4-2" value="广告词条1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="tjaz1ptThpehplZND_s4-2" value="广告词条1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tjaz1ptThpehplZND_s4-3" value="广告词条2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="tjaz1ptThpehplZND_s4-3" value="广告词条2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tjaz1ptThpehplZND_s4-4" value="热门榜单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="tjaz1ptThpehplZND_s4-4" value="热门榜单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="1400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjaz1ptThpehplZND_s4-5" value="更多....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="tjaz1ptThpehplZND_s4-5" value="更多....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="1610" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CFfgfVeTgf69LZHyCNkt" name="全搜榜单">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -872,7 +872,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="传统品牌广告曝光去重" id="kq8bHMQsh9e0Yb6tedK7">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SVCzShUYt2OjwjC_MO5R-0" />
         <mxCell id="SVCzShUYt2OjwjC_MO5R-1" parent="SVCzShUYt2OjwjC_MO5R-0" />
@@ -964,7 +964,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="全流量推优选因子过滤" id="pnKclAnuQueTWdHzzBNe">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tT7073Gev61TVoJmmtT0-0" />
         <mxCell id="tT7073Gev61TVoJmmtT0-1" parent="tT7073Gev61TVoJmmtT0-0" />
@@ -1089,7 +1089,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bdP2Fihb2rUABUQlwpl6" name="广告审核回调流程">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1472,6 +1472,14 @@
         <mxCell id="LKGrvftWnZ7H_JJdhU9U-24" value="&lt;font color=&quot;#330000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;全局搜索-#隔天上报下降#优化进度&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="290" y="-120" width="310" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e6OsKL0dmR11SmOObvs9" name="Go化品牌广告计费">
+    <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
