@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T11:44:21.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uUqGpsu41ygyDcbIy_GF" version="21.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-04T11:47:25.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1JkE7ra0M40O_hdbVkTs" version="21.2.7" type="github" pages="12">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1645,10 +1645,10 @@
         <mxCell id="-on3I5YgsWRrFmdDyk0x-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-on3I5YgsWRrFmdDyk0x-53" source="-on3I5YgsWRrFmdDyk0x-37" target="-on3I5YgsWRrFmdDyk0x-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-on3I5YgsWRrFmdDyk0x-51" value="请求协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-53">
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-51" value="Response 协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-53">
           <mxGeometry x="410" width="170" height="32.64248704663213" as="geometry" />
         </mxCell>
-        <mxCell id="-on3I5YgsWRrFmdDyk0x-54" value="&lt;h1&gt;改动点&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Gateway诊断能力增加运营人员管理能力,增加观测目标选择(广告列表)&lt;/li&gt;&lt;li&gt;Gateway+Mixer+DSP 补充快速失败响应码&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;DSP+Recall 诊断过滤广告后,返回诊断结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-54" value="&lt;h1&gt;改动点&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Gateway诊断能力增加运营人员管理能力,增加观测目标选择(广告列表)&lt;/li&gt;&lt;li&gt;Gateway+Mixer+DSP 补充快速失败响应码&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;DSP+Recall 诊断过滤广告后,读取观测目标(广告),组装返回ApplicationDiagnose结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Mixer整合多方DSP的ApplicationDiagnose结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Gateway读取MixerApplicationDiagnose结果,通过接口返回诊断结果&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1060" width="560" height="180" as="geometry" />
         </mxCell>
       </root>
