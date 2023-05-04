@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T09:10:58.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fsXMIYeGAc6Gt5uUzYIO" version="21.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-04T09:11:51.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uYp95vQiDsA4vPxQXzXC" version="21.2.7" type="github" pages="12">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1599,7 +1599,7 @@
           <mxGeometry x="1150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-35" value="OnlineDiagnose" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1040" width="180" height="100" as="geometry" />
+          <mxGeometry x="550" y="1040" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-36" value="+ appId: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-35">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -1620,7 +1620,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-44" value="DiagnoseDetail" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1077" width="140" height="78" as="geometry" />
+          <mxGeometry x="890" y="1077" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-45" value="+&amp;nbsp; adId:Long" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-44">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
