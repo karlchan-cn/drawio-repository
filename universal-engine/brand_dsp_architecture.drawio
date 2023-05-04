@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T06:27:05.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="T5L43vTqBWKuQPv0MTWc" version="21.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-04T06:32:30.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XCoF3Yndr8Be9lhX7cRX" version="21.2.7" type="github" pages="12">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1493,6 +1493,19 @@
         <mxCell id="-on3I5YgsWRrFmdDyk0x-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-on3I5YgsWRrFmdDyk0x-23" target="-on3I5YgsWRrFmdDyk0x-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="-on3I5YgsWRrFmdDyk0x-23" target="ET63yUy0uV0VQuHFduNk-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="793" y="930" />
+              <mxPoint x="520" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-32" value="1. 分DSP返回响应code&lt;br&gt;2. 返回广告诊断结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-on3I5YgsWRrFmdDyk0x-31">
+          <mxGeometry x="-0.336" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="730" y="220" width="250" height="599" as="geometry" />
         </mxCell>
@@ -1510,6 +1523,19 @@
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ET63yUy0uV0VQuHFduNk-4" target="-on3I5YgsWRrFmdDyk0x-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ET63yUy0uV0VQuHFduNk-4" target="ET63yUy0uV0VQuHFduNk-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="930" />
+              <mxPoint x="130" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-34" value="1. 分DSP返回响应code&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 返回广告诊断结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-on3I5YgsWRrFmdDyk0x-33">
+          <mxGeometry x="-0.1357" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ET63yUy0uV0VQuHFduNk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="370" y="410" width="200" height="190" as="geometry" />
@@ -1549,6 +1575,19 @@
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-11" value="前置过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="790" y="719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="-on3I5YgsWRrFmdDyk0x-12" target="-on3I5YgsWRrFmdDyk0x-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="930" />
+              <mxPoint x="918" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-30" value="1. 返回响应Code&lt;br&gt;2. 返回广告诊断结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-on3I5YgsWRrFmdDyk0x-27">
+          <mxGeometry x="-0.0564" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1110" y="227" width="200" height="584" as="geometry" />
