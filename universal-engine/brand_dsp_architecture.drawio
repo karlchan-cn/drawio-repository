@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T06:32:30.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XCoF3Yndr8Be9lhX7cRX" version="21.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-04T09:10:58.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fsXMIYeGAc6Gt5uUzYIO" version="21.2.7" type="github" pages="12">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1597,6 +1597,39 @@
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-14" value="布尔检索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-35" value="OnlineDiagnose" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1040" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-36" value="+ appId: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-35">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-37" value="+ diagnoseDetails: List&amp;lt;DiagnoseDetail&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-35">
+          <mxGeometry y="52" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-39" value="MixAdResponse/MixResponse" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1040" width="370" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-40" value="+ onlineDiagnose: List&amp;lt;OnlineDiagnose&lt;br&gt;&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-39">
+          <mxGeometry y="26" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-41" value="+ ret: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-39">
+          <mxGeometry y="52" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-on3I5YgsWRrFmdDyk0x-40" target="-on3I5YgsWRrFmdDyk0x-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-44" value="DiagnoseDetail" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1077" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-45" value="+&amp;nbsp; adId:Long" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-44">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-46" value="+ filterType: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-44">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-on3I5YgsWRrFmdDyk0x-37" target="-on3I5YgsWRrFmdDyk0x-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
