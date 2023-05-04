@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T03:54:00.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="C_aeGYDJ2ykNqcENKTlH" version="21.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-04T03:56:12.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CfQL5phQtQePPpJpNpa_" version="21.2.7" type="github" pages="12">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1537,6 +1537,15 @@
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-11" value="前置过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="790" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="240" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-13" value="Recall-Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-14" value="广告过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
