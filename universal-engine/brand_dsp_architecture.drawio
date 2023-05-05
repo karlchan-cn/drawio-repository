@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T02:06:02.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pZlO9A5u667Y4K5M4ZmV" version="21.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-05T02:16:05.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="C5WatAaCq_a9WJBA7QfI" version="21.2.7" type="github" pages="12">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1486,7 +1486,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FhPDkQdUXIhdp0Y950dp" name="实时诊断">
-    <mxGraphModel dx="1434" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1648,8 +1648,8 @@
         <mxCell id="-on3I5YgsWRrFmdDyk0x-51" value="Response 协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-on3I5YgsWRrFmdDyk0x-53">
           <mxGeometry x="410" width="170" height="32.64248704663213" as="geometry" />
         </mxCell>
-        <mxCell id="-on3I5YgsWRrFmdDyk0x-54" value="&lt;h1&gt;改动点&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Gateway诊断能力增加运营人员管理能力,增加观测目标选择(广告列表)&lt;/li&gt;&lt;li&gt;Gateway+Mixer+DSP 补充快速失败响应码&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;DSP+Recall 诊断过滤广告后,读取观测目标(广告),组装返回ApplicationDiagnose结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Mixer整合多方DSP的ApplicationDiagnose结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Gateway读取MixerApplicationDiagnose结果,通过接口返回诊断结果&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1060" width="560" height="140" as="geometry" />
+        <mxCell id="-on3I5YgsWRrFmdDyk0x-54" value="&lt;h1&gt;改动点&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Gateway诊断能力增加运营人员管理能力,增加观测目标选择(广告列表)&lt;/li&gt;&lt;li&gt;Gateway+Mixer+DSP 补充快速失败响应码&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;DSP+Recall 诊断过滤广告后,读取观测目标(广告),组装返回ApplicationDiagnose结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Mixer整合多方DSP的ApplicationDiagnose结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Gateway读取MixerApplicationDiagnose结果,通过接口返回诊断结果&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;整合现有的诊断方案,补充诊断遗漏点,用作实时接口诊断的响应值&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;增加online debug 全局开关/请求上限,自定义监控增加online debug enable管控数据&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1060" width="560" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-on3I5YgsWRrFmdDyk0x-67" value="ECPM过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1150" y="360" width="120" height="60" as="geometry" />
