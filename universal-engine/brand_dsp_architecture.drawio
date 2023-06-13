@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T02:48:29.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VXQaqSIbez09d3RARCYS" version="21.3.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-13T02:51:36.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="cPc_rQC1XGkhDm6J8RXA" version="21.3.7" type="github" pages="13">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2487" dy="1440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1842,6 +1842,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="590" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="NPQaqqbX62JG9oDqxNrC-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="590" height="200" as="geometry" />
         </mxCell>
@@ -1857,7 +1860,7 @@
         <mxCell id="NPQaqqbX62JG9oDqxNrC-2" value="点击" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NPQaqqbX62JG9oDqxNrC-4" value="业务域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-4" value="业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NPQaqqbX62JG9oDqxNrC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NPQaqqbX62JG9oDqxNrC-6" target="NPQaqqbX62JG9oDqxNrC-9">
@@ -1869,11 +1872,32 @@
         <mxCell id="NPQaqqbX62JG9oDqxNrC-7" value="MQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="45" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-19" value="A - &amp;gt; A` 配置" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3333;" edge="1" parent="1" source="NPQaqqbX62JG9oDqxNrC-9" target="NPQaqqbX62JG9oDqxNrC-15">
+          <mxGeometry x="0.5897" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="285" />
+              <mxPoint x="500" y="285" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NPQaqqbX62JG9oDqxNrC-9" value="实时流处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NPQaqqbX62JG9oDqxNrC-11" value="商平实时流作业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-14" value="TS House" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NPQaqqbX62JG9oDqxNrC-15" target="NPQaqqbX62JG9oDqxNrC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-15" value="实时流 -&amp;gt; TS Mapper&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NPQaqqbX62JG9oDqxNrC-18" value="数智" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="310" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
