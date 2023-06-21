@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T07:15:09.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gnINfbny4zMw0R85ldOC" version="21.3.8" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-21T07:16:05.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KKfeakVhpdxbUA-F79bx" version="21.3.8" type="github" pages="14">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1947,7 +1947,7 @@
         <mxCell id="7vO0rieQcizr4dXZEPMX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vO0rieQcizr4dXZEPMX-3" target="7vO0rieQcizr4dXZEPMX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vO0rieQcizr4dXZEPMX-3" value="根据OuId请求&lt;br&gt;请求OpenId服务" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7vO0rieQcizr4dXZEPMX-3" value="根据&lt;font color=&quot;#ff3333&quot;&gt;OuId&lt;/font&gt;请求&lt;br&gt;请求OpenId服务" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="-220" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7vO0rieQcizr4dXZEPMX-5" value="返回IMEI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1956,7 +1956,7 @@
         <mxCell id="7vO0rieQcizr4dXZEPMX-12" value="失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vO0rieQcizr4dXZEPMX-8" target="7vO0rieQcizr4dXZEPMX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vO0rieQcizr4dXZEPMX-8" value="根据DuId请求&lt;br&gt;请求OpenId服务" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7vO0rieQcizr4dXZEPMX-8" value="根据&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;DuId&lt;/font&gt;&lt;/b&gt;请求&lt;br&gt;请求OpenId服务" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7vO0rieQcizr4dXZEPMX-11" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7vO0rieQcizr4dXZEPMX-10" target="7vO0rieQcizr4dXZEPMX-5">
