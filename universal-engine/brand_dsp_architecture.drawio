@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T08:23:17.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1EvGrsQK_p5qgZWCKP2o" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-11T08:45:54.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jA8MVrIgTnUi544Egm-i" version="21.5.0" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2026,16 +2026,16 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-16" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-17" target="EvsWAtisF-lOogKjHHgv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-17" value="HashMap" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-17" value="Tracker" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-18" value="JSON-String" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-18" value="tab-splitted-string" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="294" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-19" value="Search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-19" value="Union" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-20" value="1. TrackingUrlFunction.generateEncodeData&lt;br&gt;2. &lt;b&gt;&lt;u&gt;&lt;font color=&quot;#009900&quot;&gt;hashMap字段与StatData格式一致&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-20" value="1. LinkEntityUtil&lt;br&gt;2. /t分割,加密字符串" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="470" y="600" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
