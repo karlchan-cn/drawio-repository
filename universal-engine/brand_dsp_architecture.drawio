@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T11:48:22.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tKBI3sZZZlPNLgoW5zoM" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-11T11:55:09.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="O2aKHUej6lvgPpgaCq3J" version="21.5.0" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2056,7 +2056,7 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-25" value="Search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-26" value="1. SearchTools.encodeOdata&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-26" value="1. SearchTools.encodeOdata&lt;br&gt;2.&amp;nbsp;SearchTransparentAppstoreEntity &amp;amp;&amp;nbsp;SearchTransparentAllScenceEntity&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="470" y="890" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
@@ -2074,7 +2074,7 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-31" value="CPD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-32" value="1. CreativePacker&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. encrypted json string with salt&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-32" value="1. CreativePacker&lt;br&gt;&lt;b style=&quot;color: rgb(0, 153, 0); text-decoration-line: underline;&quot;&gt;2. encrypted json string with salt&lt;/b&gt;&lt;br&gt;3.&amp;nbsp;CpdTransparent负责透传字段组装" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="470" y="1160" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-35" value="&lt;font color=&quot;#009900&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;监测上报&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
