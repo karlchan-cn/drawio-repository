@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T06:41:19.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GuMzMc_Yo3V4xoF2kHhG" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:47:29.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mBSdf9ThqumufyycqLHu" version="21.5.0" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1984,10 +1984,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EvsWAtisF-lOogKjHHgv-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="10" y="-50" width="760" height="1370" as="geometry" />
         </mxCell>
-        <mxCell id="74p-xxaNamLobLT-WxLI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="74p-xxaNamLobLT-WxLI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-5" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-2" target="EvsWAtisF-lOogKjHHgv-4">
@@ -2002,7 +2002,7 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-6" value="Brand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-9" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-10" target="EvsWAtisF-lOogKjHHgv-11">
@@ -2017,13 +2017,13 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-12" value="Feeds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-13" value="1. TrackingUrlFunction.generateEncodeData&lt;br&gt;2. &lt;b&gt;&lt;u&gt;&lt;font color=&quot;#009900&quot;&gt;hashMap字段与StatData格式一致&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-13" value="1. TrackingUrlFunction.generateEncodeData&lt;br&gt;2. &lt;b&gt;&lt;u&gt;&lt;font color=&quot;#009900&quot;&gt;hashMap字段与StatData格式一致&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-14" value="1. BrandDetailCommonFill.addBdMonitorUrls&lt;br&gt;2. statData&lt;b&gt;&lt;u style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;字段属性是通过精简&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-14" value="1. BrandDetailCommonFill.addBdMonitorUrls&lt;br&gt;2. statData&lt;b&gt;&lt;u style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;字段属性是通过精简&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeColor=default;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-16" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-17" target="EvsWAtisF-lOogKjHHgv-18">
@@ -2038,10 +2038,10 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-19" value="Union" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-20" value="1. LinkEntityUtil&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-20" value="1. LinkEntityUtil&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="470" y="600" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="890" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-22" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-23" target="EvsWAtisF-lOogKjHHgv-24">
@@ -2056,10 +2056,10 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-25" value="Search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-26" value="1. SearchTools.encodeOdata&lt;br&gt;2.&amp;nbsp;SearchTransparentAppstoreEntity &amp;amp;&amp;nbsp;SearchTransparentAllScenceEntity&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-26" value="1. SearchTools.encodeOdata&lt;br&gt;2.&amp;nbsp;SearchTransparentAppstoreEntity &amp;amp;&amp;nbsp;SearchTransparentAllScenceEntity&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="470" y="890" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="1160" width="400" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-28" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-29" target="EvsWAtisF-lOogKjHHgv-30">
@@ -2074,11 +2074,17 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-31" value="CPD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-32" value="1. CreativePacker&lt;br&gt;&lt;b style=&quot;color: rgb(0, 153, 0); text-decoration-line: underline;&quot;&gt;2. encrypted json string with salt&lt;/b&gt;&lt;br&gt;3.&amp;nbsp;CpdTransparent负责透传字段组装" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-32" value="1. CreativePacker&lt;br&gt;&lt;b style=&quot;color: rgb(0, 153, 0); text-decoration-line: underline;&quot;&gt;2. encrypted json string with salt&lt;/b&gt;&lt;br&gt;3.&amp;nbsp;CpdTransparent负责透传字段组装" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="470" y="1160" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-35" value="&lt;font color=&quot;#009900&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;监测上报&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292" y="-30" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="770" as="sourcePoint" />
+            <mxPoint x="950" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
