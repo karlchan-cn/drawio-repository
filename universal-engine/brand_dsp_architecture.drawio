@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T07:35:53.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="O4s_eBbFx4NkX4CloVdB" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-12T09:11:50.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KL5Onq70k65jldt5cM9R" version="21.5.0" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2041,7 +2041,7 @@
         <mxCell id="EvsWAtisF-lOogKjHHgv-19" value="Union" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvsWAtisF-lOogKjHHgv-20" value="1. LinkEntityUtil&lt;br&gt;2. ExtInfoEntity AdLevelKeyInfo&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="EvsWAtisF-lOogKjHHgv-20" value="1. LinkEntityUtil(少量监测链接,而且不上报cpa之类信息)&lt;br&gt;2.&amp;nbsp;TransparentHelper(主要json方式,通过extinfoEntity透传费用相关)&lt;br&gt;2. ExtInfoEntity AdLevelKeyInfo&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;u&gt;2. /t分割,加密字符串&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="470" y="600" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
@@ -2094,6 +2094,18 @@
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-42" value="CpdTranparent" style="html=1;whiteSpace=wrap;strokeWidth=3;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1120" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-43" value="MixTransparent" style="html=1;whiteSpace=wrap;strokeWidth=3;fillColor=#A0522D;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="647.5" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-44" value="FeedsTransparent" style="html=1;whiteSpace=wrap;strokeWidth=3;fillColor=#F0A30A;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="367.5" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-46" value="切换" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvsWAtisF-lOogKjHHgv-45" target="EvsWAtisF-lOogKjHHgv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-45" value="HashMap" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
