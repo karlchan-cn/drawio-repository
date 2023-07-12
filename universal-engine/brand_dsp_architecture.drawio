@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T09:13:11.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HdVrVgzuGP8XPRNYyTeI" version="21.5.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-12T09:15:50.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0Cv5YNyHgDMpqqnoZrgz" version="21.5.0" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2112,6 +2112,12 @@
         </mxCell>
         <mxCell id="EvsWAtisF-lOogKjHHgv-49" value="StatData" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1140" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-51" value="«interface»&lt;br&gt;&lt;b&gt;AdTransparent&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#006600;fontColor=#ffffff;strokeColor=#005700;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="550" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EvsWAtisF-lOogKjHHgv-52" value="«interface»&lt;br&gt;&lt;b&gt;AdBillingTransparent&lt;/b&gt;" style="html=1;whiteSpace=wrap;fillColor=#006600;fontColor=#ffffff;strokeColor=#005700;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="760" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
