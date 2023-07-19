@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:45:27.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uJgHsDnTNe28h_BD8sNC" version="21.6.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-19T06:48:11.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Q1tAPKyGl2l3g3AJOL2q" version="21.6.2" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2462,7 +2462,7 @@
         <mxCell id="U-0D38JpzqgYFHIawe_Z-60" value="Mixer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="162" y="3700" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U-0D38JpzqgYFHIawe_Z-61" value="1. 所有业务&lt;font color=&quot;#009900&quot;&gt;切换使用POJO组装透传对象&lt;/font&gt;&lt;br&gt;2. 原有的POJO顶层的对象,需要统一继承&lt;font color=&quot;#009900&quot;&gt;UnifiedTransparent&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-61" value="1. 所有业务&lt;font color=&quot;#009900&quot;&gt;切换使用POJO组装透传对象&lt;/font&gt;&lt;br&gt;2. 原有的POJO顶层的对象,需要统一继承&lt;font color=&quot;#009900&quot;&gt;UnifiedTransparent&lt;/font&gt;&lt;br&gt;3. 在下游点击/曝光服务中,同样的POJO需要继承UnifiedTransparent" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1100" y="2970" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="U-0D38JpzqgYFHIawe_Z-62" value="云端上报" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="U-0D38JpzqgYFHIawe_Z-63" target="U-0D38JpzqgYFHIawe_Z-67">
@@ -2500,6 +2500,21 @@
         </mxCell>
         <mxCell id="U-0D38JpzqgYFHIawe_Z-73" value="Mixer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="166" y="3980" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-74" value="CpdDownExpCollect" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="19" y="2750" width="300" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-75" value="" style="line;strokeWidth=3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="U-0D38JpzqgYFHIawe_Z-74">
+          <mxGeometry y="26" width="300" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-78" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-0D38JpzqgYFHIawe_Z-74" target="U-0D38JpzqgYFHIawe_Z-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330.47" y="2640" as="sourcePoint" />
+            <mxPoint x="855.47" y="2803" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="844" y="2767" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
