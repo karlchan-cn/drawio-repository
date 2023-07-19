@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:30:20.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ilEiN_8EqN9gULt5WoOI" version="21.6.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-19T06:32:07.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Fgei_K--cSSsajmwQKN8" version="21.6.2" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2456,8 +2456,8 @@
             <mxPoint x="1360" y="2640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-0D38JpzqgYFHIawe_Z-58" value="1. TrackingUrlFunction.generateEncodeData&lt;br&gt;2. &lt;b&gt;&lt;u&gt;&lt;font color=&quot;#009900&quot;&gt;hashMap字段与StatData格式一致&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="2523" width="280" height="160" as="geometry" />
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-58" value="&lt;div&gt;1. 历史:nobid功能-&amp;gt;&lt;font color=&quot;#009900&quot;&gt;可以根据noBid广告类型判断&lt;/font&gt;&lt;/div&gt;&lt;div&gt;2. 历史:psLtv&amp;amp;pdLTV:&lt;font color=&quot;#009900&quot;&gt;通过联运广告区分+资源位策略&lt;/font&gt;&lt;/div&gt;&lt;div&gt;3. 参考上述历史方式,按照领域化分进行透传判断-&lt;font color=&quot;#ff3333&quot;&gt;不能使用biz&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="2523" width="420" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
