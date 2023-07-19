@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T06:36:43.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KNdCwmfpLbcPyU3b2pzb" version="21.6.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-19T06:42:09.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PQy8fMXDRkHeY0AOxph-" version="21.6.2" type="github" pages="15">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2402,9 +2402,6 @@
         <mxCell id="U-0D38JpzqgYFHIawe_Z-29" value="JSON-String" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="284" y="3760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-0D38JpzqgYFHIawe_Z-30" value="1. TrackingUrlFunction.generateEncodeData&lt;br&gt;2. &lt;b&gt;&lt;u&gt;&lt;font color=&quot;#009900&quot;&gt;hashMap字段与StatData格式一致&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="30" y="3870" width="280" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="U-0D38JpzqgYFHIawe_Z-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="598" y="3690" width="400" height="150" as="geometry" />
         </mxCell>
@@ -2467,6 +2464,42 @@
         </mxCell>
         <mxCell id="U-0D38JpzqgYFHIawe_Z-61" value="1. 所有业务&lt;font color=&quot;#009900&quot;&gt;切换使用POJO组装透传对象&lt;/font&gt;&lt;br&gt;2. 原有的POJO顶层的对象,需要统一继承&lt;font color=&quot;#009900&quot;&gt;UnifiedTransparent&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="350" y="2380" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-62" value="云端上报" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="U-0D38JpzqgYFHIawe_Z-63" target="U-0D38JpzqgYFHIawe_Z-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="34" y="3970" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-64" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-0D38JpzqgYFHIawe_Z-65" target="U-0D38JpzqgYFHIawe_Z-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-65" value="HashMap" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="64" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-66" value="JSON-String" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="288" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="602" y="3970" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-68" value="parse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-0D38JpzqgYFHIawe_Z-69" target="U-0D38JpzqgYFHIawe_Z-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-69" value="JSON-String" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="632" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-70" value="HashMap" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="856" y="4040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-71" value="CPD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="492" y="3990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-72" value="ads-cpd-down" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="752" y="3980" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-0D38JpzqgYFHIawe_Z-73" value="Mixer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="166" y="3980" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
