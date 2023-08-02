@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-02T09:49:27.260Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8YMmUQ1PNbWae1eDGP5b" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-02T09:50:45.616Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GRtC73Qblzuf4ak0dLYC" version="21.6.6" type="github" pages="15">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1147,7 +1147,7 @@
           <mxGeometry x="52.5" y="17.5" width="45" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-66" value="&lt;font color=&quot;#009900&quot; face=&quot;helvetica&quot; style=&quot;font-size: 23px&quot;&gt;脚本更新阶段&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
-          <mxGeometry x="680" y="980" width="150" height="40" as="geometry" />
+          <mxGeometry x="680" y="940" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-71" value="&lt;font face=&quot;helvetica&quot; color=&quot;#009900&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;蓝绿/滚动/灰度&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
           <mxGeometry x="1669" y="920" width="170" height="40" as="geometry" />
@@ -1242,6 +1242,15 @@
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="6" y="-23" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
+          <mxGeometry x="1003" y="480" width="30" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
+          <mxGeometry x="1003" y="570" width="30" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
+          <mxGeometry x="1003" y="660" width="30" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
