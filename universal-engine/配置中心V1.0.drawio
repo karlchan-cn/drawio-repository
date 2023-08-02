@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-02T08:45:05.698Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gfx46iEyzm4NwwoP4CAs" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-02T08:46:01.977Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="IJcIm-Zf0iPIG_f703od" version="21.6.6" type="github" pages="15">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1161,11 +1161,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-28" value="&lt;font color=&quot;#009900&quot;&gt;灰度同步&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" target="Z-rnJdzbNdMrig14wDnU-47">
+        <mxCell id="Z-rnJdzbNdMrig14wDnU-28" value="&lt;font color=&quot;#009900&quot;&gt;灰度同步&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" source="Z-rnJdzbNdMrig14wDnU-58" target="Z-rnJdzbNdMrig14wDnU-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1380" y="671" />
               <mxPoint x="1650" y="671" />
-              <mxPoint x="1794" y="670" />
+              <mxPoint x="1650" y="670" />
             </Array>
             <mxPoint x="1408" y="670.75" as="sourcePoint" />
             <mxPoint x="1784" y="580.75" as="targetPoint" />
