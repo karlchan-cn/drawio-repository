@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-02T08:18:05.039Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0AnffW4Sm73RxUPcdFOf" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-02T08:36:32.619Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rnPtR2A7L9PoYweiX5ak" version="21.6.6" type="github" pages="15">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1374,11 +1374,14 @@
         <mxCell id="Z-rnJdzbNdMrig14wDnU-71" value="&lt;font color=&quot;#009900&quot; face=&quot;helvetica&quot; style=&quot;font-size: 23px&quot;&gt;运维&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
           <mxGeometry x="1880" y="980" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MsxGzxAuJ4RVslEKI85g-2" value="1. DB新增ProductId&lt;br&gt;2. Redis新增64G集群&lt;br&gt;3. 新增路由规则,支持V2&lt;br&gt;接口" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
-          <mxGeometry x="270" y="242.99" width="300" height="227.01" as="geometry" />
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-4" value="" style="group" vertex="1" connectable="0" parent="Z-rnJdzbNdMrig14wDnU-1">
+          <mxGeometry x="240" y="250" width="300" height="227.01" as="geometry" />
         </mxCell>
-        <mxCell id="MsxGzxAuJ4RVslEKI85g-3" value="发布单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
-          <mxGeometry x="370" y="242.99" width="60" height="30" as="geometry" />
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-2" value="1. DB新增ProductId&lt;br&gt;2. Redis新增64G集群&lt;br&gt;3. 新增路由规则,支持V2&lt;br&gt;接口" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-4">
+          <mxGeometry width="300" height="227.01" as="geometry" />
+        </mxCell>
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-3" value="发布单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-4">
+          <mxGeometry x="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
