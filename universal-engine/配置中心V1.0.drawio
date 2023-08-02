@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-02T08:36:32.619Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rnPtR2A7L9PoYweiX5ak" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-02T08:38:11.021Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="a_dZawFlHTIxBKuXIi0S" version="21.6.6" type="github" pages="15">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1108,11 +1108,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-11" value="IDE 编码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Z-rnJdzbNdMrig14wDnU-10">
-          <mxGeometry x="0.4195" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" source="Z-rnJdzbNdMrig14wDnU-15" target="Z-rnJdzbNdMrig14wDnU-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1120,11 +1115,6 @@
               <mxPoint x="587" y="617" />
               <mxPoint x="680" y="617" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-13" value="配置中心 web portal编码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Z-rnJdzbNdMrig14wDnU-12">
-          <mxGeometry x="0.3868" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-15" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
@@ -1152,7 +1142,7 @@
         <mxCell id="Z-rnJdzbNdMrig14wDnU-18" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
           <mxGeometry x="606" y="637" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-19" value="&lt;font color=&quot;#000000&quot;&gt;配置中心&lt;/font&gt;&lt;br&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-18">
+        <mxCell id="Z-rnJdzbNdMrig14wDnU-19" value="&lt;font color=&quot;#000000&quot;&gt;DB更新&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-18">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -1163,7 +1153,7 @@
         <mxCell id="Z-rnJdzbNdMrig14wDnU-21" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-20">
           <mxGeometry width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-22" value="&lt;font color=&quot;#000000&quot;&gt;IDE&lt;/font&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_run;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-20">
+        <mxCell id="Z-rnJdzbNdMrig14wDnU-22" value="&lt;font color=&quot;#000000&quot;&gt;Redis集群申请&lt;/font&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_run;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-20">
           <mxGeometry x="10" y="10.5" width="44" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" target="Z-rnJdzbNdMrig14wDnU-62">
@@ -1171,7 +1161,7 @@
             <mxPoint x="871" y="752" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-24" value="变更管控+&lt;br&gt;MR" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#DDDDDD;shadow=1;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
+        <mxCell id="Z-rnJdzbNdMrig14wDnU-24" value="中间件可用校验" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#DDDDDD;shadow=1;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
           <mxGeometry x="827" y="722" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#4284F3;strokeWidth=2;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" source="Z-rnJdzbNdMrig14wDnU-21" target="Z-rnJdzbNdMrig14wDnU-24">
@@ -1350,8 +1340,8 @@
             <mxPoint x="974" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-rnJdzbNdMrig14wDnU-66" value="&lt;font color=&quot;#009900&quot; face=&quot;helvetica&quot; style=&quot;font-size: 23px&quot;&gt;开发&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
-          <mxGeometry x="730" y="980" width="50" height="40" as="geometry" />
+        <mxCell id="Z-rnJdzbNdMrig14wDnU-66" value="&lt;font color=&quot;#009900&quot; face=&quot;helvetica&quot; style=&quot;font-size: 23px&quot;&gt;脚本更新阶段&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
+          <mxGeometry x="680" y="980" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-67" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=9;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1375,7 +1365,7 @@
           <mxGeometry x="1880" y="980" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MsxGzxAuJ4RVslEKI85g-4" value="" style="group" vertex="1" connectable="0" parent="Z-rnJdzbNdMrig14wDnU-1">
-          <mxGeometry x="240" y="250" width="300" height="227.01" as="geometry" />
+          <mxGeometry x="440" y="290" width="300" height="227.01" as="geometry" />
         </mxCell>
         <mxCell id="MsxGzxAuJ4RVslEKI85g-2" value="1. DB新增ProductId&lt;br&gt;2. Redis新增64G集群&lt;br&gt;3. 新增路由规则,支持V2&lt;br&gt;接口" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-4">
           <mxGeometry width="300" height="227.01" as="geometry" />
