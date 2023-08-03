@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-03T03:34:02.172Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jKH12dMLbvI75ADXx-mg" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-03T03:36:18.191Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kuc1lomJGh0Yr7Ti-lI1" version="21.6.6" type="github" pages="15">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1296,7 +1296,7 @@
         <mxCell id="MsxGzxAuJ4RVslEKI85g-46" value="" style="group" vertex="1" connectable="0" parent="Z-rnJdzbNdMrig14wDnU-1">
           <mxGeometry x="1530" y="230" width="300" height="227.01" as="geometry" />
         </mxCell>
-        <mxCell id="MsxGzxAuJ4RVslEKI85g-47" value="1. 灰度流量比例1‰&lt;br&gt;2. 观测指标ecpm 波动率&amp;lt;=2%&lt;br&gt;3. 基线组-蓝组 实验组-绿组&lt;br&gt;接口&lt;br&gt;4. 动态配置更新" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-47" value="1. 灰度流量比例1‰&lt;br&gt;2. 观测指标ecpm 波动率&amp;lt;=2%&lt;br&gt;3. 基线组-蓝组 实验组-绿组&lt;br&gt;4. 异常自动化-指标异常,自动&lt;br&gt;回滚绿组/流量调度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
           <mxGeometry width="300" height="227.01" as="geometry" />
         </mxCell>
         <mxCell id="MsxGzxAuJ4RVslEKI85g-48" value="发布单-p2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
@@ -1359,6 +1359,26 @@
             </Array>
             <mxPoint x="1490" y="417.99" as="sourcePoint" />
             <mxPoint x="1400" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#99C147;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" target="Z-rnJdzbNdMrig14wDnU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1329" y="580" />
+              <mxPoint x="1396" y="580" />
+              <mxPoint x="1396" y="703" />
+            </Array>
+            <mxPoint x="1329" y="580" as="sourcePoint" />
+            <mxPoint x="1445" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#CCCCCC;strokeWidth=2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Z-rnJdzbNdMrig14wDnU-1" source="MsxGzxAuJ4RVslEKI85g-5" target="MsxGzxAuJ4RVslEKI85g-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1329" y="542" />
+            </Array>
+            <mxPoint x="1270" y="473" as="sourcePoint" />
+            <mxPoint x="1409" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
