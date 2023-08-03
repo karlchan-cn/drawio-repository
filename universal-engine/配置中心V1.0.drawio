@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-03T03:15:09.265Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jgyb09_dLVtE9tmeaB4H" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-03T03:34:02.172Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jKH12dMLbvI75ADXx-mg" version="21.6.6" type="github" pages="15">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1294,12 +1294,12 @@
           <mxGeometry x="481.75" y="890" width="56.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="MsxGzxAuJ4RVslEKI85g-46" value="" style="group" vertex="1" connectable="0" parent="Z-rnJdzbNdMrig14wDnU-1">
-          <mxGeometry x="1380" y="980" width="300" height="227.01" as="geometry" />
+          <mxGeometry x="1530" y="230" width="300" height="227.01" as="geometry" />
         </mxCell>
-        <mxCell id="MsxGzxAuJ4RVslEKI85g-47" value="1. DB新增ProductId&lt;br&gt;2. Redis新增64G集群&lt;br&gt;3. 新增路由规则,支持V2&lt;br&gt;接口&lt;br&gt;4. 动态配置更新" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-47" value="1. 灰度流量比例1‰&lt;br&gt;2. 观测指标ecpm 波动率&amp;lt;=2%&lt;br&gt;3. 基线组-蓝组 实验组-绿组&lt;br&gt;接口&lt;br&gt;4. 动态配置更新" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
           <mxGeometry width="300" height="227.01" as="geometry" />
         </mxCell>
-        <mxCell id="MsxGzxAuJ4RVslEKI85g-48" value="发布单-p1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
+        <mxCell id="MsxGzxAuJ4RVslEKI85g-48" value="发布单-p2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="MsxGzxAuJ4RVslEKI85g-46">
           <mxGeometry x="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MsxGzxAuJ4RVslEKI85g-49" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="Z-rnJdzbNdMrig14wDnU-1">
