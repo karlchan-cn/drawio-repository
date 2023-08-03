@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-03T06:54:45.641Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oUOSoGPW77KU-TlUV3FH" version="21.6.6" type="github" pages="15">
+<mxfile modified="2023-08-03T07:10:23.521Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dsOSyqh1DBJ_qVAw4yZW" version="21.6.6" type="github" pages="16">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="整体框架">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1046,7 +1046,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="整体框架-量化发布" id="TmzjzdTekYkbwYVlPdvZ">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Z-rnJdzbNdMrig14wDnU-0" />
         <mxCell id="Z-rnJdzbNdMrig14wDnU-1" parent="Z-rnJdzbNdMrig14wDnU-0" />
@@ -1432,6 +1432,32 @@
             <mxPoint x="1339" y="590" as="sourcePoint" />
             <mxPoint x="1430" y="713" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="整体框架-量化发布 的副本" id="mt8Kuyb7h3iHAz8UlO28">
+    <mxGraphModel dx="2603" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-0" />
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-1" parent="PN2T3kSQPUqQ87iAKmtf-0" />
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-28" value="" style="group" vertex="1" connectable="0" parent="PN2T3kSQPUqQ87iAKmtf-1">
+          <mxGeometry x="-80" y="30" width="300" height="227.01" as="geometry" />
+        </mxCell>
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-29" value="1. DB新增ProductId&lt;br&gt;2. Redis新增64G集群&lt;br&gt;3. 新增路由规则,支持V2&lt;br&gt;接口&lt;br&gt;4. 动态配置更新" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="PN2T3kSQPUqQ87iAKmtf-28">
+          <mxGeometry width="300" height="227.01" as="geometry" />
+        </mxCell>
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-30" value="发布单-p1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="PN2T3kSQPUqQ87iAKmtf-28">
+          <mxGeometry x="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-59" value="" style="group" vertex="1" connectable="0" parent="PN2T3kSQPUqQ87iAKmtf-1">
+          <mxGeometry x="238.25" y="30" width="300" height="227.01" as="geometry" />
+        </mxCell>
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-60" value="1. 灰度流量比例1‰&lt;br&gt;2. 观测指标ecpm 波动率&amp;lt;=2%&lt;br&gt;3. 基线组-蓝组 实验组-绿组&lt;br&gt;4. 异常自动化-指标异常,自动&lt;br&gt;回滚绿组/流量调度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="PN2T3kSQPUqQ87iAKmtf-59">
+          <mxGeometry width="300" height="227.01" as="geometry" />
+        </mxCell>
+        <mxCell id="PN2T3kSQPUqQ87iAKmtf-61" value="发布单-p2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="PN2T3kSQPUqQ87iAKmtf-59">
+          <mxGeometry x="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
