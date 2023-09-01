@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T07:03:38.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UQIIDXMRs2nKSk_uBgmL" version="21.6.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-09-01T07:04:05.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ipm_UaGBtYHKD_Zyyv87" version="21.6.8" type="github" pages="17">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -2894,7 +2894,7 @@
         <mxCell id="EPMHTFsKJArgeXQej-ZX-6" value="结束" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="60" y="900" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EPMHTFsKJArgeXQej-ZX-12" value="1. 只针对浏览器开屏实现,避免带来大量的adx无效请求&lt;br&gt;2. 异步请求会对广告主披露大量用户信息&lt;br&gt;3. 广告主的竞得率将会降低,需要从诊断区分&lt;br&gt;4. BOSS诊断链路将会有AE疑问" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" vertex="1" parent="1">
+        <mxCell id="EPMHTFsKJArgeXQej-ZX-12" value="1. 只针对浏览器开屏实现,避免带来大量的adx无效请求&lt;br style=&quot;font-size: 15px;&quot;&gt;2. 异步请求会对广告主披露大量用户信息&lt;br style=&quot;font-size: 15px;&quot;&gt;3. 广告主的竞得率将会降低,需要从诊断区分&lt;br style=&quot;font-size: 15px;&quot;&gt;4. BOSS诊断链路将会有AE疑问" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="350" width="370" height="190" as="geometry" />
         </mxCell>
       </root>
