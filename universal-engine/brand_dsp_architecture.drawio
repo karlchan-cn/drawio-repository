@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T06:54:23.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZDLJcViXPAqoUU6f3m8i" version="22.1.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:57:16.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8dWdPLAtYj4qhLY4akmp" version="22.1.0" type="github" pages="19">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3119,9 +3119,6 @@
         </mxCell>
         <mxCell id="hKXU_zroJo3sfTk0NzgW-32" value="6. 返回广告&amp;nbsp; + JSON透传 + 计费链接 (50+&lt;br&gt;)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="hKXU_zroJo3sfTk0NzgW-27" target="hKXU_zroJo3sfTk0NzgW-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hKXU_zroJo3sfTk0NzgW-33" value="Obus 服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="790" y="285" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="hKXU_zroJo3sfTk0NzgW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="hKXU_zroJo3sfTk0NzgW-35" target="hKXU_zroJo3sfTk0NzgW-37">
           <mxGeometry relative="1" as="geometry" />
