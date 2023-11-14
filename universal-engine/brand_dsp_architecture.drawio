@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T06:27:41.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gxMxWCRV_cXQb2fFzGoj" version="22.1.0" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-11-14T06:41:14.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wkpDslWhwGQcEcqtEmcW" version="22.1.0" type="github" pages="21">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3294,17 +3294,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="if8ERWD7Xb9MGY_CwAMt-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-25" y="20" width="870" height="520" as="geometry" />
+        <mxCell id="if8ERWD7Xb9MGY_CwAMt-10" value="" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="20" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="if8ERWD7Xb9MGY_CwAMt-7" value="" style="group" vertex="1" connectable="0" parent="if8ERWD7Xb9MGY_CwAMt-6">
-          <mxGeometry x="-35" width="870" height="520" as="geometry" />
+        <mxCell id="if8ERWD7Xb9MGY_CwAMt-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-60" width="870" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="if8ERWD7Xb9MGY_CwAMt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="if8ERWD7Xb9MGY_CwAMt-7">
-          <mxGeometry y="22.60869565217391" width="870" height="497.39130434782606" as="geometry" />
+        <mxCell id="snvF4_DFSz7MnSiZmwHN-2" value="" style="group" vertex="1" connectable="0" parent="if8ERWD7Xb9MGY_CwAMt-7">
+          <mxGeometry width="870" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="if8ERWD7Xb9MGY_CwAMt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="if8ERWD7Xb9MGY_CwAMt-7">
+        <mxCell id="if8ERWD7Xb9MGY_CwAMt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="snvF4_DFSz7MnSiZmwHN-2">
+          <mxGeometry y="22.61" width="640" height="497.39" as="geometry" />
+        </mxCell>
+        <mxCell id="if8ERWD7Xb9MGY_CwAMt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="snvF4_DFSz7MnSiZmwHN-2">
           <mxGeometry width="285.46875" height="22.60869565217391" as="geometry" />
+        </mxCell>
+        <mxCell id="snvF4_DFSz7MnSiZmwHN-1" value="核心逻辑&lt;br&gt;1. detailFill填充详情(CPD)&lt;br&gt;&lt;br&gt;2. 监测链接组装环节,调用统一计费链接服务&lt;br&gt;&lt;br&gt;3. 统一计费链接增加宏参数-charge=true/false,控制计费链接生效&lt;br&gt;&lt;br&gt;4. charget=true,计费网关对请求进行计费&lt;br&gt;&lt;br&gt;5. 计费链接只有tid(traceId),用作计费&lt;br&gt;&lt;br&gt;6. 以上计费生效都可以通过实验控制&lt;br&gt;&amp;nbsp;6.1 实验code: exp_code_unified_statistics_upload&lt;br&gt;&amp;nbsp;6.2 实验参数：unified_charge" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="snvF4_DFSz7MnSiZmwHN-2">
+          <mxGeometry x="390" y="140" width="200" height="275" as="geometry" />
         </mxCell>
         <mxCell id="if8ERWD7Xb9MGY_CwAMt-8" value="com.heytap.ad.show.mixer.core.detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="if8ERWD7Xb9MGY_CwAMt-7">
           <mxGeometry x="190" y="22.61" width="300" height="30" as="geometry" />
@@ -3337,9 +3343,6 @@
             <mxPoint x="10" y="190" as="sourcePoint" />
             <mxPoint x="170" y="190" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="if8ERWD7Xb9MGY_CwAMt-10" value="" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="20" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
