@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T03:49:37.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yxf9A4Th8_M-5Ofqfkjp" version="22.1.2" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-11-17T03:49:44.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="X2Mw8ANsYqh-Gpdhmo4Y" version="22.1.2" type="github" pages="24">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -3644,7 +3644,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="品牌在线广告架构(新)" id="AwX3y_S5slLSp0vWBSD_">
-    <mxGraphModel dx="2261" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PE4Vd3FWLzOpcI46_WVc-0" />
         <mxCell id="PE4Vd3FWLzOpcI46_WVc-1" parent="PE4Vd3FWLzOpcI46_WVc-0" />
@@ -3658,7 +3658,7 @@
             <mxGeometry x="80" y="560" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Brand Retrieve Service" c4Type="Software System" c4Description="品牌limit服务输出-广告状态-ready,offline,online" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="PE4Vd3FWLzOpcI46_WVc-5">
+        <object placeholders="1" c4Name="Brand Retrieve Service" c4Type="Software System" c4Description="retrieve brand ad" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="PE4Vd3FWLzOpcI46_WVc-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="PE4Vd3FWLzOpcI46_WVc-1">
             <mxGeometry x="510" y="560" width="240" height="120" as="geometry" />
           </mxCell>
