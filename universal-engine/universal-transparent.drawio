@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T06:28:54.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="96x5Byn7D210AQkM9aZ1" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-20T06:44:06.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rCz5OVwJ7sJJiY9IjIW7" version="22.1.11" type="github" pages="10">
   <diagram id="OUJhQwswnVMsuxtZN97R" name="统一Req上报Container">
     <mxGraphModel dx="2261" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,20 +141,58 @@
         <mxCell id="5lLLbzkeYmTeKy41NLKb-1" value="ReqDataUploadFilter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-510" y="300" width="160" height="595" as="geometry" />
         </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5lLLbzkeYmTeKy41NLKb-1">
+          <mxGeometry x="75" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="yD_eeYNv4qLtXJ6tTek3-1" value="UnifiedAdReqUploadImpl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="300" width="160" height="595" as="geometry" />
+          <mxGeometry x="-300" y="300" width="160" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yD_eeYNv4qLtXJ6tTek3-1">
+          <mxGeometry x="75" y="80" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yD_eeYNv4qLtXJ6tTek3-1">
+          <mxGeometry x="75" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-14" value="读取实验code/总开关&lt;br&gt;确定上报" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="yD_eeYNv4qLtXJ6tTek3-13" parent="yD_eeYNv4qLtXJ6tTek3-1" source="yD_eeYNv4qLtXJ6tTek3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="100" />
+              <mxPoint x="110" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yD_eeYNv4qLtXJ6tTek3-2" value="RecordDetailAdInfoGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="300" width="180" height="595" as="geometry" />
+          <mxGeometry x="-90" y="300" width="180" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yD_eeYNv4qLtXJ6tTek3-2">
+          <mxGeometry x="85" y="220" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yD_eeYNv4qLtXJ6tTek3-3" value="RecordDetailBillingInfoGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="180" height="595" as="geometry" />
+          <mxGeometry x="140" y="300" width="180" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yD_eeYNv4qLtXJ6tTek3-3">
+          <mxGeometry x="85" y="220" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yD_eeYNv4qLtXJ6tTek3-4" value="RecordDetailRankContextGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="300" width="200" height="595" as="geometry" />
+          <mxGeometry x="370" y="300" width="200" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yD_eeYNv4qLtXJ6tTek3-4">
+          <mxGeometry x="95" y="220" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="yD_eeYNv4qLtXJ6tTek3-5" value="RecordDetailRequestContextGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="300" width="240" height="595" as="geometry" />
+          <mxGeometry x="620" y="300" width="240" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yD_eeYNv4qLtXJ6tTek3-5">
+          <mxGeometry x="115" y="220" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-8" value="统一上报Req(obus)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="yD_eeYNv4qLtXJ6tTek3-7" parent="1" source="5lLLbzkeYmTeKy41NLKb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-295" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-15" value="loop ad" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="520" width="300" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
