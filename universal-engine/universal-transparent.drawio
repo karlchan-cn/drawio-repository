@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T12:10:32.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CkCKd5hWrIrKZdmzFq84" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-20T06:28:54.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="96x5Byn7D210AQkM9aZ1" version="22.1.11" type="github" pages="10">
   <diagram id="OUJhQwswnVMsuxtZN97R" name="统一Req上报Container">
     <mxGraphModel dx="2261" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,27 +134,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zcDI3TEwV6rgY4WQRVRY" name="统一上报Req">
-    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5lLLbzkeYmTeKy41NLKb-1" value="负一屏服务端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="295" width="100" height="595" as="geometry" />
+        <mxCell id="5lLLbzkeYmTeKy41NLKb-1" value="ReqDataUploadFilter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="300" width="160" height="595" as="geometry" />
         </mxCell>
-        <mxCell id="5lLLbzkeYmTeKy41NLKb-6" value="品牌DSP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="79" y="295" width="100" height="585" as="geometry" />
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-1" value="UnifiedAdReqUploadImpl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="300" width="160" height="595" as="geometry" />
         </mxCell>
-        <mxCell id="5lLLbzkeYmTeKy41NLKb-8" value="投放服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="295" width="100" height="585" as="geometry" />
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-2" value="RecordDetailAdInfoGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="180" height="595" as="geometry" />
         </mxCell>
-        <mxCell id="5lLLbzkeYmTeKy41NLKb-10" value="负一屏客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="295" width="100" height="595" as="geometry" />
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-3" value="RecordDetailBillingInfoGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="180" height="595" as="geometry" />
         </mxCell>
-        <mxCell id="5lLLbzkeYmTeKy41NLKb-15" value="详情服务(宽表物料等)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="295" width="100" height="585" as="geometry" />
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-4" value="RecordDetailRankContextGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="200" height="595" as="geometry" />
         </mxCell>
-        <mxCell id="5lLLbzkeYmTeKy41NLKb-18" value="外部DSP(快手)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="295" width="100" height="475" as="geometry" />
+        <mxCell id="yD_eeYNv4qLtXJ6tTek3-5" value="RecordDetailRequestContextGenerator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="240" height="595" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
