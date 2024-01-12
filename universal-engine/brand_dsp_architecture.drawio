@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T03:15:04.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6Y1HN7ns0h9vnwpIiYPM" version="22.1.18" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-01-12T03:15:53.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1AW8p7mov8ZiSuSk2bQS" version="22.1.18" type="github" pages="27">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4047,7 +4047,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FRCaWxCR-f_KJSYa2ZCG-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;优先级:&lt;/font&gt;高 -&amp;gt; 低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="200" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FRCaWxCR-f_KJSYa2ZCG-8" value="PA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="230" height="80" as="geometry" />
