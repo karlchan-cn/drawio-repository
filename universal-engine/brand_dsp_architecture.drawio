@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T07:59:01.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1onkGSSqUj4065RARGqW" version="22.1.21" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-01-24T08:38:46.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="r4BmGWYx8MOm-CgONUL-" version="22.1.21" type="github" pages="29">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4070,7 +4070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bdWdHFg7yjwrfUaFF0Dj" name="流量接入统计">
-    <mxGraphModel dx="3915" dy="764" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3915" dy="884" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4208,7 +4208,7 @@
         <mxCell id="1e9qRIOmrKisMAl2wBai-3" value="广告计费网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2078" y="905" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-7" value="OBUS服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-7" value="OBUS统计服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1805" y="905" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DdG6q9HEjdl5-dOus55y-1" value="云控服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
@@ -4221,6 +4221,22 @@
           <mxGeometry x="-0.4207" y="-2" relative="1" as="geometry">
             <mxPoint x="-18" y="25" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DdG6q9HEjdl5-dOus55y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="DdG6q9HEjdl5-dOus55y-18" target="1e9qRIOmrKisMAl2wBai-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1733" y="868" />
+              <mxPoint x="-2010" y="868" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdG6q9HEjdl5-dOus55y-20" value="定时同步元数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DdG6q9HEjdl5-dOus55y-19">
+          <mxGeometry x="-0.0844" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdG6q9HEjdl5-dOus55y-18" value="OBUS元数据服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1804" y="784" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
