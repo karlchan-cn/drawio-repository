@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:19:55.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PvlchnbbdTtYpDlJkEt0" version="22.1.21" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-01-24T07:38:48.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4-tq7vz9AjuTqzvWTMEP" version="22.1.21" type="github" pages="29">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4183,33 +4183,33 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-2460" y="780" width="160" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="1e9qRIOmrKisMAl2wBai-2" target="1e9qRIOmrKisMAl2wBai-3">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="1e9qRIOmrKisMAl2wBai-2" target="1e9qRIOmrKisMAl2wBai-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-5" value="https 上报点击/曝光数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1e9qRIOmrKisMAl2wBai-4">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-5" value="https 上报点击/曝光数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1e9qRIOmrKisMAl2wBai-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2417" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="13" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-2" value="obus客户端SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-2" value="obus客户端SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-2340" y="880" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="1e9qRIOmrKisMAl2wBai-3" target="1e9qRIOmrKisMAl2wBai-7">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="1e9qRIOmrKisMAl2wBai-3" target="1e9qRIOmrKisMAl2wBai-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-9" value="S2S上报数据入湖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1e9qRIOmrKisMAl2wBai-8">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-9" value="http上报OBUS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1e9qRIOmrKisMAl2wBai-8" vertex="1" connectable="0">
           <mxGeometry x="-0.3048" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-3" value="广告业务网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="905" width="220" height="60" as="geometry" />
+        <mxCell id="1e9qRIOmrKisMAl2wBai-3" value="广告业务网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2078" y="905" width="127" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-7" value="广告业务网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1610" y="905" width="220" height="60" as="geometry" />
+        <mxCell id="1e9qRIOmrKisMAl2wBai-7" value="OBUS gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1805" y="905" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
