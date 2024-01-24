@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T07:38:48.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4-tq7vz9AjuTqzvWTMEP" version="22.1.21" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-01-24T07:42:01.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="15heDmezLxDUaH4dEUBW" version="22.1.21" type="github" pages="29">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4189,7 +4189,7 @@
         <mxCell id="1e9qRIOmrKisMAl2wBai-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="1e9qRIOmrKisMAl2wBai-2" target="1e9qRIOmrKisMAl2wBai-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-5" value="https 上报点击/曝光数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1e9qRIOmrKisMAl2wBai-4" vertex="1" connectable="0">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-5" value="https 上报点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1e9qRIOmrKisMAl2wBai-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2417" y="-2" relative="1" as="geometry">
             <mxPoint x="13" y="-3" as="offset" />
           </mxGeometry>
@@ -4205,11 +4205,22 @@
             <mxPoint x="14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-3" value="广告业务网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2078" y="905" width="127" height="60" as="geometry" />
+        <mxCell id="1e9qRIOmrKisMAl2wBai-3" value="广告计费网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2078" y="905" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1e9qRIOmrKisMAl2wBai-7" value="OBUS gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1e9qRIOmrKisMAl2wBai-7" value="OBUS服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1805" y="905" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdG6q9HEjdl5-dOus55y-1" value="云控服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2085" y="776" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdG6q9HEjdl5-dOus55y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.191;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="DdG6q9HEjdl5-dOus55y-1" target="1e9qRIOmrKisMAl2wBai-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdG6q9HEjdl5-dOus55y-3" value="同步广告计费网关&lt;br&gt;Endpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DdG6q9HEjdl5-dOus55y-2">
+          <mxGeometry x="-0.4207" y="-2" relative="1" as="geometry">
+            <mxPoint x="-18" y="25" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
