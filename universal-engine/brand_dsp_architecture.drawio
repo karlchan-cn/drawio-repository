@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T09:03:13.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NU0Rwb0MiXUpVwcussmD" version="23.0.1" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2024-01-25T09:04:01.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6BSSER_tVSIIXVqBah0B" version="23.0.1" type="github" pages="29">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4247,7 +4247,7 @@
         <mxCell id="s0j4oAzaEC6kRiY8Avzi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s0j4oAzaEC6kRiY8Avzi-4" target="s0j4oAzaEC6kRiY8Avzi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s0j4oAzaEC6kRiY8Avzi-3" value="&lt;font color=&quot;#ff3333&quot;&gt;业务处理事件(点击下载)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0j4oAzaEC6kRiY8Avzi-2">
+        <mxCell id="s0j4oAzaEC6kRiY8Avzi-3" value="&lt;font color=&quot;#ff3333&quot;&gt;1.业务处理事件(点击下载)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0j4oAzaEC6kRiY8Avzi-2">
           <mxGeometry x="-0.2417" y="-2" relative="1" as="geometry">
             <mxPoint x="13" y="-3" as="offset" />
           </mxGeometry>
@@ -4260,7 +4260,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s0j4oAzaEC6kRiY8Avzi-19" value="非业务处理事件-曝光等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0j4oAzaEC6kRiY8Avzi-18">
+        <mxCell id="s0j4oAzaEC6kRiY8Avzi-19" value="2. 非业务处理事件-曝光等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0j4oAzaEC6kRiY8Avzi-18">
           <mxGeometry x="-0.1152" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -4288,7 +4288,7 @@
         <mxCell id="s0j4oAzaEC6kRiY8Avzi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.191;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="s0j4oAzaEC6kRiY8Avzi-9" target="s0j4oAzaEC6kRiY8Avzi-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s0j4oAzaEC6kRiY8Avzi-11" value="异步同步广告计费网关&lt;br&gt;Endpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0j4oAzaEC6kRiY8Avzi-10">
+        <mxCell id="s0j4oAzaEC6kRiY8Avzi-11" value="异步同步#事件上报#网关&lt;br&gt;Endpoint" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s0j4oAzaEC6kRiY8Avzi-10">
           <mxGeometry x="-0.4207" y="-2" relative="1" as="geometry">
             <mxPoint x="-18" y="25" as="offset" />
           </mxGeometry>
