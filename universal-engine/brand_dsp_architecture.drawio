@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T09:19:04.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="U-aMY28JS5vuINqu5yM0" version="23.0.2" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2024-01-26T09:19:26.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OXxmplj5GJNaUs7L2IGA" version="23.0.2" type="github" pages="31">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4250,7 +4250,7 @@
           <mxGeometry x="-2032" y="670" width="82" height="41" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-16" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-2466" y="1298" width="160" height="220" as="geometry" />
+          <mxGeometry x="-2466" y="1358" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lwi55EZsA01bB2j0Yi_3-21" target="lwi55EZsA01bB2j0Yi_3-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4263,8 +4263,8 @@
         <mxCell id="lwi55EZsA01bB2j0Yi_3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lwi55EZsA01bB2j0Yi_3-21" target="lwi55EZsA01bB2j0Yi_3-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2316" y="1557" />
-              <mxPoint x="-1740" y="1557" />
+              <mxPoint x="-2316" y="1617" />
+              <mxPoint x="-1740" y="1617" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4274,7 +4274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-21" value="obus客户端SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="-2346" y="1398" width="60" height="110" as="geometry" />
+          <mxGeometry x="-2346" y="1458" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lwi55EZsA01bB2j0Yi_3-24" target="lwi55EZsA01bB2j0Yi_3-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4285,13 +4285,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-24" value="广告计费网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2084" y="1423" width="136" height="60" as="geometry" />
+          <mxGeometry x="-2084" y="1483" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-25" value="OBUS统计服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1811" y="1423" width="141" height="60" as="geometry" />
+          <mxGeometry x="-1811" y="1483" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-26" value="云控服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-2091" y="1294" width="134" height="60" as="geometry" />
+          <mxGeometry x="-2091" y="1354" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.191;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" parent="1" source="lwi55EZsA01bB2j0Yi_3-26" target="lwi55EZsA01bB2j0Yi_3-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4304,8 +4304,8 @@
         <mxCell id="lwi55EZsA01bB2j0Yi_3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;" parent="1" source="lwi55EZsA01bB2j0Yi_3-31" target="lwi55EZsA01bB2j0Yi_3-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1739" y="1386" />
-              <mxPoint x="-1992" y="1386" />
+              <mxPoint x="-1739" y="1446" />
+              <mxPoint x="-1992" y="1446" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4315,16 +4315,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-31" value="OBUS元数据服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1810" y="1302" width="141" height="60" as="geometry" />
+          <mxGeometry x="-1810" y="1362" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-32" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;obus sdk&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-2033" y="1403" width="82" height="41" as="geometry" />
+          <mxGeometry x="-2033" y="1463" width="82" height="41" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-33" value="PlanB(1)-保底方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2186" y="480" width="246" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lwi55EZsA01bB2j0Yi_3-34" value="PlanA-诉求方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2160" y="1240" width="246" height="30" as="geometry" />
+          <mxGeometry x="-2160" y="1300" width="246" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IDTtOTgb3e3Bf5QIkSyn-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-2461.5" y="945" width="160" height="220" as="geometry" />
