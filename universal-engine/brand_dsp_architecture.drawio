@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T07:23:29.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_K4rR7NiilDdLTeAS5Q5" version="23.0.2" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2024-01-30T07:23:36.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NK-0r-15HNmp7DtlxObn" version="23.0.2" type="github" pages="32">
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
     <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -4536,10 +4536,10 @@
         <mxCell id="Dktoe-6RTW00hNqONl8V-33" value="商平算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dktoe-6RTW00hNqONl8V-36" value="RTA-DSP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="Dktoe-6RTW00hNqONl8V-36" value="RTA-DSP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="843" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dktoe-6RTW00hNqONl8V-37" value="RTB-DSP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="Dktoe-6RTW00hNqONl8V-37" value="RTB-DSP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="850" y="-20" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
