@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T06:33:40.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tV4ps346bkbvcPCUg-dj" version="23.1.6" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2024-02-26T06:35:48.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="V97YmHwgqtGVOIY8F2va" version="23.1.6" type="github" pages="34">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -454,10 +454,10 @@
           <mxGeometry x="-860" y="2000" width="660" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZQdHpQARr5md5fBV4uc-4" value="新广告冷启扶持SBL2实验层（重叠域）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="1970" width="290" height="30" as="geometry" />
+          <mxGeometry x="-675" y="1970" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZQdHpQARr5md5fBV4uc-5" value="冷启动扶持策略对高相似广告不生效实验（重叠域）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1840" width="385" height="30" as="geometry" />
+          <mxGeometry x="-722.5" y="1840" width="385" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZQdHpQARr5md5fBV4uc-7" value="33435(5%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-855" y="2005" width="100" height="50" as="geometry" />
