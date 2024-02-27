@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T11:55:56.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RK97KYyLaGR0burC3_JH" version="23.1.7" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2024-02-27T11:56:03.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fMGItArzdfvex3NZ_MCK" version="23.1.7" type="github" pages="34">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -485,7 +485,7 @@
         <mxCell id="rPVCtNiLk5vZJeYaA-Oc-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-843" y="1300" width="430" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rPVCtNiLk5vZJeYaA-Oc-36" value="Kafka-Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rPVCtNiLk5vZJeYaA-Oc-36" value="kafka-Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-688" y="1240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rPVCtNiLk5vZJeYaA-Oc-37" value="feeds-req" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
