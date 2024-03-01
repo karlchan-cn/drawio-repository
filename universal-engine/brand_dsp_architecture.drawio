@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T06:29:24.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PVPL6F3PEi2uEtI1Zlqv" version="23.1.8" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2024-03-01T06:31:48.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XwmDHUWXhUj5YOx3oRuV" version="23.1.8" type="github" pages="34">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,14 +324,11 @@
         <mxCell id="elTh--efCGGb5umrF2Jh-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-1185" y="2692.5" width="660" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="elTh--efCGGb5umrF2Jh-9" value="Alg=0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1177" y="2697.5" width="427" height="50" as="geometry" />
+        <mxCell id="elTh--efCGGb5umrF2Jh-9" value="Alg=0. 大于 95%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1177" y="2697.5" width="557" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="elTh--efCGGb5umrF2Jh-10" value="ALG=2效果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="elTh--efCGGb5umrF2Jh-10" value="ALG=2效果&lt;br&gt;&amp;lt;5%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-610" y="2697.5" width="73" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="elTh--efCGGb5umrF2Jh-11" value="ALG=0效果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-747" y="2697.5" width="127" height="50" as="geometry" />
         </mxCell>
         <mxCell id="elTh--efCGGb5umrF2Jh-13" value="数据阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="2707.5" width="120" height="30" as="geometry" />
