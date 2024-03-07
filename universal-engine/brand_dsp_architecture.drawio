@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T12:21:00.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="uYAH0pzcXJbt2900NEBT" version="24.0.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2024-03-07T12:31:21.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-ZB06qiK7KzRdrcnPjX6" version="24.0.2" type="github" pages="34">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
-    <mxGraphModel dx="3915" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3847" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,6 +312,74 @@
         </mxCell>
         <mxCell id="bdAWTo2_LK2yiNxBc15w-40" value="FeedsToutiaoPredictorInvoker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-553.13" y="2010" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="bdAWTo2_LK2yiNxBc15w-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-940" y="2700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-45" target="bdAWTo2_LK2yiNxBc15w-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-45" value="...." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="2670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-48" target="bdAWTo2_LK2yiNxBc15w-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-48" target="bdAWTo2_LK2yiNxBc15w-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-48" value="predictorInvokeHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="2670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-51" target="bdAWTo2_LK2yiNxBc15w-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-51" target="bdAWTo2_LK2yiNxBc15w-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-51" value="postPredictorHandle&lt;div&gt;(算法预估后置处理)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="2670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-59" target="bdAWTo2_LK2yiNxBc15w-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-59" value="postRankerFailHandle&lt;div&gt;(精排失败)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-60" value="postDspHandle&lt;div&gt;(后置处理)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2670" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-62" target="bdAWTo2_LK2yiNxBc15w-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-62" value="rtaFilterResponseHandleFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-204.12" y="2780" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-64" target="bdAWTo2_LK2yiNxBc15w-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-64" value="rtaDynamicPriceResponseHandleFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-204.12" y="2890" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-66" target="bdAWTo2_LK2yiNxBc15w-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-66" value="predictCvrCalibrationFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-204.12" y="3000" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bdAWTo2_LK2yiNxBc15w-68" target="bdAWTo2_LK2yiNxBc15w-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-68" value="predictBidFilter&lt;div&gt;(预估价格计算)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-204.12" y="3110" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-69" value="predictedRankFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-204.12" y="3220" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bdAWTo2_LK2yiNxBc15w-70" value="FeedsToutiaoPredictorInvoker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-583.13" y="2900" width="256.25" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
