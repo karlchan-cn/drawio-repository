@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T06:11:31.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4F651BX9ykrHCK2Vbz62" version="24.0.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2024-03-08T06:12:23.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6F-_MGxRT8FkBC4MG6XI" version="24.0.2" type="github" pages="35">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="3915" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,6 +373,104 @@
             <mxPoint x="30" y="2510" as="sourcePoint" />
             <mxPoint x="220" y="2510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pnyv3A4oJ3VWG-qjIjZk" name="第 35 页">
+    <mxGraphModel dx="3915" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z8gu9einm-_RU-JVOlFX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-2" target="z8gu9einm-_RU-JVOlFX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-2" value="litePredictorInvokeHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-4" target="z8gu9einm-_RU-JVOlFX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-4" value="postLitePredictorHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-7" target="z8gu9einm-_RU-JVOlFX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-7" target="z8gu9einm-_RU-JVOlFX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-7" value="predictorInvokeHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-10" target="z8gu9einm-_RU-JVOlFX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-10" target="z8gu9einm-_RU-JVOlFX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-10" value="postPredictorHandle&lt;div&gt;(算法预估后置处理)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-12" target="z8gu9einm-_RU-JVOlFX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-12" value="postRecallHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-14" target="z8gu9einm-_RU-JVOlFX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-14" value="recallInvokeHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-16" target="z8gu9einm-_RU-JVOlFX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-16" value="preExtendHandle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-18" target="z8gu9einm-_RU-JVOlFX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-18" value="postRankerFailHandle&lt;div&gt;(精排失败)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-19" value="postDspHandle&lt;div&gt;(后置处理)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1780" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-21" target="z8gu9einm-_RU-JVOlFX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-21" value="rtaFilterResponseHandleFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-174.12" y="1890" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-23" target="z8gu9einm-_RU-JVOlFX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-23" value="rtaDynamicPriceResponseHandleFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-174.12" y="2000" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-25" target="z8gu9einm-_RU-JVOlFX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-25" value="predictCvrCalibrationFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-174.12" y="2110" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="z8gu9einm-_RU-JVOlFX-27" target="z8gu9einm-_RU-JVOlFX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-27" value="predictBidFilter&lt;div&gt;(预估价格计算)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-174.12" y="2220" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-28" value="predictedRankFilter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-174.12" y="2330" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-29" value="FeedsToutiaoPredictorInvoker.&lt;br&gt;mergeResponse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-553.13" y="2010" width="256.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z8gu9einm-_RU-JVOlFX-30" value="record Headline order List&lt;br&gt;(ext 保存)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="2050" width="163.12" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
