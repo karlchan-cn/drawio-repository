@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T06:07:08.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jSjBEMI7zA88cRu9XSCG" version="24.0.7" type="github" pages="35">
+<mxfile host="app.diagrams.net" modified="2024-03-20T06:08:54.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="agPueOdDiMqGVjXioIdz" version="24.0.7" type="github" pages="35">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="3915" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,19 +333,11 @@
         <mxCell id="bdAWTo2_LK2yiNxBc15w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="bdAWTo2_LK2yiNxBc15w-51" target="QNpA4UkcaME-0wDogn_M-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bdAWTo2_LK2yiNxBc15w-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" target="bdAWTo2_LK2yiNxBc15w-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="273.12" y="2670" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bdAWTo2_LK2yiNxBc15w-51" value="AdMixSortFilter&lt;div&gt;(广告混排Filter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-620" y="2470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bdAWTo2_LK2yiNxBc15w-59" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="2470" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bdAWTo2_LK2yiNxBc15w-62" value="mergeAndSort" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2720" width="256.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bdAWTo2_LK2yiNxBc15w-71" value="...." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1350" y="2470" width="170" height="60" as="geometry" />
@@ -360,9 +352,6 @@
           <mxGeometry x="0.2457" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bdAWTo2_LK2yiNxBc15w-76" value="stack sorted with &lt;br&gt;step size(20)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="183.12" y="2760" width="163.12" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bdAWTo2_LK2yiNxBc15w-77" value="HeadLine Kafka CallBack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="2710" width="150" height="40" as="geometry" />
@@ -394,7 +383,7 @@
             <mxPoint x="150" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-5" value="RankDynamicComputationFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-5" value="RankDynamicComputationFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-90" y="2470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QNpA4UkcaME-0wDogn_M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QNpA4UkcaME-0wDogn_M-3" target="QNpA4UkcaME-0wDogn_M-5">
@@ -402,6 +391,12 @@
             <mxPoint x="-440" y="2510" as="sourcePoint" />
             <mxPoint x="-340" y="2510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QNpA4UkcaME-0wDogn_M-8" value="动态算力上下文计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-32.88" y="2600" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNpA4UkcaME-0wDogn_M-9" value="RankDynamic&lt;br&gt;ComputationContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20.000000000000007" y="2520" width="133.12" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
