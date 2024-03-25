@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T05:15:20.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-FS1CfTXMLdh2lWT2lQL" version="24.0.7" type="github" pages="35">
+<mxfile host="app.diagrams.net" modified="2024-03-25T11:09:11.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2couU2MXeP3rpqpybGA_" version="24.1.0" type="github" pages="35">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="3915" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -365,43 +365,43 @@
             <mxPoint x="450" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-1" value="AdPosAdjustFilter&lt;div&gt;(广告调序/品牌插入/截断Filter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-1" value="AdPosAdjustFilter&lt;div&gt;(广告调序/品牌插入/截断Filter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="2470" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNpA4UkcaME-0wDogn_M-1" target="bdAWTo2_LK2yiNxBc15w-59">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QNpA4UkcaME-0wDogn_M-1" target="bdAWTo2_LK2yiNxBc15w-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="2500" as="sourcePoint" />
             <mxPoint x="140" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-3" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-3" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-350" y="2470" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QNpA4UkcaME-0wDogn_M-5">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QNpA4UkcaME-0wDogn_M-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="2670" as="sourcePoint" />
             <mxPoint x="150" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-5" value="RankDynamicComputationFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-5" value="RankDynamicComputationFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="2470" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QNpA4UkcaME-0wDogn_M-3" target="QNpA4UkcaME-0wDogn_M-5">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QNpA4UkcaME-0wDogn_M-3" target="QNpA4UkcaME-0wDogn_M-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-440" y="2510" as="sourcePoint" />
             <mxPoint x="-340" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-8" value="动态算力上下文计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-8" value="动态算力上下文计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-32.88" y="2600" width="146" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QNpA4UkcaME-0wDogn_M-9" value="RankDynamic&lt;br&gt;ComputationContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpA4UkcaME-0wDogn_M-9" value="RankDynamic&lt;br&gt;ComputationContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-20.000000000000007" y="2520" width="133.12" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pnyv3A4oJ3VWG-qjIjZk" name="第 35 页">
+  <diagram id="pnyv3A4oJ3VWG-qjIjZk" name="头条预估动态算力建设">
     <mxGraphModel dx="3088" dy="-1574" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -480,22 +480,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-2" value="Toutiao Kafka Brokers" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-2" value="Toutiao Kafka Brokers" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" parent="1" vertex="1">
           <mxGeometry x="656" y="2921" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="609" y="3031" as="sourcePoint" />
             <mxPoint x="797" y="2884" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="603" y="2904" as="sourcePoint" />
             <mxPoint x="778" y="3030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-5" value="HeadLine Rank CallBack Serving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="G6SPgcaFcrfr5CuW3X-Y-5" value="HeadLine Rank CallBack Serving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="689" y="2701" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
