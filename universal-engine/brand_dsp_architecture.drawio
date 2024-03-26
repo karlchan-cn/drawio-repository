@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:54:59.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BNFLCA5eoUwWJB1bjPXO" version="24.1.0" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2024-03-26T07:57:12.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gx6NCH-c0SAEkC46FDH1" version="24.1.0" type="github" pages="36">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="3915" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -616,8 +616,8 @@
             <mxPoint x="15" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VqSTbJg0VfEOmDopJg3o-17" value="诊断数据同步+ 广告下发数据(req) + ad竞价数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="20" y="3120" width="300" height="30" as="geometry" />
+        <mxCell id="VqSTbJg0VfEOmDopJg3o-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;诊断数据同步+ 广告下发数据(req) + ad竞价数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="44" y="3120" width="336" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqSTbJg0VfEOmDopJg3o-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=86;endSize=6.67;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -625,8 +625,8 @@
             <mxPoint x="-753" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VqSTbJg0VfEOmDopJg3o-19" value="广告接收 + 曝光 + 点击 + 下载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="-740" y="3100" width="190" height="30" as="geometry" />
+        <mxCell id="VqSTbJg0VfEOmDopJg3o-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;广告接收 + 曝光 + 点击 + 下载&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="3110" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VqSTbJg0VfEOmDopJg3o-20" value="3.广告响应" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-1" target="VqSTbJg0VfEOmDopJg3o-3">
           <mxGeometry relative="1" as="geometry" />
