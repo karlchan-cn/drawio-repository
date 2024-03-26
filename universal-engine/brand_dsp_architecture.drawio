@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:51:27.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8QqfZJ2d0oI24b_EmCsd" version="24.1.0" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2024-03-26T07:53:22.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XoDeh2kTaTrEsS7Uzh4w" version="24.1.0" type="github" pages="36">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="3915" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,8 +572,13 @@
         <mxCell id="VqSTbJg0VfEOmDopJg3o-3" value="媒体服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-650" y="3000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VqSTbJg0VfEOmDopJg3o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-5" target="VqSTbJg0VfEOmDopJg3o-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VqSTbJg0VfEOmDopJg3o-11" value="滑动手机" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-5" target="VqSTbJg0VfEOmDopJg3o-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-692" y="3020" />
+              <mxPoint x="-692" y="3030" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VqSTbJg0VfEOmDopJg3o-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="3000" width="35" height="50" as="geometry" />
@@ -599,7 +604,7 @@
         <mxCell id="VqSTbJg0VfEOmDopJg3o-10" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-770" y="3180" width="1140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VqSTbJg0VfEOmDopJg3o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-3" target="VqSTbJg0VfEOmDopJg3o-1">
+        <mxCell id="VqSTbJg0VfEOmDopJg3o-12" value="请求广告" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-3" target="VqSTbJg0VfEOmDopJg3o-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VqSTbJg0VfEOmDopJg3o-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=104;endSize=4.67;" edge="1" parent="1">
@@ -619,6 +624,12 @@
         </mxCell>
         <mxCell id="VqSTbJg0VfEOmDopJg3o-19" value="广告接收 + 曝光 + 点击 + 下载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-740" y="3100" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VqSTbJg0VfEOmDopJg3o-20" value="广告响应" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-1" target="VqSTbJg0VfEOmDopJg3o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqSTbJg0VfEOmDopJg3o-21" value="内容+广告返回" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.771;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="VqSTbJg0VfEOmDopJg3o-3" target="VqSTbJg0VfEOmDopJg3o-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
