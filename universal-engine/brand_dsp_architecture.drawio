@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:57:12.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gx6NCH-c0SAEkC46FDH1" version="24.1.0" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:50:52.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2_DJa2oKqiVrOfaSQq1p" version="24.2.0" type="github" pages="36">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="3915" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -397,6 +397,50 @@
         </mxCell>
         <mxCell id="QNpA4UkcaME-0wDogn_M-9" value="RankDynamic&lt;br&gt;ComputationContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-20.000000000000007" y="2520" width="133.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-1" value="OPPO-AD-serving" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1564" y="2929" width="671" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-2" value="headline-serving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-773" y="2877" width="272" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-3" value="&lt;font color=&quot;#ff3333&quot;&gt;T1&lt;/font&gt;" style="endArrow=none;html=1;rounded=0;exitX=0.18;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;" edge="1" parent="1" source="2GkC0-43shQ1KG9KqN46-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1492" y="2806" as="sourcePoint" />
+            <mxPoint x="-1442" y="2756" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-4" value="&lt;font color=&quot;#ff6666&quot;&gt;T2&lt;/font&gt;" style="endArrow=none;html=1;rounded=0;exitX=0.18;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1114" y="2929" as="sourcePoint" />
+            <mxPoint x="-1113" y="2757" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="2GkC0-43shQ1KG9KqN46-5" target="2GkC0-43shQ1KG9KqN46-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1442" y="2663" />
+              <mxPoint x="-637" y="2663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-5" value="LiteRank" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1503" y="2732" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="2GkC0-43shQ1KG9KqN46-6" target="2GkC0-43shQ1KG9KqN46-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1112" y="2703" />
+              <mxPoint x="-637" y="2703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-6" value="Rank" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1173" y="2732" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2GkC0-43shQ1KG9KqN46-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题说明&lt;/h1&gt;&lt;p&gt;1. headline-serving在接收到oppo-ad-serving两次请求,将会记录请求接收到的timestamp&lt;/p&gt;&lt;p&gt;2. 现在出现的问题是:&amp;nbsp; P99(T2-T1) &amp;gt;1000+ms&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1563" y="2987" width="383" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
