@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T11:46:11.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pjdBHMxDkR9zGug4x-b3" version="24.2.2" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2024-04-16T11:46:19.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nWf3LDFoEsROXWZ0Pm9m" version="24.2.2" type="github" pages="36">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="4687" dy="1175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -711,7 +711,7 @@
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-6" value="全量上报(data-type-x)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qzai7qhSs4rXxvgEuYWh-4">
           <mxGeometry x="-0.56" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="68" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-5" value="概率上报(data-type-x)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qzai7qhSs4rXxvgEuYWh-1" target="Qzai7qhSs4rXxvgEuYWh-3">
