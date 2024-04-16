@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T11:46:19.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nWf3LDFoEsROXWZ0Pm9m" version="24.2.2" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2024-04-16T11:46:26.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="c0lcFeLegp2eL3DU9Woe" version="24.2.2" type="github" pages="36">
   <diagram id="-cD22yRGRyTeirzGSu-3" name="头条算法架构">
     <mxGraphModel dx="4687" dy="1175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -705,7 +705,7 @@
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qzai7qhSs4rXxvgEuYWh-1" target="Qzai7qhSs4rXxvgEuYWh-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-662" y="3520" />
+              <mxPoint x="-662" y="3630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -717,31 +717,31 @@
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-5" value="概率上报(data-type-x)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qzai7qhSs4rXxvgEuYWh-1" target="Qzai7qhSs4rXxvgEuYWh-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-662" y="3690" />
+              <mxPoint x="-662" y="3800" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-1" value="服务端-serviing" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-782" y="3560" width="240" height="60" as="geometry" />
+          <mxGeometry x="-782" y="3670" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-2" value="伏羲SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-412" y="3490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-412" y="3600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qzai7qhSs4rXxvgEuYWh-3" target="Qzai7qhSs4rXxvgEuYWh-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-3" value="Obus-SDK-extention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-412" y="3660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-412" y="3770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-7" value="fuxi-datahouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="3480" width="60" height="80" as="geometry" />
+          <mxGeometry x="-102" y="3590" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qzai7qhSs4rXxvgEuYWh-2" target="Qzai7qhSs4rXxvgEuYWh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-9" value="obus-datalake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="3650" width="60" height="80" as="geometry" />
+          <mxGeometry x="-102" y="3760" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
