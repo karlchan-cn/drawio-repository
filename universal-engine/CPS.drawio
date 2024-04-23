@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:51:07.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="IURZJ5eAwNyyNwvY9St4" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T11:51:21.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ku_1U84BVExpWso1pul_" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1304" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="162" y="493" width="90" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="bg2LD1bMk67kX1BQn_oh-29" value="管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="295" y="460.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="453" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bg2LD1bMk67kX1BQn_oh-31" value="规则服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="351" width="90" height="30" as="geometry" />
