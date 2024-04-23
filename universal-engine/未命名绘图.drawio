@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T06:17:46.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bmcQOe1ei5FOLN5AtL3p" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-23T06:39:35.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Kog81T-IP1mCKfvqw7yQ" version="24.2.7" type="github" pages="2">
   <diagram id="rPrEma5ten3HXBXuQWFz" name="分层结构">
     <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RUP22nXOzgVH3BGONtHY-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="140" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-4" value="&lt;b&gt;中间件层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-5" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-6" value="欧拉配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-7" value="BOSS配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-8" value="Prometheus+Grafana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-9" value="日志告警平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-10" value="调用链告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-11" value="Service-Keeper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="554.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="225" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUP22nXOzgVH3BGONtHY-14" value="口令换链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="100" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
