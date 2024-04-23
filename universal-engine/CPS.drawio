@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T08:26:33.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VRyP3xEMjE9oTeWAekXW" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T08:58:23.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tedhmT5_PBYUeEFDVS_l" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,14 +37,17 @@
         <mxCell id="bg2LD1bMk67kX1BQn_oh-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="350" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bg2LD1bMk67kX1BQn_oh-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="bg2LD1bMk67kX1BQn_oh-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="225" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bg2LD1bMk67kX1BQn_oh-13" value="口令换链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="100" height="35" as="geometry" />
+        <mxCell id="bg2LD1bMk67kX1BQn_oh-16" value="口令换链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bg2LD1bMk67kX1BQn_oh-14" value="口令换链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="100" height="35" as="geometry" />
+        <mxCell id="bg2LD1bMk67kX1BQn_oh-17" value="口令换链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bg2LD1bMk67kX1BQn_oh-18" value="&lt;b&gt;网关层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="295" y="225" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
