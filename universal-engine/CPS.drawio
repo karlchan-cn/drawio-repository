@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T11:51:21.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ku_1U84BVExpWso1pul_" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T12:28:39.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XB-Ahwckra8jFA7qygpu" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1304" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="bg2LD1bMk67kX1BQn_oh-29" value="管理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="295" y="453" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bg2LD1bMk67kX1BQn_oh-31" value="规则服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="bg2LD1bMk67kX1BQn_oh-31" value="规则分发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="351" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bg2LD1bMk67kX1BQn_oh-32" value="竞价管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="bg2LD1bMk67kX1BQn_oh-33" value="口令管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="405.5" y="490.75" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bg2LD1bMk67kX1BQn_oh-34" value="规则加载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="401" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
