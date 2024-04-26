@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T07:24:34.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iPrTkC6MLMfH0-ViEEM1" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T07:26:34.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="N4KtwAvXdRfzgxO-TPpS" version="24.2.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,6 +61,14 @@
         <mxCell id="bg2LD1bMk67kX1BQn_oh-23" value="&lt;b&gt;业务层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="317" y="346" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fzxCcVqlGaNxyLmwiKUq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;" edge="1" parent="1" source="bg2LD1bMk67kX1BQn_oh-24" target="bg2LD1bMk67kX1BQn_oh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzxCcVqlGaNxyLmwiKUq-21" value="cache同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzxCcVqlGaNxyLmwiKUq-20">
+          <mxGeometry x="0.2467" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bg2LD1bMk67kX1BQn_oh-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="162" y="511" width="370" height="147" as="geometry" />
         </mxCell>
@@ -109,11 +117,26 @@
         <mxCell id="fzxCcVqlGaNxyLmwiKUq-15" value="口令规则管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="407" y="607" width="90" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="fzxCcVqlGaNxyLmwiKUq-16" value="口令规则同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="fzxCcVqlGaNxyLmwiKUq-16" value="规则数据同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="302" y="607" width="90" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="fzxCcVqlGaNxyLmwiKUq-17" value="魔力链" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E3E3;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="551" y="730" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="fzxCcVqlGaNxyLmwiKUq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="fzxCcVqlGaNxyLmwiKUq-3" target="fzxCcVqlGaNxyLmwiKUq-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="680" />
+              <mxPoint x="400" y="680" />
+              <mxPoint x="400" y="658" />
+              <mxPoint x="347" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzxCcVqlGaNxyLmwiKUq-22" value="数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fzxCcVqlGaNxyLmwiKUq-19">
+          <mxGeometry x="-0.1734" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
