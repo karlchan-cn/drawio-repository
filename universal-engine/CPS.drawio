@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T03:44:13.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lNiQiSz4OkByQPJL539N" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-06T03:45:15.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0TT3Je7t47asLHN6Xz93" version="24.3.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,20 +471,6 @@
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-63" value="比价狗" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1020" y="976" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-64" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="606.67" y="1046" width="83.33" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="647.84" y="1036" as="sourcePoint" />
-            <mxPoint x="647.84" y="976" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-66" value="供应商同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PA6YNwOUX8xk0Q8k_7qZ-65">
-          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
