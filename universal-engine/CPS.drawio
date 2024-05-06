@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T03:53:04.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="up3-8WWk7yY4qQ5i5suO" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-06T03:53:13.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R-7r1vrqxgHAwsi2rFle" version="24.3.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,7 +376,9 @@
           <mxGeometry x="449" y="470" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-82" value="持久化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-34" target="PA6YNwOUX8xk0Q8k_7qZ-76">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="542" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-34" value="供应商管理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="479" y="510" width="120" height="60" as="geometry" />
@@ -505,10 +507,10 @@
           <mxGeometry x="-90" y="756" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-76" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="508" width="60" height="64.5" as="geometry" />
+          <mxGeometry x="320" y="510" width="60" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-78" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="650" width="60" height="63" as="geometry" />
+          <mxGeometry x="320" y="652" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-76" target="PA6YNwOUX8xk0Q8k_7qZ-78">
           <mxGeometry relative="1" as="geometry" />
