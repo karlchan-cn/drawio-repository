@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T03:36:20.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HkNALND_571ZYdEYsDJc" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-06T03:37:37.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oO0KmlAY8nht_JXRbBui" version="24.3.1" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,8 +310,8 @@
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-9" value="口令转链(商业化)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="490" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-10" value="商业化服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="495" y="50" width="110" height="30" as="geometry" />
+        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-10" value="商业化在线服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570.84" y="50" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-13" target="PA6YNwOUX8xk0Q8k_7qZ-15">
           <mxGeometry relative="1" as="geometry" />
@@ -357,6 +357,20 @@
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-18" value="比价狗" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1020" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-28" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="606.67" y="310" width="83.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="647.84" y="300" as="sourcePoint" />
+            <mxPoint x="647.84" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-31" value="供应商同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PA6YNwOUX8xk0Q8k_7qZ-30">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
