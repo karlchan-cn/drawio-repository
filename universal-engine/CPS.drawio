@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T11:58:32.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EpdcRfSWDt3Ufv3PWmks" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-04T12:00:24.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZEA0r9vqKr3iaD1olHQw" version="24.4.0" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,9 @@
           <mxGeometry x="0.2467" y="3" relative="1" as="geometry">
             <mxPoint x="14" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F5LoRvYiT0UbAbXWLLfi-17" value="口令/优惠卷/优惠券规则/口令规则" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="bg2LD1bMk67kX1BQn_oh-11" target="bg2LD1bMk67kX1BQn_oh-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
