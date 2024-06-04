@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T12:51:55.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xPG9f1rk_-lUGcEfM5_F" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-04T12:52:36.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="opNmgnn02M5td560LyHS" version="24.4.0" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -604,11 +604,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7x45tTQPwMj5yRHx5KQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-69" target="G7x45tTQPwMj5yRHx5KQ-10">
+        <mxCell id="G7x45tTQPwMj5yRHx5KQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=1;exitX=0.143;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-69" target="G7x45tTQPwMj5yRHx5KQ-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-35" y="530" />
+              <mxPoint x="-50" y="213" />
+              <mxPoint x="-50" y="530" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7x45tTQPwMj5yRHx5KQ-23" value="优惠券策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7x45tTQPwMj5yRHx5KQ-15">
+          <mxGeometry x="0.4451" y="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
@@ -642,10 +648,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7x45tTQPwMj5yRHx5KQ-14" value="优惠券策略" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-72" target="G7x45tTQPwMj5yRHx5KQ-10">
+        <mxCell id="G7x45tTQPwMj5yRHx5KQ-14" value="优惠券策略" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PA6YNwOUX8xk0Q8k_7qZ-75" target="G7x45tTQPwMj5yRHx5KQ-10">
           <mxGeometry x="0.5122" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-35" y="530" />
+              <mxPoint x="-7" y="700" />
+              <mxPoint x="90" y="700" />
+              <mxPoint x="90" y="530" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
