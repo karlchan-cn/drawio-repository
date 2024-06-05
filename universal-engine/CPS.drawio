@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T11:31:57.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hwXltcTUXf2n7C9d5jOE" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T11:34:22.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="h2t6sqjI4U9Js0gJ6XsF" version="24.4.13" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,6 +334,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="460" y="786" width="410" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCIxZuQt4g1-ohyC5HX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;exitX=0.933;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G7x45tTQPwMj5yRHx5KQ-2" target="dNCIxZuQt4g1-ohyC5HX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="602" y="893" />
+              <mxPoint x="620" y="893" />
+              <mxPoint x="620" y="830" />
+              <mxPoint x="910" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNCIxZuQt4g1-ohyC5HX-6" value="画像调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dNCIxZuQt4g1-ohyC5HX-5">
+          <mxGeometry x="0.6771" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G7x45tTQPwMj5yRHx5KQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" parent="1" source="G7x45tTQPwMj5yRHx5KQ-13" target="G7x45tTQPwMj5yRHx5KQ-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -360,9 +378,6 @@
           <mxGeometry x="-0.4095" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="460" y="786" width="410" height="244" as="geometry" />
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="460" y="50" width="410" height="260" as="geometry" />
@@ -419,6 +434,19 @@
         </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-23" value="CPS转换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PA6YNwOUX8xk0Q8k_7qZ-21" vertex="1" connectable="0">
           <mxGeometry x="-0.5697" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNCIxZuQt4g1-ohyC5HX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="G7x45tTQPwMj5yRHx5KQ-3" target="dNCIxZuQt4g1-ohyC5HX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="450" />
+              <mxPoint x="900" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNCIxZuQt4g1-ohyC5HX-8" value="画像调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dNCIxZuQt4g1-ohyC5HX-7">
+          <mxGeometry x="0.5541" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
