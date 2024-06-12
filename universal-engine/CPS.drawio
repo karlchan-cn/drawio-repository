@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T03:29:25.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R6kD7vAHvoTo2OImXDul" version="24.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-12T03:29:42.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="G369Ue69saMAdq4JKjnu" version="24.5.2" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -951,7 +951,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HpSRe8zGZvuwqU7kT-Bn-4" value="gateway-node(pro)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="HpSRe8zGZvuwqU7kT-Bn-4" value="gateway-node(prod&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="658" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HpSRe8zGZvuwqU7kT-Bn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" vertex="1" parent="1">
@@ -960,7 +960,7 @@
         <mxCell id="HpSRe8zGZvuwqU7kT-Bn-6" value="CPS在线服务端(&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 17px;&quot;&gt;测试&lt;/font&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="132.08000000000004" y="940" width="179.16" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HpSRe8zGZvuwqU7kT-Bn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HpSRe8zGZvuwqU7kT-Bn-7" target="HpSRe8zGZvuwqU7kT-Bn-21">
+        <mxCell id="HpSRe8zGZvuwqU7kT-Bn-8" value="测试数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HpSRe8zGZvuwqU7kT-Bn-7" target="HpSRe8zGZvuwqU7kT-Bn-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpSRe8zGZvuwqU7kT-Bn-7" value="数据服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
