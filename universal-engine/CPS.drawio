@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T04:17:24.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Mzg46uFEW-OQwfkrninc" version="24.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-01T04:20:59.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="StTHHQCEZpW-_SP1vf0r" version="24.6.2" type="github" pages="8">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1045,7 +1045,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U8mFq69s7DA1e3Q-SGP2" name="卖场">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1063,6 +1063,35 @@
         </mxCell>
         <mxCell id="WVtt8jqz31p-ZY64lhzx-10" value="重合点&lt;br&gt;1. 用户偏好&lt;br&gt;2. OS演示成功能力&lt;br&gt;3. OS卖场卖点改进&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="500" y="207.75" width="170" height="121.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0N0I7snGxutGUvPiTpRY" name="第 8 页">
+    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="350" as="sourcePoint" />
+            <mxPoint x="870" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="74" width="10" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="74" width="10" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-6" value="演示结束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-7" value="演示开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="15" y="44" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-8" value="&lt;font color=&quot;#ff0000&quot;&gt;用户卖场演示时OS功能(自主体验/导购牵引)TImeLine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="114" y="370" width="600" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
