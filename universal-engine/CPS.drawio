@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T05:13:56.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="r5vkT3ah1uRIRwNp5_y1" version="24.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-01T06:35:46.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ww7bmSqDVI4Zjq15afc6" version="24.6.2" type="github" pages="9">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1137,6 +1137,53 @@
         </mxCell>
         <mxCell id="o7byEAn3yUb2Xp8TNic5-22" value="05:10 自主演示拍照&lt;br&gt;拍照数量X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="70" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wXtt0weq5mkvNXqdTXXp" name="第 9 页">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="220" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="220" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-4" value="首页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-6" value="右1桌面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="170" width="220" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="330" as="sourcePoint" />
+            <mxPoint x="760" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-9" value="右1桌面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-11" value="AI消除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-12" value="AI助理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wq9mrzeYnweJ8CAPGNLG-13" value="正常首页-有大量APP图标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
