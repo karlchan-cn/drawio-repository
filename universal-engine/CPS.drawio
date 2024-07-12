@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T03:45:51.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nyRx63YhE6NQiSdJt2FE" version="24.6.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-12T07:20:35.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6Bj-etH7g4HOqYnDcJZN" version="24.6.4" type="github" pages="11">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1201,6 +1201,68 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kLgvbiLell9cD5OmOurR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="420" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-2" value="CPS SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-4" value="数据上报模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-11" value="数据上报" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kLgvbiLell9cD5OmOurR-5" target="kLgvbiLell9cD5OmOurR-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="290" />
+              <mxPoint x="270" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-5" value="详情页识别模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-12" value="数据上报" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kLgvbiLell9cD5OmOurR-6" target="kLgvbiLell9cD5OmOurR-4">
+          <mxGeometry x="-0.5556" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="380" />
+              <mxPoint x="460" y="380" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-6" value="优惠劵模块(请求/渲染/展示)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-7" value="本地缓存&amp;amp;频控模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kLgvbiLell9cD5OmOurR-8" target="kLgvbiLell9cD5OmOurR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-10" value="识别 Invoke" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kLgvbiLell9cD5OmOurR-9">
+          <mxGeometry x="0.214" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-8" value="OS 识别商详 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kLgvbiLell9cD5OmOurR-14" target="kLgvbiLell9cD5OmOurR-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="265" />
+              <mxPoint x="670" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-16" value="数据上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kLgvbiLell9cD5OmOurR-15">
+          <mxGeometry x="0.0199" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLgvbiLell9cD5OmOurR-14" value="用户领取行为模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="80" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
