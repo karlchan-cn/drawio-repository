@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T02:52:54.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iCUeRN3g5mF3jD1e8K-6" version="24.6.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-07-12T02:53:12.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Q7nqgkM7TmzgIKNupfpV" version="24.6.4" type="github" pages="10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="分层架构-(平替比价狗)">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1044,24 +1044,24 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="U8mFq69s7DA1e3Q-SGP2" name="卖场">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="U8mFq69s7DA1e3Q-SGP2" name="演示重合">
+    <mxGraphModel dx="1260" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WVtt8jqz31p-ZY64lhzx-5" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WVtt8jqz31p-ZY64lhzx-5" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="179.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="WVtt8jqz31p-ZY64lhzx-6" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
+        <mxCell id="WVtt8jqz31p-ZY64lhzx-6" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;container=0;" parent="1" vertex="1">
           <mxGeometry x="489.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="WVtt8jqz31p-ZY64lhzx-7" value="OS软件卖点" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WVtt8jqz31p-ZY64lhzx-7" value="OS软件卖点" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="228.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WVtt8jqz31p-ZY64lhzx-8" value="OS卖场用户演示" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WVtt8jqz31p-ZY64lhzx-8" value="OS卖场用户演示" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="699.5" y="228.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WVtt8jqz31p-ZY64lhzx-10" value="重合点&lt;br&gt;1. 用户偏好&lt;br&gt;2. OS演示成功能力&lt;br&gt;3. OS卖场卖点改进&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WVtt8jqz31p-ZY64lhzx-10" value="重合点&lt;br&gt;1. 用户偏好&lt;br&gt;2. OS演示成功能力&lt;br&gt;3. OS卖场卖点改进&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="500" y="207.75" width="170" height="121.5" as="geometry" />
         </mxCell>
       </root>
