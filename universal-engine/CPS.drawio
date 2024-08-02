@@ -846,25 +846,25 @@
           <mxGeometry x="160" y="220" width="110" height="380" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-2" value="搜索结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="240" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mBiw5J8FvswORPR9tN2t-3" value="购物API适配层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="mBiw5J8FvswORPR9tN2t-3" value="购物API适配层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="141.25" y="190" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-5" value="搜索SUG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="300" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-6" value="商品列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="360" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="360" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-7" value="商品详情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="420" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="420" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-8" value="SKU列表+详情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="480" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="480" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-9" value="商品比价+出站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="540" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="540" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-12" value="返利网 API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="270" width="310" height="60" as="geometry" />
@@ -895,6 +895,21 @@
         </mxCell>
         <mxCell id="mBiw5J8FvswORPR9tN2t-18" value="CPS服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-94" y="145" width="147.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBiw5J8FvswORPR9tN2t-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="44" y="220" width="80" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mBiw5J8FvswORPR9tN2t-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="220" width="80" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mBiw5J8FvswORPR9tN2t-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="220" width="80" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mBiw5J8FvswORPR9tN2t-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-313" y="220" width="80" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mBiw5J8FvswORPR9tN2t-27" value="购物API适配层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="16" y="190" width="147.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
