@@ -908,8 +908,11 @@
         <mxCell id="mBiw5J8FvswORPR9tN2t-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-313" y="220" width="80" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="mBiw5J8FvswORPR9tN2t-27" value="购物API适配层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mBiw5J8FvswORPR9tN2t-27" value="供应商选择Filter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="16" y="190" width="147.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBiw5J8FvswORPR9tN2t-28" value="供应商选择Filter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-108.75" y="190" width="147.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
