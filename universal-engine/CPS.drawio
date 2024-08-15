@@ -1197,7 +1197,7 @@
             <mxPoint x="350" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o7byEAn3yUb2Xp8TNic5-15" value="03:10 AI消除演示完毕&lt;br&gt;延迟CASE100%通过&lt;br&gt;������" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-15" value="03:10 AI消除演示完毕&lt;br&gt;延迟CASE100%通过&lt;br&gt;������" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="304" y="90" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o7byEAn3yUb2Xp8TNic5-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
@@ -1215,7 +1215,7 @@
             <mxPoint x="550" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o7byEAn3yUb2Xp8TNic5-19" value="04:30 无法拨打电话, 没有替代方案������" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-19" value="04:30 无法拨打电话, 没有替代方案&lt;div&gt;������&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o7byEAn3yUb2Xp8TNic5-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
