@@ -1179,7 +1179,7 @@
         <mxCell id="o7byEAn3yUb2Xp8TNic5-7" value="演示开始" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="15" y="44" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o7byEAn3yUb2Xp8TNic5-8" value="&lt;font color=&quot;#ff0000&quot;&gt;用户卖场演示时OS功能(自主体验/导购牵引)TImeLine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" parent="1" vertex="1">
+        <mxCell id="o7byEAn3yUb2Xp8TNic5-8" value="&lt;font color=&quot;#ff0000&quot;&gt;用户卖场演示时OS功能(自主体验/导购牵引)TimeLine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="114" y="370" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o7byEAn3yUb2Xp8TNic5-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
