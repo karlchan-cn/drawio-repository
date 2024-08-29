@@ -1395,8 +1395,11 @@
         <mxCell id="yEV9GKHD4srbews2akQc-14" value="EES-SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="370" y="500" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yEV9GKHD4srbews2akQc-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="890" width="810" height="60" as="geometry" />
+        <mxCell id="yEV9GKHD4srbews2akQc-17" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="890" width="980" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yEV9GKHD4srbews2akQc-19" value="淘宝APP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FB680E;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="70" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
