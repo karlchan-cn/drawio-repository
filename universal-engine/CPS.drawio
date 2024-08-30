@@ -1398,7 +1398,7 @@
         <mxCell id="yEV9GKHD4srbews2akQc-17" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-310" y="890" width="980" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yEV9GKHD4srbews2akQc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-19" target="yEV9GKHD4srbews2akQc-20">
+        <mxCell id="yEV9GKHD4srbews2akQc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FFB570;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-19" target="yEV9GKHD4srbews2akQc-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-22" value="APP启动/退出/页面识别(Activity)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yEV9GKHD4srbews2akQc-21">
@@ -1409,7 +1409,7 @@
         <mxCell id="yEV9GKHD4srbews2akQc-19" value="淘宝APP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FB680E;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="-240" y="740" width="70" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="yEV9GKHD4srbews2akQc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
+        <mxCell id="yEV9GKHD4srbews2akQc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FFB570;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-24" value="事件通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yEV9GKHD4srbews2akQc-23">
@@ -1417,7 +1417,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yEV9GKHD4srbews2akQc-25" value="定时更新Config" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
+        <mxCell id="yEV9GKHD4srbews2akQc-25" value="定时更新Config(ees-sdk自闭环启动启动判断)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="9" y="510" />
