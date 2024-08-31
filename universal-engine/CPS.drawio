@@ -1345,42 +1345,42 @@
           <mxGeometry x="550" y="220" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="530" width="420" height="330" as="geometry" />
+          <mxGeometry x="237" y="605" width="420" height="330" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-2" value="数据上报模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="800" width="360" height="40" as="geometry" />
+          <mxGeometry x="267" y="875" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-3" value="数据上报" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-4" target="yEV9GKHD4srbews2akQc-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="690" />
-              <mxPoint x="260" y="820" />
+              <mxPoint x="247" y="765" />
+              <mxPoint x="247" y="895" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-4" value="详情页识别模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="620" width="80" height="90" as="geometry" />
+          <mxGeometry x="267" y="695" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-5" value="数据上报" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-6" target="yEV9GKHD4srbews2akQc-2">
           <mxGeometry x="-0.5556" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="780" />
-              <mxPoint x="450" y="780" />
+              <mxPoint x="437" y="855" />
+              <mxPoint x="437" y="855" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-6" value="优惠劵模块(请求/渲染/展示)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="620" width="80" height="90" as="geometry" />
+          <mxGeometry x="397" y="695" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-7" value="本地缓存&amp;amp;频控模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="740" width="360" height="40" as="geometry" />
+          <mxGeometry x="267" y="815" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-13" target="yEV9GKHD4srbews2akQc-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="665" />
-              <mxPoint x="660" y="820" />
+              <mxPoint x="647" y="740" />
+              <mxPoint x="647" y="895" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1390,13 +1390,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-13" value="用户领取行为模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="540" y="620" width="80" height="90" as="geometry" />
+          <mxGeometry x="527" y="695" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-14" value="EES-SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="370" y="500" width="140" height="30" as="geometry" />
+          <mxGeometry x="357" y="575" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-17" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="890" width="980" height="60" as="geometry" />
+          <mxGeometry x="-323" y="965" width="980" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FFB570;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-19" target="yEV9GKHD4srbews2akQc-20">
           <mxGeometry relative="1" as="geometry" />
@@ -1407,7 +1407,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-19" value="淘宝APP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FB680E;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="740" width="70" height="170" as="geometry" />
+          <mxGeometry x="-253" y="815" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FFB570;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1417,16 +1417,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yEV9GKHD4srbews2akQc-25" value="定时更新Config(ees-sdk自闭环启动启动判断)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
+        <mxCell id="yEV9GKHD4srbews2akQc-25" value="定时更新Config(ees-sdk自闭环启动启动判断)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.228;entryY=-0.005;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#EA6B66;entryPerimeter=0;" edge="1" parent="1" source="yEV9GKHD4srbews2akQc-20" target="yEV9GKHD4srbews2akQc-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9" y="510" />
-              <mxPoint x="460" y="510" />
+              <mxPoint x="-4" y="553" />
+              <mxPoint x="333" y="553" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yEV9GKHD4srbews2akQc-20" value="ADS-APK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="650" width="270" height="90" as="geometry" />
+          <mxGeometry x="-133" y="725" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
