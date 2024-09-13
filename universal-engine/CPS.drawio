@@ -1436,6 +1436,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="v7e0LqO5-JnD7pJCPOO--4" value="列表/详情(历史) 调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v7e0LqO5-JnD7pJCPOO--1">
+          <mxGeometry x="-0.1394" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AnPRxMc9Iziiy57w2znj-12" value="全局搜索APP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="167.5" y="1600" width="610" height="60" as="geometry" />
         </mxCell>
@@ -1451,21 +1456,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v7e0LqO5-JnD7pJCPOO--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="AnPRxMc9Iziiy57w2znj-15" target="AnPRxMc9Iziiy57w2znj-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v7e0LqO5-JnD7pJCPOO--6" value="曝光&amp;amp;点击通知/APP下载(未安装)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v7e0LqO5-JnD7pJCPOO--5">
+          <mxGeometry x="-0.0713" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AnPRxMc9Iziiy57w2znj-15" value="购物助手SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FB680E;textDirection=ltr;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="1445" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="AnPRxMc9Iziiy57w2znj-19" value="CPS-Serving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="450.5" y="1225" width="270" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="AnPRxMc9Iziiy57w2znj-21" value="引用网络能力" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;" parent="1" source="AnPRxMc9Iziiy57w2znj-20" target="AnPRxMc9Iziiy57w2znj-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590.5" y="1535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AnPRxMc9Iziiy57w2znj-20" value="heytap网络库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="561.5" y="1560" width="58" height="60" as="geometry" />
+          <mxGeometry x="295" y="1565" width="58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
