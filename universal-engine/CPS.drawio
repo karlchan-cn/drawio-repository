@@ -1455,7 +1455,7 @@
           <mxGeometry x="240.5" y="1445" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="AnPRxMc9Iziiy57w2znj-19" value="CPS-Serving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450.5" y="1225" width="270" height="90" as="geometry" />
+          <mxGeometry x="450.5" y="1225" width="270" height="54" as="geometry" />
         </mxCell>
         <mxCell id="AnPRxMc9Iziiy57w2znj-21" value="引用网络能力" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;" parent="1" source="AnPRxMc9Iziiy57w2znj-20" target="AnPRxMc9Iziiy57w2znj-15" edge="1">
           <mxGeometry relative="1" as="geometry">
