@@ -208,13 +208,29 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zMkcnjnvUUs7r8YLJFqf-3" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="1600" width="610" height="60" as="geometry" />
+          <mxGeometry x="60" y="1600" width="717.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-8" value="EES-SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FB680E;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1450" width="70" height="170" as="geometry" />
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-16" value="1.2 创建端外卡片" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-11" target="zMkcnjnvUUs7r8YLJFqf-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zMkcnjnvUUs7r8YLJFqf-11" value="负一屏卡片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1566" width="270" height="54" as="geometry" />
+          <mxGeometry x="450" y="1570" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-12" value="ADS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;textDirection=ltr;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1380" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-15" value="1.1卡片创建" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-8" target="zMkcnjnvUUs7r8YLJFqf-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-8" value="EES-SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffe6cc;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1400" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-14" value="桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77D11C;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1570" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
