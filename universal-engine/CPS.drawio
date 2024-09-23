@@ -226,6 +226,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-17" value="2.1 创建桌面shortcut/widget" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-8" target="zMkcnjnvUUs7r8YLJFqf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zMkcnjnvUUs7r8YLJFqf-8" value="EES-SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffe6cc;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="630" y="1400" width="70" height="120" as="geometry" />
         </mxCell>
