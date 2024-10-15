@@ -27,9 +27,14 @@
           <mxGeometry x="220" y="610" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cjzBeKHPVElL4G8jm7Vg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="cjzBeKHPVElL4G8jm7Vg-10" target="cjzBeKHPVElL4G8jm7Vg-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="540" />
+              <mxPoint x="630" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cjzBeKHPVElL4G8jm7Vg-15" value="dp(pid=xxx 关联收入)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cjzBeKHPVElL4G8jm7Vg-14">
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-15" value="tbopen(pid=xxx 关联收入)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cjzBeKHPVElL4G8jm7Vg-14">
           <mxGeometry x="-0.1185" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -39,6 +44,49 @@
         </mxCell>
         <mxCell id="cjzBeKHPVElL4G8jm7Vg-13" value="手机淘宝" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="610" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cjzBeKHPVElL4G8jm7Vg-18" target="cjzBeKHPVElL4G8jm7Vg-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-18" value="wechat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="930" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-24" value="browser://xxxx?dp=tbopen" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="cjzBeKHPVElL4G8jm7Vg-21" target="cjzBeKHPVElL4G8jm7Vg-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="850" />
+              <mxPoint x="630" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-21" value="流体云" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="890" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-22" value="手机淘宝" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="930" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cjzBeKHPVElL4G8jm7Vg-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="860" />
+              <mxPoint x="800" y="860" />
+              <mxPoint x="800" y="820" />
+              <mxPoint x="941" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-29" value="tbopen(pid=xxx 关联收入)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cjzBeKHPVElL4G8jm7Vg-25">
+          <mxGeometry x="-0.1161" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjzBeKHPVElL4G8jm7Vg-23" value="oppo browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="930" width="120" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
