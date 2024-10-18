@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.7.17" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.7.17" pages="15">
   <diagram id="-Owg6EgJD8d5RqbwXyLf" name="CPS流量异常">
     <mxGraphModel dx="1260" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,133 @@
         </mxCell>
         <mxCell id="F5LoRvYiT0UbAbXWLLfi-17" value="口令/优惠卷/优惠券规则/口令规则" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bg2LD1bMk67kX1BQn_oh-11" target="bg2LD1bMk67kX1BQn_oh-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gniByKuMY897VrK1wuOR" name="CPS欧拉定向">
+    <mxGraphModel dx="1260" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="576" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-3" value="cps-dsp" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="437" y="210" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-7" target="6eO8BAW8n_VZsSULc7WX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="522" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-7" value="欧拉策略" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="492" y="586" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-8" value="欧拉服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="462" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-10" value="remote invoke" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-9" target="6eO8BAW8n_VZsSULc7WX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-9" value="欧拉SDK" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="265" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-12" target="6eO8BAW8n_VZsSULc7WX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-12" value="淘宝IMEI受众" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-13" target="6eO8BAW8n_VZsSULc7WX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-17" value="IMEI 交集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6eO8BAW8n_VZsSULc7WX-15">
+          <mxGeometry x="0.7121" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-13" value="京东IMEI" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-4" target="6eO8BAW8n_VZsSULc7WX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="360" />
+              <mxPoint x="122" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-19" value="返回命中的欧拉配置 (淘宝)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6eO8BAW8n_VZsSULc7WX-18">
+          <mxGeometry x="-0.183" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-20" value="淘宝包名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=none;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-21" value="淘宝URL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-23" value="京东包名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-24" value="京东URL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-25" value="淘宝包名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="626" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=none;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-27" value="淘宝URL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="626" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-28" value="京东包名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="646" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-29" value="京东URL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="646" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-30" value="淘宝包名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="582" y="626" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6eO8BAW8n_VZsSULc7WX-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="772" y="656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-32" value="淘宝URL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="702" y="626" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-33" value="京东包名" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="582" y="646" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eO8BAW8n_VZsSULc7WX-34" value="京东URL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="702" y="646" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
