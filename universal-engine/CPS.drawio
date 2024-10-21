@@ -462,6 +462,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FO79KKH8rfZ55B9QwXBc-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1370" width="1020" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="zMkcnjnvUUs7r8YLJFqf-3" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="1600" width="900" height="60" as="geometry" />
         </mxCell>
