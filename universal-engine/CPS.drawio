@@ -474,11 +474,12 @@
         <mxCell id="zMkcnjnvUUs7r8YLJFqf-11" value="负一屏卡片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="1570" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="FO79KKH8rfZ55B9QwXBc-2" value="3.1 deeplink下载能力" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-12" target="FO79KKH8rfZ55B9QwXBc-1">
+        <mxCell id="FO79KKH8rfZ55B9QwXBc-2" value="3.1 deeplink下载能力&lt;div&gt;传递token(com.opos.ads)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-12" target="FO79KKH8rfZ55B9QwXBc-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="1448" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zMkcnjnvUUs7r8YLJFqf-12" value="ADS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;textDirection=ltr;fontColor=#000000;" parent="1" vertex="1">
