@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.7.17" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.8.0" pages="15">
   <diagram id="-Owg6EgJD8d5RqbwXyLf" name="CPS流量异常">
     <mxGraphModel dx="1260" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -462,33 +462,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-3" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1600" width="717.5" height="60" as="geometry" />
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-3" value="Color OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1600" width="900" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-16" value="1.2 创建端外卡片" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-11" target="zMkcnjnvUUs7r8YLJFqf-14">
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-16" value="1.2 创建端外卡片" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="zMkcnjnvUUs7r8YLJFqf-11" target="zMkcnjnvUUs7r8YLJFqf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-11" value="负一屏卡片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1570" width="160" height="54" as="geometry" />
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-11" value="负一屏卡片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1570" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-12" value="ADS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;textDirection=ltr;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1380" width="70" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-15" value="1.1卡片创建" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-8" target="zMkcnjnvUUs7r8YLJFqf-11">
+        <mxCell id="FO79KKH8rfZ55B9QwXBc-2" value="3.1 deeplink下载能力" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-12" target="FO79KKH8rfZ55B9QwXBc-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1584" />
+              <mxPoint x="745" y="1448" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-17" value="2.1 创建桌面shortcut/widget" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="zMkcnjnvUUs7r8YLJFqf-8" target="zMkcnjnvUUs7r8YLJFqf-14">
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-12" value="ADS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f0a30a;textDirection=ltr;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1390" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-15" value="1.1卡片创建" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zMkcnjnvUUs7r8YLJFqf-8" target="zMkcnjnvUUs7r8YLJFqf-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1530" />
+              <mxPoint x="540" y="1584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-17" value="2.1 创建桌面shortcut/widget" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="zMkcnjnvUUs7r8YLJFqf-8" target="zMkcnjnvUUs7r8YLJFqf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-8" value="EES-SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffe6cc;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1400" width="70" height="120" as="geometry" />
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-8" value="EES-SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffe6cc;textDirection=ltr;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1410" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zMkcnjnvUUs7r8YLJFqf-14" value="桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77D11C;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1570" width="200" height="50" as="geometry" />
+        <mxCell id="zMkcnjnvUUs7r8YLJFqf-14" value="桌面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77D11C;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1570" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FO79KKH8rfZ55B9QwXBc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="FO79KKH8rfZ55B9QwXBc-1" target="zMkcnjnvUUs7r8YLJFqf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="1563" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO79KKH8rfZ55B9QwXBc-4" value="3.2 下载事件回传通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FO79KKH8rfZ55B9QwXBc-3">
+          <mxGeometry x="-0.1535" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FO79KKH8rfZ55B9QwXBc-1" value="软件商店" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#008a00;textDirection=ltr;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1390" width="70" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
