@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.8.1" pages="15">
   <diagram id="-Owg6EgJD8d5RqbwXyLf" name="CPS流量异常">
-    <mxGraphModel dx="1260" dy="1840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,16 +106,21 @@
           <mxGeometry x="51" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="879" y="121" width="410" height="104" as="geometry" />
+          <mxGeometry x="854" y="272" width="477" height="104" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="0keydnGMbZkLC_uP8-3D-45" target="0keydnGMbZkLC_uP8-3D-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ekFFPa37KUcc67hWimC3-11" value="1. 供应商选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0keydnGMbZkLC_uP8-3D-44">
+          <mxGeometry x="-0.3884" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-45" value="口令转链" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="909" y="146" width="120" height="60" as="geometry" />
+          <mxGeometry x="885" y="297" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-46" value="CPS-口令服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="978" y="91" width="175.84" height="30" as="geometry" />
+          <mxGeometry x="1020" y="242" width="175.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="0keydnGMbZkLC_uP8-3D-51" target="0keydnGMbZkLC_uP8-3D-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,44 +128,99 @@
         <mxCell id="0keydnGMbZkLC_uP8-3D-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="0keydnGMbZkLC_uP8-3D-51" target="0keydnGMbZkLC_uP8-3D-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-1" value="4. 口令请求+策略参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0keydnGMbZkLC_uP8-3D-48">
+          <mxGeometry x="-0.5461" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ekFFPa37KUcc67hWimC3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="0keydnGMbZkLC_uP8-3D-51" target="ekFFPa37KUcc67hWimC3-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekFFPa37KUcc67hWimC3-6" value="用户分流+实验选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ekFFPa37KUcc67hWimC3-5">
+        <mxCell id="ekFFPa37KUcc67hWimC3-6" value="2. 用户分流+实验选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ekFFPa37KUcc67hWimC3-5">
           <mxGeometry x="0.2773" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-51" value="供应商选择" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1109" y="146" width="120" height="60" as="geometry" />
+          <mxGeometry x="1151" y="297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="0keydnGMbZkLC_uP8-3D-52" target="0keydnGMbZkLC_uP8-3D-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1553" y="532" />
+              <mxPoint x="1211" y="532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-3" value="5. 口令响应&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XfKMgam6RnX4iVeTd8D1-2">
+          <mxGeometry x="-0.1901" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="1545" y="15" width="180" height="234" as="geometry" />
+          <mxGeometry x="1472" y="171" width="168" height="286" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-53" value="百硕" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1575" y="65" width="120" height="60" as="geometry" />
+          <mxGeometry x="1502" y="221" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-54" value="CPS供应商服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1580" y="15" width="110" height="30" as="geometry" />
+          <mxGeometry x="1498" y="171" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0keydnGMbZkLC_uP8-3D-55" value="魔力链" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1575" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1502" y="359" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekFFPa37KUcc67hWimC3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ekFFPa37KUcc67hWimC3-1" target="0keydnGMbZkLC_uP8-3D-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1320" y="-14" />
-              <mxPoint x="1320" y="146" />
+              <mxPoint x="1362" y="137" />
+              <mxPoint x="1362" y="297" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekFFPa37KUcc67hWimC3-8" value="返回服务商ID+反作弊策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ekFFPa37KUcc67hWimC3-7">
+        <mxCell id="ekFFPa37KUcc67hWimC3-8" value="3. 返回服务商ID+反作弊策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ekFFPa37KUcc67hWimC3-7">
           <mxGeometry x="-0.0811" y="-5" relative="1" as="geometry">
             <mxPoint x="4" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ekFFPa37KUcc67hWimC3-1" value="伽利略实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-43" width="119" height="58" as="geometry" />
+          <mxGeometry x="1152" y="108" width="119" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.36;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="0keydnGMbZkLC_uP8-3D-51" target="0keydnGMbZkLC_uP8-3D-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1169" y="535" />
+              <mxPoint x="928" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-5" value="6. 反作弊接口 - 使用浏览器跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="XfKMgam6RnX4iVeTd8D1-4">
+          <mxGeometry x="0.0239" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfKMgam6RnX4iVeTd8D1-6" target="XfKMgam6RnX4iVeTd8D1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-6" value="CommandContextInitFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="718" width="374" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfKMgam6RnX4iVeTd8D1-7" target="XfKMgam6RnX4iVeTd8D1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-7" value="CommandFlowRouteFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="837" width="374" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-8" value="CommandResultConvertFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="960" width="374" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-11" value="初始化实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="727" width="172" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-12" value="根据实验选择供应商" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="854" width="172" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-13" value="DP跳转适配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="975" width="172" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
