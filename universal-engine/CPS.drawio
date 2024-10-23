@@ -198,29 +198,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XfKMgam6RnX4iVeTd8D1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfKMgam6RnX4iVeTd8D1-6" target="XfKMgam6RnX4iVeTd8D1-7">
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="XfKMgam6RnX4iVeTd8D1-6" target="XfKMgam6RnX4iVeTd8D1-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XfKMgam6RnX4iVeTd8D1-6" value="CommandContextInitFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="718" width="374" height="60" as="geometry" />
+          <mxGeometry x="936" y="718" width="374" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XfKMgam6RnX4iVeTd8D1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfKMgam6RnX4iVeTd8D1-7" target="XfKMgam6RnX4iVeTd8D1-8">
+        <mxCell id="XfKMgam6RnX4iVeTd8D1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="XfKMgam6RnX4iVeTd8D1-7" target="XfKMgam6RnX4iVeTd8D1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XfKMgam6RnX4iVeTd8D1-7" value="CommandFlowRouteFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="837" width="374" height="60" as="geometry" />
+          <mxGeometry x="936" y="837" width="374" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XfKMgam6RnX4iVeTd8D1-8" value="CommandResultConvertFilter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="960" width="374" height="60" as="geometry" />
+          <mxGeometry x="936" y="960" width="374" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XfKMgam6RnX4iVeTd8D1-11" value="初始化实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1472" y="727" width="172" height="30" as="geometry" />
+          <mxGeometry x="1344" y="727" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfKMgam6RnX4iVeTd8D1-12" value="根据实验选择供应商" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1472" y="854" width="172" height="30" as="geometry" />
+          <mxGeometry x="1344" y="854" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfKMgam6RnX4iVeTd8D1-13" value="DP跳转适配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="975" width="172" height="30" as="geometry" />
+          <mxGeometry x="1342" y="975" width="172" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
