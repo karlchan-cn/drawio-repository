@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="180" width="160" height="260" as="geometry" />
+          <mxGeometry x="667" y="180" width="243" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#DAE8FC;strokeWidth=2;" edge="1" parent="1" source="4D0IaQfINzD8H7_-F1K3-2" target="DYmO0Z8MRJsZCkKNG1sk-4">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +85,9 @@
         </mxCell>
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-26" value="拍卖引擎(效果)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="692" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DYmO0Z8MRJsZCkKNG1sk-34" value="DSP分模块&lt;div&gt;(Flow&lt;/div&gt;&lt;div&gt;Config)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="190" width="60" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
