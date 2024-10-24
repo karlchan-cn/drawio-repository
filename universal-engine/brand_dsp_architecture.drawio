@@ -62,8 +62,8 @@
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-32" value="品牌专用(围海造田)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="DYmO0Z8MRJsZCkKNG1sk-11" target="DYmO0Z8MRJsZCkKNG1sk-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="320" />
-              <mxPoint x="616" y="320" />
+              <mxPoint x="485" y="280" />
+              <mxPoint x="616" y="280" />
               <mxPoint x="616" y="248" />
             </Array>
           </mxGeometry>
