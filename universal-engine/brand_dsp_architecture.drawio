@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.8.3" pages="40">
   <diagram id="OiwcLiFgXxirAO_k1HMx" name="品效广告位映射与管理逻辑">
-    <mxGraphModel dx="1260" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-1" value="围海造田-适配器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-1" value="Gateway-Service-围海造田-适配器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="960" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-5" value="2. 返回接入SSP广告位信息,确定bizType" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-2" target="0J9T4Dtu7SH7OvKQjKF3-1">
