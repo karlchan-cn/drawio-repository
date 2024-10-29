@@ -101,17 +101,24 @@
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-39" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#e51400;strokeColor=#B20000;sketch=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="844" y="440" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-4" value="1. SSP广告位信息查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-1" target="0J9T4Dtu7SH7OvKQjKF3-2">
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-4" value="1. SSP广告位信息查询" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-1" target="0J9T4Dtu7SH7OvKQjKF3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="245" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-12" value="3. 映射关系查询 确定bizType" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-1" target="0J9T4Dtu7SH7OvKQjKF3-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-1" value="围海造田-适配器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="960" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-5" value="2. 返回接入SSP广告位信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-2" target="0J9T4Dtu7SH7OvKQjKF3-1">
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-5" value="2. 返回接入SSP广告位信息,确定bizType" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-2" target="0J9T4Dtu7SH7OvKQjKF3-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="323" y="910" />
@@ -119,22 +126,65 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-2" value="SSP广告缓存服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="860" width="360" height="60" as="geometry" />
+          <mxGeometry x="580" y="860" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="0J9T4Dtu7SH7OvKQjKF3-6" target="0J9T4Dtu7SH7OvKQjKF3-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="1050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-6" value="SSP广告位映射管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1040" width="360" height="60" as="geometry" />
+          <mxGeometry x="580" y="1040" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-7" value="ssp_pos.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.code_file" vertex="1" parent="1">
-          <mxGeometry x="1020" y="870" width="47" height="50" as="geometry" />
+          <mxGeometry x="920" y="870" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="900" as="sourcePoint" />
-            <mxPoint x="910" y="900" as="targetPoint" />
+            <mxPoint x="900" y="900" as="sourcePoint" />
+            <mxPoint x="810" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-11" value="read from disk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="850" width="80" height="30" as="geometry" />
+          <mxGeometry x="820" y="850" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-13" value="ssp_pos_mapping_info.properties" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.code_file" vertex="1" parent="1">
+          <mxGeometry x="920" y="1040" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="1070" as="sourcePoint" />
+            <mxPoint x="810" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-15" value="read from disk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1020" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-17" value="BOSS-SSP-广告位管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="865" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-18" value="BOSS-SSP-广告位映射关系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1050" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="900" as="sourcePoint" />
+            <mxPoint x="990" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1069.5" as="sourcePoint" />
+            <mxPoint x="990" y="1069.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-22" value="conf-job 文件分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="845" width="137" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0J9T4Dtu7SH7OvKQjKF3-23" value="conf-job 文件分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1010" width="137" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
