@@ -191,6 +191,112 @@
         <mxCell id="0J9T4Dtu7SH7OvKQjKF3-23" value="conf-job 文件分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1001" y="1011" width="137" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-2" value="PosService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="213" y="1162" width="100" height="437" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="F8-vNPglKK4Wk3RdJsMb-2" source="F8-vNPglKK4Wk3RdJsMb-10" target="F8-vNPglKK4Wk3RdJsMb-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="128.6476593017578" y="261.9118423461914" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="191" />
+              <mxPoint x="105" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-24" value="通过redis获取映射管理(废弃)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-23">
+          <mxGeometry x="-0.0609" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-2">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-2">
+          <mxGeometry x="46" y="171" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-11" value="SSP非空+SSP全量开关打开" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" target="F8-vNPglKK4Wk3RdJsMb-10" parent="F8-vNPglKK4Wk3RdJsMb-2" source="F8-vNPglKK4Wk3RdJsMb-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="46" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="145" />
+              <mxPoint x="81" y="181" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-2">
+          <mxGeometry x="45" y="236" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-3" value="SspPosInfoCache" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="448" y="1164" width="100" height="426" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-3">
+          <mxGeometry x="44" y="73" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-6" value="获取SSP广告位详情" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-5" target="F8-vNPglKK4Wk3RdJsMb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="1242" />
+              <mxPoint x="325" y="1242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-4" target="F8-vNPglKK4Wk3RdJsMb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="336" y="1277" />
+              <mxPoint x="336" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-13" value="返回SSP详情/NULL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-12">
+          <mxGeometry x="-0.0447" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-14" value="MixAdAdaptor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="17" y="1162" width="100" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-14">
+          <mxGeometry x="45" y="70" width="10" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-14">
+          <mxGeometry x="44" y="244" width="10" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-15" target="F8-vNPglKK4Wk3RdJsMb-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="113" y="1237" />
+              <mxPoint x="113" y="1237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-19" value="getMixAdPosConfigV3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-18">
+          <mxGeometry x="0.1712" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-10" target="F8-vNPglKK4Wk3RdJsMb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-21" value="返回SSP MixAdPosConfig" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-20">
+          <mxGeometry x="-0.3049" y="-3" relative="1" as="geometry">
+            <mxPoint x="-25" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-22" target="F8-vNPglKK4Wk3RdJsMb-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="1418" />
+              <mxPoint x="133" y="1418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-28" value="返回映射的MixAdPosConfig(废弃)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-27">
+          <mxGeometry x="-0.1219" y="-2" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
