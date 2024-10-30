@@ -263,6 +263,18 @@
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-14">
           <mxGeometry x="44" y="244" width="10" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-14">
+          <mxGeometry x="45" y="341" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-30" value="MixAdPosConfig是否为空?" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="F8-vNPglKK4Wk3RdJsMb-29" parent="F8-vNPglKK4Wk3RdJsMb-14" source="F8-vNPglKK4Wk3RdJsMb-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="41" y="318" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="86" y="271" />
+              <mxPoint x="86" y="361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-15" target="F8-vNPglKK4Wk3RdJsMb-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -295,6 +307,33 @@
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-28" value="返回映射的MixAdPosConfig(废弃)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-27">
           <mxGeometry x="-0.1219" y="-2" relative="1" as="geometry">
             <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-32" value="BizMixAdAdaptor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="636" y="1166" width="120" height="426" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-32">
+          <mxGeometry x="44" y="73" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-32">
+          <mxGeometry x="55" y="337" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-29" target="F8-vNPglKK4Wk3RdJsMb-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="1538" />
+              <mxPoint x="223" y="1538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-35">
+          <mxGeometry x="0.6057" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F8-vNPglKK4Wk3RdJsMb-37" value="MixAdPosConfig 不为空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F8-vNPglKK4Wk3RdJsMb-35">
+          <mxGeometry x="-0.1017" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
