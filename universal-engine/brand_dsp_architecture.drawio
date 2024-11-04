@@ -192,7 +192,7 @@
           <mxGeometry x="1001" y="1011" width="137" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-2" value="PosService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="213" y="1162" width="100" height="437" as="geometry" />
+          <mxGeometry x="231" y="1217" width="100" height="437" as="geometry" />
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="F8-vNPglKK4Wk3RdJsMb-2" source="F8-vNPglKK4Wk3RdJsMb-10" target="F8-vNPglKK4Wk3RdJsMb-22">
           <mxGeometry relative="1" as="geometry">
@@ -229,7 +229,7 @@
           <mxGeometry x="45" y="236" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-3" value="SspPosInfoCache" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="448" y="1164" width="100" height="426" as="geometry" />
+          <mxGeometry x="466" y="1219" width="100" height="426" as="geometry" />
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-3">
           <mxGeometry x="44" y="73" width="10" height="80" as="geometry" />
@@ -237,16 +237,16 @@
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-6" value="获取SSP广告位详情" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-5" target="F8-vNPglKK4Wk3RdJsMb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="325" y="1242" />
-              <mxPoint x="325" y="1242" />
+              <mxPoint x="343" y="1297" />
+              <mxPoint x="343" y="1297" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-4" target="F8-vNPglKK4Wk3RdJsMb-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="336" y="1277" />
-              <mxPoint x="336" y="1277" />
+              <mxPoint x="354" y="1332" />
+              <mxPoint x="354" y="1332" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-14" value="MixAdAdaptor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="17" y="1162" width="100" height="448" as="geometry" />
+          <mxGeometry x="35" y="1217" width="100" height="448" as="geometry" />
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-14">
           <mxGeometry x="45" y="70" width="10" height="132" as="geometry" />
@@ -279,8 +279,8 @@
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-15" target="F8-vNPglKK4Wk3RdJsMb-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="113" y="1237" />
-              <mxPoint x="113" y="1237" />
+              <mxPoint x="131" y="1292" />
+              <mxPoint x="131" y="1292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -300,8 +300,8 @@
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-22" target="F8-vNPglKK4Wk3RdJsMb-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="133" y="1418" />
-              <mxPoint x="133" y="1418" />
+              <mxPoint x="151" y="1473" />
+              <mxPoint x="151" y="1473" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-32" value="BizMixAdAdaptor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="636" y="1166" width="120" height="426" as="geometry" />
+          <mxGeometry x="654" y="1221" width="120" height="426" as="geometry" />
         </mxCell>
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="F8-vNPglKK4Wk3RdJsMb-32">
           <mxGeometry x="44" y="73" width="10" height="80" as="geometry" />
@@ -322,8 +322,8 @@
         <mxCell id="F8-vNPglKK4Wk3RdJsMb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="F8-vNPglKK4Wk3RdJsMb-29" target="F8-vNPglKK4Wk3RdJsMb-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="223" y="1538" />
-              <mxPoint x="223" y="1538" />
+              <mxPoint x="241" y="1593" />
+              <mxPoint x="241" y="1593" />
             </Array>
           </mxGeometry>
         </mxCell>
