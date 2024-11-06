@@ -52,22 +52,6 @@
         <mxCell id="MBKEdh8YCzZjGUaRYajD-2" value="CPS-秒杀SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="578" y="372" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MBKEdh8YCzZjGUaRYajD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="MBKEdh8YCzZjGUaRYajD-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="668" y="432" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="778" y="402" />
-              <mxPoint x="778" y="512" />
-              <mxPoint x="668" y="512" />
-              <mxPoint x="668" y="432" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBKEdh8YCzZjGUaRYajD-8" value="4. 用户CPS秒杀区域使用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MBKEdh8YCzZjGUaRYajD-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.4488" y="-1" relative="1" as="geometry">
-            <mxPoint y="47" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBKEdh8YCzZjGUaRYajD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="8YSSqqoTMGM3j5OcuaNn-2" target="MBKEdh8YCzZjGUaRYajD-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="188" y="112" as="sourcePoint" />
