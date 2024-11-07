@@ -6466,7 +6466,7 @@
         <mxCell id="hDdSDM53jMUfbNQHrY_P-58" value="P=4000&amp;amp;random=2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1130" width="180" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hDdSDM53jMUfbNQHrY_P-59" value="P= 6000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="hDdSDM53jMUfbNQHrY_P-59" value="P=6000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-210" y="890" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hDdSDM53jMUfbNQHrY_P-60" value="定向优先" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
@@ -6493,7 +6493,7 @@
         <mxCell id="hDdSDM53jMUfbNQHrY_P-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-20" y="930" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hDdSDM53jMUfbNQHrY_P-71" value="P= 7000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="hDdSDM53jMUfbNQHrY_P-71" value="P=7000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-210" y="850" width="180" height="25" as="geometry" />
         </mxCell>
       </root>
