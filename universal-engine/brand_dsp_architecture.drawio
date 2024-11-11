@@ -1741,7 +1741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
-    <mxGraphModel dx="2060" dy="1071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1359" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1753,7 +1753,8 @@
               <Array as="points">
                 <mxPoint x="878" y="1060" />
                 <mxPoint x="878" y="1209" />
-                <mxPoint x="-328" y="1209" />
+                <mxPoint x="-470" y="1209" />
+                <mxPoint x="-470" y="505" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -1764,8 +1765,8 @@
               <mxPoint x="93.96" y="890.0029999999999" as="sourcePoint" />
               <mxPoint x="-200.00330000000037" y="890.0029999999999" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="-370" y="894" />
-                <mxPoint x="-370" y="531" />
+                <mxPoint x="-503" y="894" />
+                <mxPoint x="-503" y="505" />
               </Array>
             </mxGeometry>
           </mxCell>
