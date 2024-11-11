@@ -1107,7 +1107,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FptbIn-54b-rPcFRRa57" name="第 36 页">
+  <diagram id="FptbIn-54b-rPcFRRa57" name="品牌广告数据里链路-简版">
     <mxGraphModel dx="2087" dy="-1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1236,16 +1236,16 @@
         <mxCell id="Qzai7qhSs4rXxvgEuYWh-9" value="obus-datalake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-102" y="3760" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F5c4S6fbWdApcALvEErO-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="F5c4S6fbWdApcALvEErO-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-630" y="3950" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5c4S6fbWdApcALvEErO-4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="F5c4S6fbWdApcALvEErO-4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-610" y="3990" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5c4S6fbWdApcALvEErO-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="F5c4S6fbWdApcALvEErO-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-590" y="4030" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5c4S6fbWdApcALvEErO-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="F5c4S6fbWdApcALvEErO-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-570" y="4070" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -1741,7 +1741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
-    <mxGraphModel dx="2234" dy="1164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
