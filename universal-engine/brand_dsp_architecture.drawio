@@ -1769,7 +1769,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Brand Retrieve Dsp" c4Type="ContainerScopeBoundary" c4Application="Dubbo Service Component Container" label="&lt;font style=&quot;font-size: 25px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="vsTv3JggZ41B_fVjawvH-1">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#FFB366;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];strokeWidth=3;" parent="1" vertex="1">
-            <mxGeometry x="-130" y="240" width="1370" height="1277" as="geometry" />
+            <mxGeometry x="-160" y="240" width="1400" height="1147" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="InitializationFilter" c4Type="Component" c4Technology="Spring Service Bean" c4Description="职责-1. 上下文标志位初始化 2. 实验重分配 3.画像加载 4. 广告位 sdk 快应用 等初始化" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="vsTv3JggZ41B_fVjawvH-2">
