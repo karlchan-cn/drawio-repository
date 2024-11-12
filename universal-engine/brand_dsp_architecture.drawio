@@ -1741,7 +1741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_kejkHLoAi_Xvs7EKm9Y" name="Brand-Dsp-Component">
-    <mxGraphModel dx="3800" dy="1359" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="5150" dy="2078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2460,7 +2460,7 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="String/TCP" c4Description="Message Consuming API" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-29">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E2A0lptUryNvvEhdH5T_-9" target="E2A0lptUryNvvEhdH5T_-23">
-            <mxGeometry x="0.8039" width="240" relative="1" as="geometry">
+            <mxGeometry x="0.6926" width="240" relative="1" as="geometry">
               <mxPoint x="-834" y="561" as="sourcePoint" />
               <mxPoint x="-1529" y="719" as="targetPoint" />
               <Array as="points">
