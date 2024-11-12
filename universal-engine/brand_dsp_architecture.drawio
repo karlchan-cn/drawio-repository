@@ -2321,12 +2321,12 @@
         </object>
         <object placeholders="1" c4Name="伏羲Kafka Container" c4Type="Container" c4Technology="Apache Kafka" c4Description="行为数据Message Queue.包括不限于req&amp;expose&amp;click&amp;download&amp;play e.g." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-9">
           <mxCell style="shape=cylinder3;size=15;direction=south;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="-843" y="539" width="240" height="120" as="geometry" />
+            <mxGeometry x="-844" y="491" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Brand Billing Service Group" c4Type="ContainerScopeBoundary" c4Application="Dubbo&amp;Http&amp;Kafka Service Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-10">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-1960" y="240" width="1013" height="513" as="geometry" />
+            <mxGeometry x="-1960" y="240" width="1013" height="382" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Brand Stat Service" c4Type="Component" c4Technology="Spring Service" c4Description="职责 1. 接收曝光点击 2. 接收monitor数据 " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-12">
@@ -2388,17 +2388,17 @@
         </object>
         <object placeholders="1" c4Name="Fuxi Service" c4Type="Component" c4Technology="Spring Service" c4Description="伏羲服务" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-1251" y="824" width="240" height="120" as="geometry" />
+            <mxGeometry x="-1298" y="685" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="JSON/HTTP" c4Description="call tracking API" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-20">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E2A0lptUryNvvEhdH5T_-12" target="E2A0lptUryNvvEhdH5T_-19">
             <mxGeometry x="0.4688" width="240" relative="1" as="geometry">
               <mxPoint x="-1242" y="572" as="sourcePoint" />
-              <mxPoint x="-1002" y="572" as="targetPoint" />
+              <mxPoint x="-972" y="757" as="targetPoint" />
               <Array as="points">
                 <mxPoint x="-915" y="357" />
-                <mxPoint x="-915" y="884" />
+                <mxPoint x="-915" y="745" />
               </Array>
               <mxPoint as="offset" />
             </mxGeometry>
@@ -2406,13 +2406,14 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="String/TCP" c4Description="produce Message" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="E2A0lptUryNvvEhdH5T_-21">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.542;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E2A0lptUryNvvEhdH5T_-19" target="E2A0lptUryNvvEhdH5T_-9">
-            <mxGeometry width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.1724" width="240" relative="1" as="geometry">
               <mxPoint x="-1056" y="1014" as="sourcePoint" />
               <mxPoint x="-816" y="1014" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="-1121" y="986" />
-                <mxPoint x="-723" y="986" />
+                <mxPoint x="-1168" y="842" />
+                <mxPoint x="-724" y="842" />
               </Array>
+              <mxPoint x="-1" as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
