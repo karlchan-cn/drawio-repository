@@ -2924,6 +2924,9 @@
         <mxCell id="Am8LVo_7eNuAcH7eH-rv-9" value="广告位详情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
           <mxGeometry x="-252" y="2230" width="120" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-10" value="广告位详情(品牌)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxGeometry x="329" y="1894" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
