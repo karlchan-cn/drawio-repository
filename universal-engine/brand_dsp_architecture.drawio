@@ -1490,7 +1490,7 @@
           <mxGeometry x="725" y="190" width="60" height="240" as="geometry" />
         </mxCell>
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;细节说明&lt;/h1&gt;&lt;p&gt;1. 样例广告位列表&lt;/p&gt;&lt;p&gt;&amp;nbsp;1.1 CPD -&amp;nbsp;&lt;span style=&quot;color: rgb(17, 17, 18); font-size: 11pt; background-color: initial;&quot;&gt;838771 软件商店banner&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(17, 17, 18); font-size: 11pt; background-color: initial;&quot;&gt;&amp;nbsp;1.2 锁屏-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;PingFang SC&amp;quot;, Helvetica, Tahoma, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, Heiti, sans-serif; white-space: pre-wrap;&quot;&gt;亮屏(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;PingFang SC&amp;quot;, Helvetica, Tahoma, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, Heiti, sans-serif; white-space: pre-wrap;&quot;&gt;207835_207844_650458_673017&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;PingFang SC&amp;quot;, Helvetica, Tahoma, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, Heiti, sans-serif; white-space: pre-wrap;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(17, 17, 18); font-size: 11pt;&quot;&gt;&amp;nbsp;参考 -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14.6667px;&quot;&gt;&lt;font color=&quot;#111112&quot;&gt;https://odocs.myoas.com/sheets/5bqnroQ24bUjZgqy/MODOC&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; font-size: 14.6667px;&quot;&gt;&lt;font color=&quot;#111112&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#111112&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;2. 在Gateway模块，feeds+union加载品牌广告位，&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="33" y="529" width="770" height="280" as="geometry" />
+          <mxGeometry x="33" y="529" width="770" height="215" as="geometry" />
         </mxCell>
         <mxCell id="DYmO0Z8MRJsZCkKNG1sk-36" value="广告位映射-业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="195" y="390" width="30" height="100" as="geometry" />
@@ -1750,10 +1750,10 @@
           <mxGeometry x="111" y="2020" width="219" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I0vH2E2VkMnsm_rB0jjx-4" value="&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;标准3品牌广告位&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="141" y="1795" width="158" height="30" as="geometry" />
+          <mxGeometry x="141" y="1818" width="158" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I0vH2E2VkMnsm_rB0jjx-5" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;新版锁屏杂志亮屏&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="2107" width="633" height="40" as="geometry" />
+          <mxGeometry x="111" y="2107" width="582" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I0vH2E2VkMnsm_rB0jjx-6" value="&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;品牌广告位&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="487" y="1900" width="158" height="30" as="geometry" />
