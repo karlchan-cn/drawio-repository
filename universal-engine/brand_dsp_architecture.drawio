@@ -2903,7 +2903,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-0" value="ssp-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
           <mxGeometry x="-263" y="1612" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Am8LVo_7eNuAcH7eH-rv-3" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
