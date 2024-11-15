@@ -1770,8 +1770,8 @@
         <mxCell id="ipIbrdXmwUXAFrWwWIwE-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;品牌&lt;font color=&quot;#ffb366&quot;&gt;专属&lt;/font&gt;资源位接入围海造田&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="2729" width="729" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="ipIbrdXmwUXAFrWwWIwE-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 1 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《公共管理》 - 《广告位管理》 - 《广告位管理》 - 新增广告。&lt;/p&gt;&lt;p&gt;品牌没有完全切SSP，这里是广告位管理的模块，需要新增&lt;font color=&quot;#ffb366&quot;&gt;业务类型=品牌的广告位&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="17" y="2427" width="244" height="120" as="geometry" />
+        <mxCell id="ipIbrdXmwUXAFrWwWIwE-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 1 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《公共管理》 - 《广告位管理》 - 《广告位管理》 - 新增广告。&lt;/p&gt;&lt;p&gt;品牌没有完全切SSP，这里是广告位管理的模块，需要新增&lt;font color=&quot;#ffb366&quot;&gt;业务类型=品牌的广告位&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="17" y="2402" width="244" height="145" as="geometry" />
         </mxCell>
         <mxCell id="ipIbrdXmwUXAFrWwWIwE-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.15;exitY=0.37;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipIbrdXmwUXAFrWwWIwE-1" target="ipIbrdXmwUXAFrWwWIwE-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1779,8 +1779,8 @@
             <mxPoint x="121" y="2625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipIbrdXmwUXAFrWwWIwE-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 2 - 广告位映射&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《品牌推广》 - 《广告位管理》 - 《广告位配置》 - 新增广告。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;品牌投放模块使用独立的数据源，没有迁移公共模块，故此这里需要&lt;font color=&quot;#ffb366&quot;&gt;映射&lt;/font&gt;step 1的广告位ID&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2564" width="244" height="120" as="geometry" />
+        <mxCell id="ipIbrdXmwUXAFrWwWIwE-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 2 - 广告位映射&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《品牌推广》 - 《广告位管理》 - 《广告位配置》 - 新增广告。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;品牌投放模块使用独立的数据源，没有迁移公共模块，故此这里需要&lt;font color=&quot;#ffb366&quot;&gt;映射&lt;/font&gt;step 1的广告位ID&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2552" width="244" height="132" as="geometry" />
         </mxCell>
         <mxCell id="ipIbrdXmwUXAFrWwWIwE-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.469;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipIbrdXmwUXAFrWwWIwE-1" target="ipIbrdXmwUXAFrWwWIwE-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1788,7 +1788,7 @@
             <mxPoint x="149" y="2557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipIbrdXmwUXAFrWwWIwE-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 3 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《SSP统一广告位管理》 - 《广告位映射关系》&amp;nbsp; - 新增映射关系，新增“融合广告位映射规则”&amp;nbsp;&lt;/p&gt;&lt;p&gt;这一步的作用是-围海造田流量入口 -&lt;font color=&quot;#ffb366&quot;&gt; #分配资源位对应的引擎链路#&lt;/font&gt;，也就是对应的预算。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ipIbrdXmwUXAFrWwWIwE-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 3 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《SSP统一广告位管理》 - 《广告位映射关系》&amp;nbsp; - 新增映射关系，新增“融合广告位映射规则”&amp;nbsp;&lt;/p&gt;&lt;p&gt;这一步的作用是-围海造田流量入口 -&lt;font color=&quot;#ffb366&quot;&gt; #分配资源位对应的引擎链路#&lt;/font&gt;，也就是对应的预算。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="494" y="2352" width="244" height="157" as="geometry" />
         </mxCell>
         <mxCell id="ipIbrdXmwUXAFrWwWIwE-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.8;exitY=0.331;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ipIbrdXmwUXAFrWwWIwE-1" target="ipIbrdXmwUXAFrWwWIwE-8">
@@ -2767,32 +2767,32 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Brand-workflow" id="beie2BHZgUHNx46q6ztG">
-    <mxGraphModel dx="3000" dy="-241" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2460" dy="-529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="N9TpX0y2rrrdzCcdZEis-0" />
         <mxCell id="N9TpX0y2rrrdzCcdZEis-1" parent="N9TpX0y2rrrdzCcdZEis-0" />
         <object placeholders="1" c4Name="ad-show-gateway-service" c4Type="Software System" c4Description="广告网关服务-品牌" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-889" y="1636" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad-show-gateway-service" c4Type="Software System" c4Description="广告网关服务-围海造田" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-889" y="1837" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad-show-gateway-service" c4Type="Software System" c4Description="广告网关服务-联盟" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-889" y="2036" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad show mixer service" c4Type="Software System" c4Description="拍卖引擎-品牌" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-327" y="1506" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-12">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-0" target="l5apJRWCYlQVaLkU4uV3-3">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-0" target="l5apJRWCYlQVaLkU4uV3-3" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="-551" y="1688" as="sourcePoint" />
               <mxPoint x="-311" y="1688" as="targetPoint" />
@@ -2800,22 +2800,22 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad show mixer service" c4Type="Software System" c4Description="拍卖引擎-分发" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-327" y="1711" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad show mixer service" c4Type="Software System" c4Description="拍卖引擎-信息流" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-14">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-327" y="1916" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad show mixer service" c4Type="Software System" c4Description="拍卖引擎-联盟" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-15">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="-323" y="2121" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-16">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#d6b656;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-2" target="l5apJRWCYlQVaLkU4uV3-15">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#d6b656;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-2" target="l5apJRWCYlQVaLkU4uV3-15" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="-599" y="2034.57" as="sourcePoint" />
               <mxPoint x="-359" y="2035" as="targetPoint" />
@@ -2823,7 +2823,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-19">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#b85450;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.998;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.025;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-14">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#b85450;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.998;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.025;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-14" edge="1">
             <mxGeometry x="-0.0019" width="240" relative="1" as="geometry">
               <mxPoint x="-629" y="2030" as="sourcePoint" />
               <mxPoint x="-389" y="2030" as="targetPoint" />
@@ -2836,7 +2836,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-20">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#6c8ebf;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-13">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#6c8ebf;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-13" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="-682" y="1784" as="sourcePoint" />
               <mxPoint x="-354" y="1845" as="targetPoint" />
@@ -2848,7 +2848,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-21">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-3">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-3" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="19" y="1862" as="sourcePoint" />
               <mxPoint x="259" y="1862" as="targetPoint" />
@@ -2862,7 +2862,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-22">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#d6b656;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-15">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#d6b656;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-1" target="l5apJRWCYlQVaLkU4uV3-15" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="-649" y="2001" as="sourcePoint" />
               <mxPoint x="-321" y="2076" as="targetPoint" />
@@ -2876,24 +2876,24 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ad show brand retrieve" c4Type="Software System" c4Description="品牌DSP" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-26">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=none;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
             <mxGeometry x="157" y="1791" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="l5apJRWCYlQVaLkU4uV3-27" value="品牌资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="l5apJRWCYlQVaLkU4uV3-27" value="品牌资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-882" y="1410" width="112" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="l5apJRWCYlQVaLkU4uV3-28" value="分发资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="l5apJRWCYlQVaLkU4uV3-28" value="分发资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-882" y="1432" width="112" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="l5apJRWCYlQVaLkU4uV3-29" value="资讯流资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="l5apJRWCYlQVaLkU4uV3-29" value="资讯流资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-882" y="1454" width="112" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="l5apJRWCYlQVaLkU4uV3-30" value="联盟资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="l5apJRWCYlQVaLkU4uV3-30" value="联盟资源位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-882" y="1476" width="112" height="22" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-31">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-3" target="l5apJRWCYlQVaLkU4uV3-26">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#82b366;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-3" target="l5apJRWCYlQVaLkU4uV3-26" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="49" y="1676" as="sourcePoint" />
               <mxPoint x="371" y="1546" as="targetPoint" />
@@ -2901,7 +2901,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-32">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#6c8ebf;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-13" target="l5apJRWCYlQVaLkU4uV3-26">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#6c8ebf;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-13" target="l5apJRWCYlQVaLkU4uV3-26" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="67" y="2173" as="sourcePoint" />
               <mxPoint x="389" y="2047" as="targetPoint" />
@@ -2913,7 +2913,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-33">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#b85450;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-14" target="l5apJRWCYlQVaLkU4uV3-26">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#b85450;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-14" target="l5apJRWCYlQVaLkU4uV3-26" edge="1">
             <mxGeometry x="-0.0019" width="240" relative="1" as="geometry">
               <mxPoint x="-12" y="1993" as="sourcePoint" />
               <mxPoint x="316" y="2068" as="targetPoint" />
@@ -2926,35 +2926,35 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="PB/RPC" c4Description="API calls" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="l5apJRWCYlQVaLkU4uV3-34">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#d6b656;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" edge="1" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-15" target="l5apJRWCYlQVaLkU4uV3-26">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#d6b656;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;" parent="N9TpX0y2rrrdzCcdZEis-1" source="l5apJRWCYlQVaLkU4uV3-15" target="l5apJRWCYlQVaLkU4uV3-26" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="87" y="2148" as="sourcePoint" />
               <mxPoint x="413" y="2233" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-0" value="广告位详情(品牌)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-0" value="广告位详情(品牌)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-263" y="1612" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-3" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-3" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-839" y="1945" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-4" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-4" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-839" y="2141" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-5" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-5" value="pos-mapping-sdk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-832" y="1741" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-6" value="广告位详情(效果)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-6" value="广告位详情(效果)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-263" y="1823" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-8" value="广告位详情(效果)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-8" value="广告位详情(效果)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-258" y="2024" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-9" value="广告位详情(效果)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-9" value="广告位详情(效果)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="-252" y="2230" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Am8LVo_7eNuAcH7eH-rv-10" value="广告位详情(品牌)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="N9TpX0y2rrrdzCcdZEis-1">
+        <mxCell id="Am8LVo_7eNuAcH7eH-rv-10" value="广告位详情(品牌)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" parent="N9TpX0y2rrrdzCcdZEis-1" vertex="1">
           <mxGeometry x="329" y="1894" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
