@@ -1831,7 +1831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hZQRrMEXptRdul-14U_5" name="PMP-dynamic-creativity">
-    <mxGraphModel dx="1260" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1848,7 +1848,7 @@
           <mxGeometry x="315" y="281.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pT6K6qEfb8sQU_Zcaro8-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="311.25" width="110" height="278.75" as="geometry" />
+          <mxGeometry x="290" y="311.25" width="110" height="282.75" as="geometry" />
         </mxCell>
         <mxCell id="pT6K6qEfb8sQU_Zcaro8-14" value="targetUrl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="340" width="90" height="30" as="geometry" />
@@ -1878,6 +1878,65 @@
           <mxGeometry x="-0.2929" y="5" relative="1" as="geometry">
             <mxPoint x="8" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-23" value="完全免审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="865" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-24" value="免审+兜底创意" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-25" value="And" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-26" value="兜底创意" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="627" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="297" y="657" width="110" height="403" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-28" value="targetUrl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="685.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-29" value="Deeplink" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="725.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-30" value="标题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="763.25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-31" value="品牌名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="805.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-32" value="描述" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="845.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-33" value="图片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="885.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="853.25" as="sourcePoint" />
+            <mxPoint x="282" y="853.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-35" value="允许替换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pT6K6qEfb8sQU_Zcaro8-34">
+          <mxGeometry x="-0.2929" y="5" relative="1" as="geometry">
+            <mxPoint x="8" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-36" value="跳转热区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="926" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-37" value="图片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="885.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-38" value="跳转按钮文案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="966" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-39" value="跳转热区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="926" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT6K6qEfb8sQU_Zcaro8-40" value="品牌logo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382" y="1006" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
