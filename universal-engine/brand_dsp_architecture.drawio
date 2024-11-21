@@ -3147,10 +3147,10 @@
         <mxCell id="evlOd9abd13TdLgTuKtq-2" value="效果队列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="evlOd9abd13TdLgTuKtq-3" value="一轮刷3位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evlOd9abd13TdLgTuKtq-3" value="一轮刷3位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="380" width="345" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="evlOd9abd13TdLgTuKtq-5" value="一轮刷7位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="evlOd9abd13TdLgTuKtq-5" value="一轮刷7位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="345" height="60" as="geometry" />
         </mxCell>
         <mxCell id="evlOd9abd13TdLgTuKtq-7" value="1100 (一轮刷3位)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
