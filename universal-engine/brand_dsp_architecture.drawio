@@ -1800,7 +1800,7 @@
             <mxPoint x="149" y="2557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipIbrdXmwUXAFrWwWIwE-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 3 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《SSP统一广告位管理》 - 《广告位映射关系》&amp;nbsp; - 新增映射关系，新增“融合广告位映射规则”&amp;nbsp;&lt;/p&gt;&lt;p&gt;这一步的作用是-围海造田流量入口 -&lt;font color=&quot;#ffb366&quot;&gt; #分配资源位对应的引擎链路#&lt;/font&gt;，也就是对应的预算。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="ipIbrdXmwUXAFrWwWIwE-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 3 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《SSP统一广告位管理》 - 《广告位映射关系》&amp;nbsp; - 新增映射关系，新增“融合广告位映射规则”&amp;nbsp;&lt;/p&gt;&lt;p&gt;这一步的作用是-围海造田流量入口 - &lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;#分配资源位对应的引擎链路#&lt;/font&gt;&lt;/b&gt;，也就是对应的预算。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="494" y="2352" width="244" height="157" as="geometry" />
         </mxCell>
         <mxCell id="ipIbrdXmwUXAFrWwWIwE-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.8;exitY=0.331;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ipIbrdXmwUXAFrWwWIwE-1" target="ipIbrdXmwUXAFrWwWIwE-8" edge="1">
@@ -1830,7 +1830,7 @@
             <mxPoint x="165" y="3082" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pGtQ_FnmIW3y1t4JFGTV-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 3 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《SSP统一广告位管理》 - 《广告位映射关系》&amp;nbsp; - 新增映射关系，新增&lt;font color=&quot;#ffb366&quot;&gt;“融合广告位对信息流品牌广告的映射规则/联盟映射品牌广告位规则”&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;这一步的作用是-围海造田流量入口 -&amp;nbsp;分配对应的效果预算资源位后，映射对应&lt;font color=&quot;#ffb366&quot;&gt;品牌广告位&lt;/font&gt;。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="pGtQ_FnmIW3y1t4JFGTV-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Step 3 -广告位新增&lt;/h1&gt;&lt;p&gt;BOSS菜单地址:《SSP统一广告位管理》 - 《广告位映射关系》&amp;nbsp; - 新增映射关系，新增&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;“融合广告位对信息流品牌广告的映射规则/联盟映射品牌广告位规则”&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;这一步的作用是-围海造田流量入口 -&amp;nbsp;分配对应的效果预算资源位后，映射对应&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;品牌广告位&lt;/b&gt;&lt;/font&gt;。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#CCCCCC;dashed=1;strokeWidth=2;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="510" y="2859" width="244" height="175" as="geometry" />
         </mxCell>
         <mxCell id="pGtQ_FnmIW3y1t4JFGTV-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.8;exitY=0.331;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="pGtQ_FnmIW3y1t4JFGTV-1" target="pGtQ_FnmIW3y1t4JFGTV-6" edge="1">
