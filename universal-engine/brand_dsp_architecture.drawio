@@ -3152,7 +3152,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aLZcjPi2B7PQD15t4oKu-1" value="Mixer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aLZcjPi2B7PQD15t4oKu-1" value="Mixer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
