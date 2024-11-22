@@ -3237,8 +3237,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Jr6u3IR7nctPEXwSXr-7" value="Mixer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="m5Jr6u3IR7nctPEXwSXr-7" value="feeds-stat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="630" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Jr6u3IR7nctPEXwSXr-11" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mq_message_queue;" vertex="1" parent="1">
+          <mxGeometry x="687" y="638.2" width="45" height="49.8" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Jr6u3IR7nctPEXwSXr-12" value="FUXI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="610.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Jr6u3IR7nctPEXwSXr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.164;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m5Jr6u3IR7nctPEXwSXr-7" target="m5Jr6u3IR7nctPEXwSXr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Jr6u3IR7nctPEXwSXr-14" value="伏羲上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m5Jr6u3IR7nctPEXwSXr-13">
+          <mxGeometry x="-0.0609" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
