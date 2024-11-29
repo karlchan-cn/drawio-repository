@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.8.6" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="24.9.2" pages="18">
   <diagram id="v8Wa_CxQWhdcvvfldNrr" name="CPS秒杀SDK">
     <mxGraphModel dx="1260" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -499,6 +499,89 @@
         </mxCell>
         <mxCell id="F5LoRvYiT0UbAbXWLLfi-17" value="口令/优惠卷/优惠券规则/口令规则" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bg2LD1bMk67kX1BQn_oh-11" target="bg2LD1bMk67kX1BQn_oh-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="el6LG9SYpY6Vr0jQ9_kr" name="桌面横幅">
+    <mxGraphModel dx="2087" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MBqyHdAccgi8XWb92YNx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;" edge="1" parent="1" source="MBqyHdAccgi8XWb92YNx-2" target="MBqyHdAccgi8XWb92YNx-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-50" value="返回 - 桌面横幅配置+请求频率+生效开始结束时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MBqyHdAccgi8XWb92YNx-49">
+          <mxGeometry x="0.1762" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="100" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-5" value="cps-config" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="MBqyHdAccgi8XWb92YNx-39" target="MBqyHdAccgi8XWb92YNx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-220" y="230" />
+              <mxPoint x="-220" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-48" value="定时请求配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MBqyHdAccgi8XWb92YNx-47">
+          <mxGeometry x="0.0734" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="MBqyHdAccgi8XWb92YNx-39" target="MBqyHdAccgi8XWb92YNx-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-54" value="2. 请求桌面横幅优惠券" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MBqyHdAccgi8XWb92YNx-52">
+          <mxGeometry x="-0.2083" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="190" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="495" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-41" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-42" value="cps-tracking" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-43" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="280" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-45" value="cps-coupon" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.94;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="MBqyHdAccgi8XWb92YNx-45" target="MBqyHdAccgi8XWb92YNx-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBqyHdAccgi8XWb92YNx-55" value="3. 返回优惠券+ 负反馈监测连接 + 对应的负反馈标签" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MBqyHdAccgi8XWb92YNx-53">
+          <mxGeometry x="0.039" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
