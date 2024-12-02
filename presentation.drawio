@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="zgRFrtlp1Q119CmvOcFI">
-    <mxGraphModel dx="2087" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5tDuQ4ynyZppxNNhZH8u-1" value="ad - tiktok-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="180" width="180" height="40" as="geometry" />
+        <mxCell id="5tDuQ4ynyZppxNNhZH8u-1" value="ad - tiktok-1 ecpm=$100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5tDuQ4ynyZppxNNhZH8u-2" value="ad - tiktok-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="230" width="180" height="40" as="geometry" />
+        <mxCell id="5tDuQ4ynyZppxNNhZH8u-2" value="ad - tiktok-1 ecpm=$98" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5tDuQ4ynyZppxNNhZH8u-3" value="ad - cloudbet&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="280" width="180" height="40" as="geometry" />
+        <mxCell id="5tDuQ4ynyZppxNNhZH8u-3" value="ad - cloudbet ecpm=$97" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5tDuQ4ynyZppxNNhZH8u-4" value="ad - meta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="330" width="180" height="40" as="geometry" />
+        <mxCell id="5tDuQ4ynyZppxNNhZH8u-4" value="ad - meta&amp;nbsp;&amp;nbsp;ecpm=$96" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5tDuQ4ynyZppxNNhZH8u-5" value="&lt;br&gt;&lt;b&gt;&lt;u&gt;eCpm&lt;/u&gt;&lt;/b&gt; -&amp;nbsp;&lt;strong&gt;Effective Cost Per Mille (eCPM)&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;b&gt;&lt;u&gt;eCpm formula&lt;/u&gt;&lt;/b&gt; = CTR * CVR * Bid * 1000&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;CTR&lt;/u&gt;&lt;/b&gt; = ratio of users&#39; click on advertisments.&amp;nbsp;e.g. 100 ad visit, 40 ad click. ctr = 40%&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;CVR&lt;/u&gt;&lt;/b&gt; = the ratio of conversions (desire actions like app-activation / in-app-purchase). e.g. 40 ad click, 10 app-activation,cvr = 25%&lt;br&gt;&lt;br&gt;Bid = price of per click / desire action. e.g. $10 bid for a app-activation. eCpm = 0.4 * 0.25 * 10 * 1000&amp;nbsp; = &lt;b&gt;&lt;u&gt;$1000&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;strokeColor=default;dashed=1;strokeWidth=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-100" width="570" height="210" as="geometry" />
+        <mxCell id="5tDuQ4ynyZppxNNhZH8u-5" value="&lt;br&gt;&lt;b&gt;&lt;u&gt;eCpm&lt;/u&gt;&lt;/b&gt; -&amp;nbsp;&lt;strong&gt;Effective Cost Per Mille (eCPM)&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;b&gt;&lt;u&gt;eCpm formula&lt;/u&gt;&lt;/b&gt; = CTR * CVR * Bid * 1000&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;CTR&lt;/u&gt;&lt;/b&gt; = ratio of users&#39; click on advertisments.&amp;nbsp;e.g. 100 ad visit, 40 ad click. ctr = 40%&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;CVR&lt;/u&gt;&lt;/b&gt; = the ratio of conversions (desire actions like app-activation / in-app-purchase). e.g. 40 ad click, 10 app-activation,cvr = 25%&lt;br&gt;&lt;br&gt;Bid = price of per click / desire action. e.g. $10 bid for a app-activation. eCpm = 0.04 * 0.25 * 10 * 1000&amp;nbsp; = &lt;b&gt;&lt;u&gt;$100&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;strokeColor=default;dashed=1;strokeWidth=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="570" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
