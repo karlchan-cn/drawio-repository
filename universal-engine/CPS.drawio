@@ -4,52 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="rD7TD90rB69fopVpfkk5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="555" width="630" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="180" width="1350" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="220" width="1060" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-16" value="AppCouponCenterHandler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-16" value="AppCouponCenterHandler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="290" width="960" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MOJSrqmWMnzcT6qmRh6r-2" target="MOJSrqmWMnzcT6qmRh6r-4">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MOJSrqmWMnzcT6qmRh6r-2" target="MOJSrqmWMnzcT6qmRh6r-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-7" value="couponCenter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MOJSrqmWMnzcT6qmRh6r-6">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-7" value="couponCenter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MOJSrqmWMnzcT6qmRh6r-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0198" y="-2" relative="1" as="geometry">
             <mxPoint x="-4" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-2" value="CpsAppAdController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-2" value="CpsAppAdController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-5" value="appMainFilterChain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-5" value="appMainFilterChain" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="522" y="190" width="232" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-8" value="contextInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-8" value="contextInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-9" value="appCxtInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-9" value="appCxtInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-10" value="appParaCheck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-10" value="appParaCheck" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-11" value="appFlowRouter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-11" value="appFlowRouter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="730" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-12" value="appAdaptReq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-12" value="appAdaptReq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-13" value="appAsyncReq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-13" value="appAsyncReq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="990" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-14" value="resultConvert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-14" value="resultConvert" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1120.5" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOJSrqmWMnzcT6qmRh6r-15" value="dataUpload" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="MOJSrqmWMnzcT6qmRh6r-15" value="dataUpload" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1250" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rD7TD90rB69fopVpfkk5-1" value="新人一分购/老用户超级购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rD7TD90rB69fopVpfkk5-2" value="生活消费券" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rD7TD90rB69fopVpfkk5-4" value="电商消费券" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="650" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rD7TD90rB69fopVpfkk5-6" value="领券中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rD7TD90rB69fopVpfkk5-8" value="&lt;span data-copy-origin=&quot;https://odocs.myoas.com&quot; data-docs-delta=&quot;[[20,&amp;quot;/api/cps/recommend2&amp;quot;]]&quot;&gt;&lt;p style=&quot;line-height: 100%;margin-bottom: 0pt;margin-top: 0pt;font-size: 11pt;color: #494949;&quot; class=&quot;ql-direction-ltr&quot;&gt;&lt;span class=&quot;ql-author-10038&quot;&gt;/api/cps/recommend2&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="710" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
