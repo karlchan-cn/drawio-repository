@@ -7600,17 +7600,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xPHGIyr8CHu5zGoQUejz" name="头条观星算法协议切换">
-    <mxGraphModel dx="1260" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="AbstractStarRankerService" c4Type="Component" c4Technology="Spring Service" c4Description="软件商店观星算法-基础实现" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="TjPnh3P14fcjsn-Q9KzF-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="200" y="500" width="240" height="120" as="geometry" />
+            <mxGeometry x="30" y="500" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-2" value="commerce-recommend-interface-ad&lt;br&gt;(观星PB协议-stub/client)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="414" y="570" width="250" height="40" as="geometry" />
+          <mxGeometry x="640" y="540" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="TjPnh3P14fcjsn-Q9KzF-4" target="TjPnh3P14fcjsn-Q9KzF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-8" value="create&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TjPnh3P14fcjsn-Q9KzF-6">
+          <mxGeometry x="0.0365" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AbstractStarRankerService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ buildRankRequest(DspRequestContext,DspResponseContext): AdRankRequest&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="875" width="500" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;StarRankRequestFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ create(&lt;span style=&quot;background-color: initial;&quot;&gt;DspRequestContext,DspResponseContext,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdReqItemList):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdRankRequest&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="887.5" width="510" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
