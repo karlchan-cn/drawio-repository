@@ -7600,7 +7600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xPHGIyr8CHu5zGoQUejz" name="头条观星算法协议切换">
-    <mxGraphModel dx="2087" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7615,19 +7615,19 @@
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="TjPnh3P14fcjsn-Q9KzF-4" target="TjPnh3P14fcjsn-Q9KzF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjPnh3P14fcjsn-Q9KzF-8" value="create&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TjPnh3P14fcjsn-Q9KzF-6">
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-8" value="creat&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-align: left; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;AdRankRequest&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TjPnh3P14fcjsn-Q9KzF-6">
           <mxGeometry x="0.0365" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AbstractStarRankerService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ buildRankRequest(DspRequestContext,DspResponseContext): AdRankRequest&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="875" width="500" height="115" as="geometry" />
+          <mxGeometry x="70" y="880" width="500" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="TjPnh3P14fcjsn-Q9KzF-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;StarRankRequestFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ create(&lt;span style=&quot;background-color: initial;&quot;&gt;DspRequestContext,DspResponseContext,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdReqItemList):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdRankRequest&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="630" y="887.5" width="510" height="90" as="geometry" />
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;StarRankRequestFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ create(&lt;span style=&quot;background-color: initial;&quot;&gt;DspRequestContext,DspResponseContext,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdReqItemList):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdRankRequest&lt;br&gt;&lt;/span&gt;+ create(&lt;span style=&quot;background-color: initial;&quot;&gt;DspRequestContext,DspResponseContext,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RequestResource):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RouterRequestApi&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1000" width="510" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-9" value="AdRankerRequest" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="875" width="140" height="104" as="geometry" />
+          <mxGeometry x="1380" y="880" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-10" value="+ reqId: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TjPnh3P14fcjsn-Q9KzF-9">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -7637,6 +7637,17 @@
         </mxCell>
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-12" value="+ other:otherType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TjPnh3P14fcjsn-Q9KzF-9">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="TjPnh3P14fcjsn-Q9KzF-16" target="TjPnh3P14fcjsn-Q9KzF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-19" value="create&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-align: left; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;RouterRequestApi&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TjPnh3P14fcjsn-Q9KzF-18">
+          <mxGeometry x="0.0548" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjPnh3P14fcjsn-Q9KzF-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AbstractRouterServiceStub&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ buildRankRequest(DspRequestContext,DspResponseContext): RouterRequestApi&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1120" width="500" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
