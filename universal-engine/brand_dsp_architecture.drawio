@@ -7690,12 +7690,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TjPnh3P14fcjsn-Q9KzF-37" value="" style="endArrow=none;startArrow=diamondThin;endFill=0;startFill=0;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;startSize=8;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="230" y="1140" as="sourcePoint" />
-            <mxPoint x="390" y="1140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TjPnh3P14fcjsn-Q9KzF-40" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;MixDefaultRouterServiceStub&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1380" width="500" height="60" as="geometry" />
         </mxCell>
