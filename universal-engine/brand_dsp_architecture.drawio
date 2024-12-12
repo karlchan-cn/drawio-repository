@@ -1029,8 +1029,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HX7wanhpczQr5nNmeidr" name="商平算法分流">
-    <mxGraphModel dx="3233" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="HX7wanhpczQr5nNmeidr" name="头条算法链路拓扑">
+    <mxGraphModel dx="3136" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1399,13 +1399,13 @@
         <mxCell id="Lx2bS5hZOMQlH-tnIq7n-1" value="gateway" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="790" y="1973" width="94" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uxLLzxn_jj49dotIb_s3-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="uxLLzxn_jj49dotIb_s3-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="754.5" as="sourcePoint" />
             <mxPoint x="866" y="752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxLLzxn_jj49dotIb_s3-2" value="数据消费" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uxLLzxn_jj49dotIb_s3-2" value="数据消费" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="784" y="702" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
