@@ -1023,6 +1023,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1440" width="140" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="PA6YNwOUX8xk0Q8k_7qZ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;dashPattern=1 1;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="460" y="786" width="410" height="244" as="geometry" />
         </mxCell>
@@ -1519,6 +1522,39 @@
         </mxCell>
         <mxCell id="dNCIxZuQt4g1-ohyC5HX-4" value="user-profile" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="880" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vxa9F-QnY2qSON-hBGUw-6" target="Vxa9F-QnY2qSON-hBGUw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-1" value="CPS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-3" value="#华尔街 Proxy" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="320.00000000000006" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-5" value="淘宝联盟" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fa6800;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="594" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-7" value="OPPO 云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-8" value="阿里云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1440" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="1440" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-13" value="阿里云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="622.9" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vxa9F-QnY2qSON-hBGUw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vxa9F-QnY2qSON-hBGUw-10" target="Vxa9F-QnY2qSON-hBGUw-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1505" as="sourcePoint" />
+            <mxPoint x="320" y="1505" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
