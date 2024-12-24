@@ -2018,7 +2018,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VfJdQaa9yafSpSW3UVT4" name="Robust Architecture">
-    <mxGraphModel dx="2087" dy="-467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2402" dy="-291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2214,7 +2214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N4rQhDaaeUPeZGIn5vWS" name="Mixer-Service">
-    <mxGraphModel dx="3347" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2309" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2351,6 +2351,12 @@
         </mxCell>
         <mxCell id="AKv5O7JJxrrLyuWuhCRh-2" value="用户质量分-file-backup" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="136" y="1683" width="148" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9y7YhILGFs6lSLI-JkFK-1" value="Service-Node" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="164" y="1840" width="166" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="9y7YhILGFs6lSLI-JkFK-2" value="用户价值" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1880" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
