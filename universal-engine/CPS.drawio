@@ -74,6 +74,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-36" value="4. 推送 OPPO PUSH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NQMGYaW0eThm-Sh_VHR6-3" target="NQMGYaW0eThm-Sh_VHR6-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="1453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
