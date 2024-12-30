@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="25.0.3" pages="20">
   <diagram id="QIGAXkPvmui3QVvT3Bsv" name="CPS-DSP设计">
-    <mxGraphModel dx="1260" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NQMGYaW0eThm-Sh_VHR6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="910" width="300" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="mOr4if8H65UpevDUu2m0-1" value="DSP-Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -14,25 +11,52 @@
           <mxGeometry x="210" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mOr4if8H65UpevDUu2m0-3" value="Budget-Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mOr4if8H65UpevDUu2m0-4" value="Creative-Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="1040" width="300" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="NQMGYaW0eThm-Sh_VHR6-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1050" width="85.78" height="60" as="geometry" />
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-13">
+          <mxGeometry y="30" width="300" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="NQMGYaW0eThm-Sh_VHR6-9" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="1">
-          <mxGeometry x="670" y="940" width="85.78" height="60" as="geometry" />
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-13">
+          <mxGeometry x="30" y="170" width="85.78" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NQMGYaW0eThm-Sh_VHR6-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="1">
-          <mxGeometry x="520" y="940" width="85.78" height="60" as="geometry" />
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-9" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-13">
+          <mxGeometry x="180" y="60" width="85.78" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NQMGYaW0eThm-Sh_VHR6-11" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1050" width="85.78" height="60" as="geometry" />
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-10" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-13">
+          <mxGeometry x="30" y="60" width="85.78" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NQMGYaW0eThm-Sh_VHR6-12" value="Alibaba ECS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="880" width="120" height="30" as="geometry" />
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-11" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-13">
+          <mxGeometry x="180" y="170" width="85.78" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-12" value="Alibaba ECS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-13">
+          <mxGeometry x="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-15" value="CPS-Alibaba-UvID-Fetcher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-16" value="CPS-Alibaba-UvID-Fetcher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="1040" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-28">
+          <mxGeometry y="30" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mOr4if8H65UpevDUu2m0-4" value="CPS-Ali-Uvid-Fetcher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="NQMGYaW0eThm-Sh_VHR6-28" vertex="1">
+          <mxGeometry x="35" y="55" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-18" value="CPS-Material-List-Fetcher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-28">
+          <mxGeometry x="35" y="115" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-19" value="CPS-Ali-Oppo-Pusher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-28">
+          <mxGeometry x="35" y="175" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NQMGYaW0eThm-Sh_VHR6-27" value="CPS-Ali-Push-Task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NQMGYaW0eThm-Sh_VHR6-28">
+          <mxGeometry x="67.5" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
