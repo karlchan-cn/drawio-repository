@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qidOv4Uap1PPP2Umbmh_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;direction=west;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1850" width="660" height="200" as="geometry" />
+          <mxGeometry x="-180" y="1850" width="660" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qidOv4Uap1PPP2Umbmh_-19" target="qidOv4Uap1PPP2Umbmh_-4">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry x="-150.22910000000002" y="1910" width="46.25820000000001" height="45.51210000000001" as="geometry" />
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-20" value="https://tb.buy.bytesus.com&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1940" width="205.8" height="30" as="geometry" />
+          <mxGeometry x="-520" y="1940" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-21" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://tb.buy.bytesus.com&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-weight: 700; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/callback/click&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="225" y="2270" width="385.8" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="55" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-29" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;https://eco.taobao.com/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1940" width="205.8" height="30" as="geometry" />
+          <mxGeometry x="490" y="1940" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qidOv4Uap1PPP2Umbmh_-10" target="qidOv4Uap1PPP2Umbmh_-19">
           <mxGeometry relative="1" as="geometry">
@@ -121,6 +121,9 @@
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-33" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;sdk.buy.bytesus.com&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;b&gt;/callback/click&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="-110" y="2170" width="385.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oyv6OAs_k54KzMjWXxiM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;事项to-do&lt;/h1&gt;&lt;div&gt;1. 阿里云-百硕服务，申请域名，用作接接收淘宝客&lt;br&gt;2. 使用ALB - 配置后端转发，&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2250" width="420" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
