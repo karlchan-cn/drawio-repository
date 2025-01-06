@@ -122,8 +122,8 @@
         <mxCell id="qidOv4Uap1PPP2Umbmh_-33" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;sdk.buy.bytesus.com&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;b&gt;/callback/click&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="-110" y="2170" width="385.8" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oyv6OAs_k54KzMjWXxiM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;事项to-do&lt;/h1&gt;&lt;div&gt;1. 阿里云-百硕服务，申请域名，用作接接收淘宝客&lt;br&gt;2. 使用ALB - 配置后端转发，&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="2250" width="420" height="120" as="geometry" />
+        <mxCell id="oyv6OAs_k54KzMjWXxiM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;事项to-do&lt;/h1&gt;&lt;div&gt;1. 阿里云-百硕服务，申请域名，用作接接收淘宝客&lt;br&gt;2. 使用ALB - 配置后端转发&lt;br&gt;3. 百硕ALB对应的域名&lt;br&gt;4. 淘宝客转发访问域名&lt;br&gt;5. 淘宝客回传数据域名&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2250" width="420" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
