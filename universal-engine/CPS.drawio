@@ -65,10 +65,10 @@
         <mxCell id="qidOv4Uap1PPP2Umbmh_-19" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" vertex="1" parent="1">
           <mxGeometry x="-150.22910000000002" y="1910" width="46.25820000000001" height="45.51210000000001" as="geometry" />
         </mxCell>
-        <mxCell id="qidOv4Uap1PPP2Umbmh_-20" value="https://tb.buy.bytesus.com&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="qidOv4Uap1PPP2Umbmh_-20" value="https://sz-yadu.cn&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="-520" y="1940" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qidOv4Uap1PPP2Umbmh_-21" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://tb.buy.bytesus.com&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-weight: 700; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/callback/click&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="qidOv4Uap1PPP2Umbmh_-21" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-weight: 700; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;sz-yadu.cn&lt;/span&gt;/callback/click&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="225" y="2270" width="385.8" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qidOv4Uap1PPP2Umbmh_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.046;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qidOv4Uap1PPP2Umbmh_-25" target="qidOv4Uap1PPP2Umbmh_-19">
