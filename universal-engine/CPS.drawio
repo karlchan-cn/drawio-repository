@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R7PMwqkv7yDuMrxiVh3C-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;direction=west;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="1850" width="690" height="200" as="geometry" />
+          <mxGeometry x="-180" y="1850" width="660" height="200" as="geometry" />
         </mxCell>
         <mxCell id="NQMGYaW0eThm-Sh_VHR6-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="1380" width="270" height="120" as="geometry" />
@@ -180,24 +180,75 @@
         <mxCell id="mPaV-r3vMqNibodvD6kt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mPaV-r3vMqNibodvD6kt-9" target="mPaV-r3vMqNibodvD6kt-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="https://eco.taobao.com/router/rest" link="https://eco.taobao.com/router/rest" id="mPaV-r3vMqNibodvD6kt-27">
+        <UserObject label="2.转发淘宝客(UVID&amp;amp;商品+推送)" link="https://eco.taobao.com/router/rest" id="mPaV-r3vMqNibodvD6kt-27">
           <mxCell style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mPaV-r3vMqNibodvD6kt-26" vertex="1" connectable="0">
             <mxGeometry x="0.4479" y="-3" relative="1" as="geometry">
               <mxPoint x="-61" y="-2" as="offset" />
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-28" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-210" y="1910" width="165.8" height="100.1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" parent="mPaV-r3vMqNibodvD6kt-28" vertex="1">
-          <mxGeometry x="59.7709" width="46.25820000000001" height="45.51210000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-13" value="www.baisuo.com/router/rest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPaV-r3vMqNibodvD6kt-28" vertex="1">
-          <mxGeometry y="70.09999999999997" width="165.8" height="30.00000000000003" as="geometry" />
-        </mxCell>
         <mxCell id="R7PMwqkv7yDuMrxiVh3C-2" value="阿里云-百硕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="1820" width="192" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mPaV-r3vMqNibodvD6kt-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" parent="1" vertex="1">
+          <mxGeometry x="-150.22910000000002" y="1910" width="46.25820000000001" height="45.51210000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="mPaV-r3vMqNibodvD6kt-13" value="https://tb.buy.bytesus.com&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="-440" y="1940" width="205.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-1" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://tb.buy.bytesus.com&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-weight: 700; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/callback/click&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="225" y="2270" width="385.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.046;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rfpi-bfwo1c1nBGXueRi-5" target="mPaV-r3vMqNibodvD6kt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-9" value="1.百硕淘宝客转发(UVID&amp;amp;商品+推送)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rfpi-bfwo1c1nBGXueRi-7">
+          <mxGeometry x="0.1515" relative="1" as="geometry">
+            <mxPoint x="-36" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-690" y="1849" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
+          <mxGeometry y="30" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-3" value="CPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
+          <mxGeometry x="50" y="62" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-6" value="OPPO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
+          <mxGeometry x="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-10" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;https://eco.taobao.com/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1940" width="205.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPaV-r3vMqNibodvD6kt-19" target="mPaV-r3vMqNibodvD6kt-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="2260" />
+              <mxPoint x="-124" y="2260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-12" value="3. 淘宝客回传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rfpi-bfwo1c1nBGXueRi-11">
+          <mxGeometry x="-0.0955" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-13" value="4. 转发淘宝客回传数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPaV-r3vMqNibodvD6kt-9" target="Rfpi-bfwo1c1nBGXueRi-5">
+          <mxGeometry x="-0.3682" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="2160" />
+              <mxPoint x="-590" y="2160" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rfpi-bfwo1c1nBGXueRi-14" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;sdk.buy.bytesus.com&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;b&gt;/callback/click&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-110" y="2170" width="385.8" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
