@@ -123,7 +123,7 @@
           <mxGeometry x="-110" y="2170" width="385.8" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oyv6OAs_k54KzMjWXxiM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;事项to-do&lt;/h1&gt;&lt;div&gt;1. 阿里云-百硕服务，申请域名，用作接接收淘宝客&lt;br&gt;2. 使用ALB - 配置后端转发&lt;br&gt;3. 百硕ALB对应的域名&lt;br&gt;4. 淘宝客转发访问域名&lt;br&gt;5. 淘宝客回传数据域名&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="2250" width="420" height="140" as="geometry" />
+          <mxGeometry x="-740" y="2260" width="420" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
