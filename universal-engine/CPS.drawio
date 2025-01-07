@@ -125,17 +125,23 @@
         <mxCell id="oyv6OAs_k54KzMjWXxiM-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;事项to-do&lt;/h1&gt;&lt;div&gt;1. 阿里云-百硕服务，申请域名，用作接接收淘宝客&lt;/div&gt;&lt;div&gt;&lt;br&gt;2. 使用ALB - 配置后端转发&lt;/div&gt;&lt;div&gt;&lt;br&gt;3. 百硕ALB对应的域名 -&amp;nbsp;&lt;b&gt;&lt;u&gt;&lt;span style=&quot;font-size: 16px; text-align: center;&quot;&gt;https://sz-yadu.cn&lt;/span&gt;&lt;span style=&quot;font-size: 16px; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/router/rest&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;4. 淘宝客转发访问域名 - &lt;span style=&quot;font-size: 16px; font-weight: 700; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-line: underline;&quot;&gt;https://&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 16px; font-weight: 700; text-align: center; text-decoration-line: underline; white-space: nowrap;&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 16px; font-weight: 700; text-align: center; text-decoration-line: underline; white-space: nowrap;&quot;&gt;co.taobao.com/router/rest&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 16px; font-weight: 700; text-align: center; text-decoration-line: underline; white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5. 淘宝客回传数据 - &lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;https://&lt;span style=&quot;background-color: transparent;&quot;&gt;sz-yadu.cn/v1/callback/tb/click&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;6. 亚笃ALB转发oppo云地址-&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;https&lt;font style=&quot;&quot;&gt;://&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&lt;b&gt;sdk.buy.bytesus.com&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: center; white-space: nowrap;&quot;&gt;&lt;b&gt;/&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;v1/callback/tb/click&lt;/b&gt;&lt;/span&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-740" y="2260" width="540" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="8MegOtu5FgIa8Y21f6gd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1880" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8MegOtu5FgIa8Y21f6gd-2" value="OPPO-PUSH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="1910" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MegOtu5FgIa8Y21f6gd-3" value="msg-push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qidOv4Uap1PPP2Umbmh_-10" target="8MegOtu5FgIa8Y21f6gd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="QIGAXkPvmui3QVvT3Bsv" name="CPS-DSP设计">
-    <mxGraphModel dx="2087" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R7PMwqkv7yDuMrxiVh3C-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;direction=west;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="1850" width="660" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="NQMGYaW0eThm-Sh_VHR6-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="1380" width="270" height="120" as="geometry" />
         </mxCell>
@@ -263,121 +269,6 @@
               <mxPoint x="980" y="1248" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mPaV-r3vMqNibodvD6kt-12" target="mPaV-r3vMqNibodvD6kt-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="180" y="1872" width="210.00000000000006" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="mPaV-r3vMqNibodvD6kt-17" vertex="1">
-          <mxGeometry y="30" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.alb_application_load_balancer_01;" parent="mPaV-r3vMqNibodvD6kt-17" vertex="1">
-          <mxGeometry x="11.300000000000011" y="39.90000000000009" width="47.400000000000006" height="40.2" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-5" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.alb_application_load_balancer_01;" parent="mPaV-r3vMqNibodvD6kt-17" vertex="1">
-          <mxGeometry x="81.30000000000001" y="39.90000000000009" width="47.400000000000006" height="40.2" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.alb_application_load_balancer_01;" parent="mPaV-r3vMqNibodvD6kt-17" vertex="1">
-          <mxGeometry x="151.3" y="39.90000000000009" width="47.400000000000006" height="40.2" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-10" value="ALB集群-(七层)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPaV-r3vMqNibodvD6kt-17" vertex="1">
-          <mxGeometry x="51" width="108" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-18" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="780" y="1799" width="300" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="mPaV-r3vMqNibodvD6kt-18" vertex="1">
-          <mxGeometry y="30" width="300" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-20" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" parent="mPaV-r3vMqNibodvD6kt-18" vertex="1">
-          <mxGeometry x="30" y="170" width="85.78" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-21" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" parent="mPaV-r3vMqNibodvD6kt-18" vertex="1">
-          <mxGeometry x="180" y="60" width="85.78" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-22" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" parent="mPaV-r3vMqNibodvD6kt-18" vertex="1">
-          <mxGeometry x="30" y="60" width="85.78" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-23" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.eci_elastic_container_instance;" parent="mPaV-r3vMqNibodvD6kt-18" vertex="1">
-          <mxGeometry x="180" y="170" width="85.78" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-24" value="Alibaba 淘宝客" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mPaV-r3vMqNibodvD6kt-18" vertex="1">
-          <mxGeometry x="90" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mPaV-r3vMqNibodvD6kt-9" target="mPaV-r3vMqNibodvD6kt-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="2.转发淘宝客(UVID&amp;amp;商品+推送)" link="https://eco.taobao.com/router/rest" id="mPaV-r3vMqNibodvD6kt-27">
-          <mxCell style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mPaV-r3vMqNibodvD6kt-26" vertex="1" connectable="0">
-            <mxGeometry x="0.4479" y="-3" relative="1" as="geometry">
-              <mxPoint x="-61" y="-2" as="offset" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="R7PMwqkv7yDuMrxiVh3C-2" value="阿里云-百硕" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="1820" width="192" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" parent="1" vertex="1">
-          <mxGeometry x="-150.22910000000002" y="1910" width="46.25820000000001" height="45.51210000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="mPaV-r3vMqNibodvD6kt-13" value="https://tb.buy.bytesus.com&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="-440" y="1940" width="205.8" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-1" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://tb.buy.bytesus.com&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-weight: 700; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;/callback/click&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="225" y="2270" width="385.8" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.046;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rfpi-bfwo1c1nBGXueRi-5" target="mPaV-r3vMqNibodvD6kt-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-9" value="1.百硕淘宝客转发(UVID&amp;amp;商品+推送)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rfpi-bfwo1c1nBGXueRi-7">
-          <mxGeometry x="0.1515" relative="1" as="geometry">
-            <mxPoint x="-36" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-690" y="1849" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
-          <mxGeometry y="30" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
-          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-3" value="CPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
-          <mxGeometry x="50" y="62" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-6" value="OPPO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Rfpi-bfwo1c1nBGXueRi-8">
-          <mxGeometry x="55" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-10" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;https://eco.taobao.com/router/rest&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1940" width="205.8" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mPaV-r3vMqNibodvD6kt-19" target="mPaV-r3vMqNibodvD6kt-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="2260" />
-              <mxPoint x="-124" y="2260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-12" value="3. 淘宝客回传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rfpi-bfwo1c1nBGXueRi-11">
-          <mxGeometry x="-0.0955" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-13" value="4. 转发淘宝客回传数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mPaV-r3vMqNibodvD6kt-9" target="Rfpi-bfwo1c1nBGXueRi-5">
-          <mxGeometry x="-0.3682" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="2160" />
-              <mxPoint x="-590" y="2160" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rfpi-bfwo1c1nBGXueRi-14" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;https://&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;sdk.buy.bytesus.com&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;&lt;b&gt;/callback/click&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="-110" y="2170" width="385.8" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
