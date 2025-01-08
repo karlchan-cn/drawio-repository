@@ -8280,6 +8280,9 @@
         <mxCell id="vcFlX9bhJc9FAG_CBoey-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1470" y="539" width="50" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="Sc8IcyMz2vvm0WWY55H9-1" value="EventObject2DataLine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="610" width="170" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
