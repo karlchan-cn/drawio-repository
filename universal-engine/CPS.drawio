@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.0.3" pages="20">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.0.4" pages="21">
   <diagram id="QFpq5tvYHlFZ8BRRYUJp" name="淘宝客转发架构">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,69 @@
         </mxCell>
         <mxCell id="8MegOtu5FgIa8Y21f6gd-3" value="msg-push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qidOv4Uap1PPP2Umbmh_-10" target="8MegOtu5FgIa8Y21f6gd-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bSBqH7Twba2OBRxSDNPc" name="口令正则架构迁移">
+    <mxGraphModel dx="1260" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="03J3_-J6CwypVkIeR6aS-1" value="CPS-Web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="03J3_-J6CwypVkIeR6aS-2" target="03J3_-J6CwypVkIeR6aS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="03J3_-J6CwypVkIeR6aS-3" target="03J3_-J6CwypVkIeR6aS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-7" value="异步更新PDD+Alipay正则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="03J3_-J6CwypVkIeR6aS-6">
+          <mxGeometry x="0.2644" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-2" value="PDD-refresher" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-3" value="alipayRule.json" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="699.75" y="190" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-12" value="2. 获取商平正则接口&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;/v1/cps/command/regular/getV2&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="03J3_-J6CwypVkIeR6aS-8" target="03J3_-J6CwypVkIeR6aS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="530" />
+              <mxPoint x="560" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-8" value="口令服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="03J3_-J6CwypVkIeR6aS-9" target="03J3_-J6CwypVkIeR6aS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-11" value="1. 获取口令规则&lt;br&gt;/wisdom/pwd/rules" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="03J3_-J6CwypVkIeR6aS-10">
+          <mxGeometry x="-0.0508" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="385" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-13" value="3. 返回" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="03J3_-J6CwypVkIeR6aS-1" target="03J3_-J6CwypVkIeR6aS-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="350" />
+              <mxPoint x="300" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03J3_-J6CwypVkIeR6aS-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="03J3_-J6CwypVkIeR6aS-13">
+          <mxGeometry x="-0.2125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
