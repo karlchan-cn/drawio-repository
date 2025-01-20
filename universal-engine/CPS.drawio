@@ -229,8 +229,8 @@
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="17" y="1455" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fn6s52A-m5yPJ1tXgVBn-13" value="3. 返回口令结果&lt;div&gt;主标题，副标题，点击文案，&lt;br&gt;大图标，小图标，下载图标，&lt;/div&gt;&lt;div&gt;电商平台，APP包名，APP名称，&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-2" target="fn6s52A-m5yPJ1tXgVBn-9">
-          <mxGeometry y="-70" relative="1" as="geometry">
+        <mxCell id="fn6s52A-m5yPJ1tXgVBn-13" value="3. 返回口令转换结果&lt;div&gt;&lt;b&gt;&lt;u&gt;主标题，副标题，点击文案，&lt;br&gt;大图标，小图标，下载图标，&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;电商平台，APP包名，APP名称。&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-2" target="fn6s52A-m5yPJ1tXgVBn-9">
+          <mxGeometry y="-40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="1420" />
               <mxPoint x="330" y="1420" />
