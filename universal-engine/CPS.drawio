@@ -193,47 +193,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-2" value="CPS-Web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="587.75" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-7" target="fn6s52A-m5yPJ1tXgVBn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-37" value="人群定向(Redis定向)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fn6s52A-m5yPJ1tXgVBn-4">
           <mxGeometry x="0.3081" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-76" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fn6s52A-m5yPJ1tXgVBn-7" value="口令" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1240" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fn6s52A-m5yPJ1tXgVBn-8" value="2. 获取商平口令转换&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;u&gt;/v1/cps/command/convertV2&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-9" target="fn6s52A-m5yPJ1tXgVBn-2">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="1600" />
+              <mxPoint x="648" y="1600" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fn6s52A-m5yPJ1tXgVBn-7" value="欧拉配置" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="700.75" y="1100" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="fn6s52A-m5yPJ1tXgVBn-8" value="2. 获取商平正则接口&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;/v1/cps/command/regular/getV2&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-9" target="fn6s52A-m5yPJ1tXgVBn-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="323" y="1510" />
-              <mxPoint x="590" y="1510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-9" value="口令服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="263" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-12" target="fn6s52A-m5yPJ1tXgVBn-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fn6s52A-m5yPJ1tXgVBn-11" value="1. 获取口令规则&lt;br&gt;/wisdom/pwd/rules" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fn6s52A-m5yPJ1tXgVBn-10">
+        <mxCell id="fn6s52A-m5yPJ1tXgVBn-11" value="1. 口令转换&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;u&gt;/wisdom/pwd/convert2Link&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fn6s52A-m5yPJ1tXgVBn-10">
           <mxGeometry x="-0.0508" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1365" width="60" height="110" as="geometry" />
+          <mxGeometry x="17" y="1455" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fn6s52A-m5yPJ1tXgVBn-13" value="3. 返回 &lt;br&gt;正则+ pkgs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-2" target="fn6s52A-m5yPJ1tXgVBn-9">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="fn6s52A-m5yPJ1tXgVBn-13" value="3. 返回口令结果&lt;div&gt;主标题，副标题，点击文案，&lt;br&gt;大图标，小图标，下载图标，&lt;/div&gt;&lt;div&gt;电商平台，APP包名，APP名称，&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fn6s52A-m5yPJ1tXgVBn-2" target="fn6s52A-m5yPJ1tXgVBn-9">
+          <mxGeometry y="-70" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="553" y="1330" />
-              <mxPoint x="323" y="1330" />
+              <mxPoint x="610" y="1420" />
+              <mxPoint x="330" y="1420" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fn6s52A-m5yPJ1tXgVBn-14" value="电商平台(platformType)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=default;fontColor=#ffffff;" vertex="1" parent="1">
