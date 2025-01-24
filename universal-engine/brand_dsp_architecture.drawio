@@ -8385,6 +8385,21 @@
         <mxCell id="iSN_LHm0YgEHN4dXmk9S-17" value="重新引入故障" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="580" y="170" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iSN_LHm0YgEHN4dXmk9S-21" value="进程对(process pairs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="525" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN_LHm0YgEHN4dXmk9S-22" value="三模块冗余(triple modular redundancy)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN_LHm0YgEHN4dXmk9S-23" value="N + 1冗余(N+1 redundancy)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN_LHm0YgEHN4dXmk9S-24" value="断路器(circuit break pattern)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN_LHm0YgEHN4dXmk9S-25" value="恢复块(recovery blocks)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1200" width="190" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
