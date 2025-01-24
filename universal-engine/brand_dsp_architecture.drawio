@@ -8400,6 +8400,15 @@
         <mxCell id="iSN_LHm0YgEHN4dXmk9S-25" value="恢复块(recovery blocks)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1200" width="190" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="FO36b7mzHxkbvatX6pYr-1" value="健康检查(health recovery)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1370" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="FO36b7mzHxkbvatX6pYr-2" value="限流(throttling)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1540" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="FO36b7mzHxkbvatX6pYr-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;1.&amp;nbsp;https://insights.sei.cmu.edu/blog/tactics-and-patterns-for-software-robustness/&lt;/p&gt;&lt;p&gt;2.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="830" width="720" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
