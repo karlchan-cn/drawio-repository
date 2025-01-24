@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.0.6" pages="52">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.0.6" pages="53">
   <diagram id="cmUArRPCcL199mpjOxZq" name="消息队列模块">
     <mxGraphModel dx="1260" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8304,7 +8304,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rO8b3gtuEgaflkV9gYau" name="第 52 页">
+  <diagram id="rO8b3gtuEgaflkV9gYau" name="LLM Agent">
     <mxGraphModel dx="1260" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -8315,6 +8315,14 @@
         <mxCell id="wRjTQU0Bhiw80GR7_iGP-3" value="RAG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gruxkmYAmA4L_kNlANPr" name="Robustness Tactics">
+    <mxGraphModel dx="1260" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
