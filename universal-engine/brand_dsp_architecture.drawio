@@ -8426,7 +8426,7 @@
         <mxCell id="4URqM1SiJtgRbuldisej-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4URqM1SiJtgRbuldisej-1" target="4URqM1SiJtgRbuldisej-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4URqM1SiJtgRbuldisej-10" value="&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;randomly select server from -10.1.1.1:2001,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;10.1.1.2:2001,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;10.1.1.3:2001&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4URqM1SiJtgRbuldisej-9">
+        <mxCell id="4URqM1SiJtgRbuldisej-10" value="&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;1. randomly select server from -10.1.1.1:2001,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;10.1.1.2:2001,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;10.1.1.3:2001&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4URqM1SiJtgRbuldisej-9">
           <mxGeometry x="-0.4588" relative="1" as="geometry">
             <mxPoint x="49" as="offset" />
           </mxGeometry>
@@ -8434,11 +8434,40 @@
         <mxCell id="4URqM1SiJtgRbuldisej-1" value="client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="32" y="357" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4URqM1SiJtgRbuldisej-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="4URqM1SiJtgRbuldisej-4" target="4URqM1SiJtgRbuldisej-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="129" />
+              <mxPoint x="92" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4URqM1SiJtgRbuldisej-4" value="10.1.1.2:2001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4URqM1SiJtgRbuldisej-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="4URqM1SiJtgRbuldisej-5" target="4URqM1SiJtgRbuldisej-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="128" />
+              <mxPoint x="92" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4URqM1SiJtgRbuldisej-5" value="10.1.1.1:2001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4URqM1SiJtgRbuldisej-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="4URqM1SiJtgRbuldisej-6" target="4URqM1SiJtgRbuldisej-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="128" />
+              <mxPoint x="92" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4URqM1SiJtgRbuldisej-15" value="2. establish connected session within 2 times of tick-time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4URqM1SiJtgRbuldisej-11">
+          <mxGeometry x="0.1732" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4URqM1SiJtgRbuldisej-6" value="10.1.1.3:2001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
