@@ -8413,7 +8413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bUuwsEgQza40hjEqslvA" name="zookeeper ">
-    <mxGraphModel dx="2087" dy="725" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="725" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8432,7 +8432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4URqM1SiJtgRbuldisej-1" value="client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-37" y="358" width="120" height="60" as="geometry" />
+          <mxGeometry x="32" y="357" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4URqM1SiJtgRbuldisej-4" value="10.1.1.2:2001" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
