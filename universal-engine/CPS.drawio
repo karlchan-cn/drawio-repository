@@ -301,7 +301,7 @@
         <mxCell id="w-uuWwHizg_HPIag-NL0-1" value="CPS-Web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="587.75" y="2005" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-uuWwHizg_HPIag-NL0-5" value="2. 获取商平口令转换&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;u&gt;/v1/cps/command/convertV2&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-uuWwHizg_HPIag-NL0-6" target="w-uuWwHizg_HPIag-NL0-1">
+        <mxCell id="w-uuWwHizg_HPIag-NL0-5" value="2. 获取商平口&lt;u&gt;PDD&lt;/u&gt;令转换&lt;br&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;u&gt;/v1/cps/command/convertV2&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-uuWwHizg_HPIag-NL0-6" target="w-uuWwHizg_HPIag-NL0-1">
           <mxGeometry x="-0.0087" y="-21" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="2125" />
@@ -324,7 +324,7 @@
         <mxCell id="w-uuWwHizg_HPIag-NL0-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="17" y="1980" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="w-uuWwHizg_HPIag-NL0-10" value="5. 返回PDD口令转换结果&lt;div&gt;&lt;b&gt;&lt;u&gt;主标题，副标题，点击文案，&lt;br&gt;大图标，小图标，下载图标，&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;电商平台，APP包名，APP名称。&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-uuWwHizg_HPIag-NL0-1" target="w-uuWwHizg_HPIag-NL0-6">
+        <mxCell id="w-uuWwHizg_HPIag-NL0-10" value="5. 返回&lt;u&gt;PDD&lt;/u&gt;口令转换结果&lt;div&gt;&lt;b&gt;&lt;u&gt;主标题，副标题，点击文案，&lt;br&gt;大图标，小图标，下载图标，&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;电商平台，APP包名，APP名称。&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-uuWwHizg_HPIag-NL0-1" target="w-uuWwHizg_HPIag-NL0-6">
           <mxGeometry y="-40" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="1945" />
