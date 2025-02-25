@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.0.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.0.16" pages="3">
   <diagram name="chaos" id="zgRFrtlp1Q119CmvOcFI">
     <mxGraphModel dx="2087" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -308,6 +308,29 @@
         </mxCell>
         <mxCell id="zDfeRGrvABBpEErc0hMa-13" value="问题出现的逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="711" y="215" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P4TTij54b9woqBO9ZIzF" name="Disruptor">
+    <mxGraphModel dx="1260" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WHkVxoKTZ2tU8kQTVzWH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHkVxoKTZ2tU8kQTVzWH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHkVxoKTZ2tU8kQTVzWH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHkVxoKTZ2tU8kQTVzWH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHkVxoKTZ2tU8kQTVzWH-5" value="Size = 2^2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
