@@ -136,6 +136,18 @@
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="q0XX4GT5Z8J2Ncl4kmwA-36" target="q0XX4GT5Z8J2Ncl4kmwA-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="780" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-87" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="805" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-92" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="795" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-94" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="163" y="788" width="50" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
