@@ -32,16 +32,19 @@
           <mxGeometry x="84" y="400" width="720" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-36" value="/tablet" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="100" y="430" width="80" height="35" as="geometry" />
+          <mxGeometry x="164" y="428.75" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-39" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="720" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-40" value="/wxparent" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="230" y="430" width="80" height="35" as="geometry" />
+          <mxGeometry x="324" y="428.75" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-41" value="/cim-route" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="360" y="430" width="80" height="35" as="geometry" />
+          <mxGeometry x="484" y="428.75" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-42" value="/third-sync" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="644" y="426.25" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
