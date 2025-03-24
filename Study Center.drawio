@@ -103,8 +103,23 @@
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-58" value="oplus-oppo-cim-route" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="458" y="427.5" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-59" value="oplus-oppo-wxparent-server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-59" value="unknow" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#a20025;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="628" y="425" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-66" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="570" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-67" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-68" value="oplus-oppo-rpc-user" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="118" y="597.5" width="92" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-72" value="oplus-oppo-rpc-control" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="597.5" width="92" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-73" value="oplus-oppo-rpc-sns" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="597.5" width="92" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
