@@ -31,17 +31,17 @@
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="84" y="400" width="720" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-36" value="平板(Tablet)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="144" y="415" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-37" value="微信小程序(Wechat Applet)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="384" y="415" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-38" value="微信公众号(Wechat Official Account)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="624" y="415" width="120" height="60" as="geometry" />
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-36" value="/tablet" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-39" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-40" value="/wxparent" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q0XX4GT5Z8J2Ncl4kmwA-41" value="/cim-route" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
