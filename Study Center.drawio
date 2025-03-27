@@ -162,11 +162,11 @@
         <mxCell id="443hARDeA-LXBkKFBBLn-3" value="学习空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="350" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="443hARDeA-LXBkKFBBLn-5" value="好爸爸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="120" height="120" as="geometry" />
+        <mxCell id="443hARDeA-LXBkKFBBLn-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;精准学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="443hARDeA-LXBkKFBBLn-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;精准学&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="630" y="290" width="120" height="120" as="geometry" />
+        <mxCell id="443hARDeA-LXBkKFBBLn-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;好爸爸&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
