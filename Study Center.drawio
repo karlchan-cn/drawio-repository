@@ -157,7 +157,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="443hARDeA-LXBkKFBBLn-2" value="&lt;font style=&quot;font-size: 52px;&quot;&gt;Color OS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="390" width="800" height="120" as="geometry" />
+          <mxGeometry x="10" y="390" width="810" height="120" as="geometry" />
         </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-3" value="学习空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="350" height="260" as="geometry" />
