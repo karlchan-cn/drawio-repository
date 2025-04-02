@@ -177,6 +177,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-3" target="443hARDeA-LXBkKFBBLn-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="270" />
+              <mxPoint x="468" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-3" target="443hARDeA-LXBkKFBBLn-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="270" />
+              <mxPoint x="715" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-13" value="5. 通过【deeplink】打开【好爸爸/精准学】提供学科服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-12">
+          <mxGeometry x="-0.3519" y="-1" relative="1" as="geometry">
+            <mxPoint x="68" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-3" value="学习空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="350" width="250" height="60" as="geometry" />
         </mxCell>
