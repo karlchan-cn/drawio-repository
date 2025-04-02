@@ -198,11 +198,34 @@
             <mxPoint x="68" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-3" target="YpjNbcQ_t2Gfkx8sZreq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="550" />
+              <mxPoint x="-100" y="550" />
+              <mxPoint x="-100" y="-40" />
+              <mxPoint x="103" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-3" value="学习空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="350" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-7" value="&lt;font&gt;精准学(APP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1;textShadow=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="640" y="350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-8" target="443hARDeA-LXBkKFBBLn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="543" y="550" />
+              <mxPoint x="238" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-15" value="6. 【VIP/付费】 Deeplink引导【去购买】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-14">
+          <mxGeometry x="0.1293" y="5" relative="1" as="geometry">
+            <mxPoint x="224" y="-75" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-8" value="&lt;font&gt;好爸爸(APP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1;textShadow=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="430" y="350" width="150" height="60" as="geometry" />
