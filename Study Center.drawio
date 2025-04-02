@@ -155,19 +155,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qx0uk4AfaCFW52_GsqGO" name="学习空间-客户端架构">
-    <mxGraphModel dx="1254" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2081" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="443hARDeA-LXBkKFBBLn-2" value="&lt;font&gt;Color OS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1;textShadow=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="10" y="390" width="810" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-3" target="YpjNbcQ_t2Gfkx8sZreq-2">
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-3" target="YpjNbcQ_t2Gfkx8sZreq-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="350" />
+              <mxPoint x="110" y="350" />
+              <mxPoint x="110" y="60" />
+              <mxPoint x="370" y="60" />
               <mxPoint x="370" y="10" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-8" value="3.1 云端同步账户登陆+年级&lt;br&gt;3.2 获取【学科服务】内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-3">
+          <mxGeometry x="0.377" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-3" value="学习空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" parent="1" vertex="1">
@@ -182,8 +189,42 @@
         <mxCell id="YpjNbcQ_t2Gfkx8sZreq-2" value="&lt;font&gt;好爸爸(云服务)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1;textShadow=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="-20" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;exitX=0.102;exitY=1.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YpjNbcQ_t2Gfkx8sZreq-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="66" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="66" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-7" value="2. 用户&lt;br&gt;登陆成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-6">
+          <mxGeometry x="-0.5061" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YpjNbcQ_t2Gfkx8sZreq-4" value="学习空间(云服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-20" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-5" value="1. 初始化&lt;br&gt;用户登陆" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="443hARDeA-LXBkKFBBLn-3" target="YpjNbcQ_t2Gfkx8sZreq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="380" />
+              <mxPoint y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.346;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="YpjNbcQ_t2Gfkx8sZreq-2" target="443hARDeA-LXBkKFBBLn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="140" />
+              <mxPoint x="137" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-10" value="4. 返回【教材同步学】+ 【AI精准学】&lt;br&gt;+【精选教辅】+【专项提升】 + 【精品课程】&lt;br&gt;【绘本听书/拍照搜题/汉语字典/同步写字等等】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-9">
+          <mxGeometry x="-0.4162" y="-4" relative="1" as="geometry">
+            <mxPoint x="-81" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
