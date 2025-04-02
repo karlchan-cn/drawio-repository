@@ -202,10 +202,15 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="175" y="550" />
-              <mxPoint x="-100" y="550" />
-              <mxPoint x="-100" y="-40" />
-              <mxPoint x="103" y="-40" />
+              <mxPoint x="-180" y="550" />
+              <mxPoint x="-180" y="-80" />
+              <mxPoint x="103" y="-80" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-17" value="8. 用户【订阅/退定】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-16">
+          <mxGeometry x="0.1413" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="443hARDeA-LXBkKFBBLn-3" value="学习空间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" parent="1" vertex="1">
@@ -243,6 +248,19 @@
         </mxCell>
         <mxCell id="YpjNbcQ_t2Gfkx8sZreq-7" value="2. 用户&lt;br&gt;登陆成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-6">
           <mxGeometry x="-0.5061" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="YpjNbcQ_t2Gfkx8sZreq-4" target="YpjNbcQ_t2Gfkx8sZreq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="-80" />
+              <mxPoint x="495" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-19" value="9. 同步【订阅/退定】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-18">
+          <mxGeometry x="-0.219" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
