@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-8" value="3.1 云端同步账户登陆+年级&lt;br&gt;3.2 获取【学科服务】内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-3">
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-8" value="3.1 云端同步&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;OPPO账户&lt;/font&gt;&lt;/b&gt;登陆+年级&lt;br&gt;3.2 获取【学科服务】内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-3">
           <mxGeometry x="0.377" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -259,7 +259,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-19" value="9. 同步【订阅/退定】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-18">
+        <mxCell id="YpjNbcQ_t2Gfkx8sZreq-19" value="9. 同步&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;OPPO账户&lt;/font&gt;&lt;/b&gt;【订阅/退定】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpjNbcQ_t2Gfkx8sZreq-18">
           <mxGeometry x="-0.219" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
