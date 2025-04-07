@@ -385,7 +385,7 @@
         <mxCell id="w7ltKq7yfU-oG5ZVsQMd-10" value="学习空间(APP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="350" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-11" value="&lt;font&gt;精准学(APP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1;textShadow=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-11" value="&lt;font&gt;精准学(APP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontStyle=1;textShadow=1;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w7ltKq7yfU-oG5ZVsQMd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7ltKq7yfU-oG5ZVsQMd-14" target="w7ltKq7yfU-oG5ZVsQMd-10">
@@ -401,10 +401,10 @@
             <mxPoint x="224" y="-75" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-14" value="&lt;font&gt;好爸爸(APP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1;textShadow=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-14" value="&lt;font&gt;好爸爸(APP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontStyle=1;textShadow=1;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-15" value="&lt;font&gt;好爸爸(云服务)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontStyle=1;textShadow=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-15" value="&lt;font&gt;顺飒(云服务)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontStyle=1;textShadow=1;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="420" y="-20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w7ltKq7yfU-oG5ZVsQMd-20" value="学习空间(云服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" vertex="1" parent="1">
