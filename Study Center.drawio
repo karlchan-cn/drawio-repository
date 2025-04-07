@@ -424,10 +424,10 @@
         <mxCell id="w7ltKq7yfU-oG5ZVsQMd-20" value="学习空间(云服务)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;glass=0;shadow=1;fontSize=15;fontStyle=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-20" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-21" value="1. 同步账号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7ltKq7yfU-oG5ZVsQMd-20" target="w7ltKq7yfU-oG5ZVsQMd-10">
+        <mxCell id="w7ltKq7yfU-oG5ZVsQMd-21" value="1. 同步账号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7ltKq7yfU-oG5ZVsQMd-20" target="w7ltKq7yfU-oG5ZVsQMd-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-10" y="10" />
+              <mxPoint x="-10" y="25" />
               <mxPoint x="-10" y="373" />
             </Array>
             <mxPoint x="-70" y="90" as="targetPoint" />
