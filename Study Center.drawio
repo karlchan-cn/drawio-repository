@@ -665,8 +665,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="3XaoEkpOh1OxYt2YHPV9-1" source="eZe8PowyqPDmXB-y7Xwj-34" target="eZe8PowyqPDmXB-y7Xwj-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="450" />
+              <mxPoint x="220" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-53" value="请求(/cim-route/login)获取cim-server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eZe8PowyqPDmXB-y7Xwj-51">
+          <mxGeometry x="0.0431" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eZe8PowyqPDmXB-y7Xwj-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3XaoEkpOh1OxYt2YHPV9-1">
-          <mxGeometry x="130" y="160" width="10" height="80" as="geometry" />
+          <mxGeometry x="130" y="440" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="eZe8PowyqPDmXB-y7Xwj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3XaoEkpOh1OxYt2YHPV9-1" source="eZe8PowyqPDmXB-y7Xwj-48">
           <mxGeometry relative="1" as="geometry">
@@ -720,7 +733,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eZe8PowyqPDmXB-y7Xwj-48" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3XaoEkpOh1OxYt2YHPV9-1">
-          <mxGeometry x="450" y="400" width="10" height="40" as="geometry" />
+          <mxGeometry x="450" y="400" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="3XaoEkpOh1OxYt2YHPV9-1" source="eZe8PowyqPDmXB-y7Xwj-54" target="eZe8PowyqPDmXB-y7Xwj-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="540" />
+              <mxPoint x="210" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-58" value="返回server信息(ip:tcpport:httpport)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eZe8PowyqPDmXB-y7Xwj-57">
+          <mxGeometry x="-0.2481" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3XaoEkpOh1OxYt2YHPV9-1">
+          <mxGeometry x="450" y="520" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-55" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="eZe8PowyqPDmXB-y7Xwj-54" parent="3XaoEkpOh1OxYt2YHPV9-1" source="eZe8PowyqPDmXB-y7Xwj-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="470" />
+              <mxPoint x="600" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-56" value="使用一致性hash获取服务&lt;br&gt;获取当前用户(deviceId)cim-server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eZe8PowyqPDmXB-y7Xwj-55">
+          <mxGeometry x="-0.181" y="-2" relative="1" as="geometry">
+            <mxPoint y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3XaoEkpOh1OxYt2YHPV9-1">
+          <mxGeometry x="590" y="350" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
