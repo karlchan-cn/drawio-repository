@@ -678,6 +678,19 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="3XaoEkpOh1OxYt2YHPV9-1" source="eZe8PowyqPDmXB-y7Xwj-34" target="eZe8PowyqPDmXB-y7Xwj-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="582" />
+              <mxPoint x="300" y="582" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eZe8PowyqPDmXB-y7Xwj-65" value="建立长连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eZe8PowyqPDmXB-y7Xwj-64">
+          <mxGeometry x="0.3663" y="-2" relative="1" as="geometry">
+            <mxPoint x="-182" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eZe8PowyqPDmXB-y7Xwj-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3XaoEkpOh1OxYt2YHPV9-1">
           <mxGeometry x="130" y="440" width="10" height="200" as="geometry" />
         </mxCell>
@@ -766,7 +779,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eZe8PowyqPDmXB-y7Xwj-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3XaoEkpOh1OxYt2YHPV9-1">
-          <mxGeometry x="590" y="350" width="10" height="80" as="geometry" />
+          <mxGeometry x="759" y="577" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
