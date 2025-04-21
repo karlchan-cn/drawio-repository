@@ -1186,6 +1186,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-27" value="欢太账号A(会员有效期90天)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;fontStyle=5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="780" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-28" value="三方账号会员权益" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="795" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454.5" y="650" as="sourcePoint" />
+            <mxPoint x="454.5" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-30" value="三方权益更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wvwRBgYHjws9nwXpPZ3V-29">
+          <mxGeometry x="-0.2384" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
