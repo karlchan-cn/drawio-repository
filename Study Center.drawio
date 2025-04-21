@@ -1113,26 +1113,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="440" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="MDFHs2awRtF0m6EVyVmC-4" value="欢太账号A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="420" width="340" height="60" as="geometry" />
+          <mxGeometry x="250" y="420" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MDFHs2awRtF0m6EVyVmC-1" value="设备-柔光屏(1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="380" width="110" height="50" as="geometry" />
+          <mxGeometry x="290" y="380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MDFHs2awRtF0m6EVyVmC-3" value="设备-柔光屏(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="110" height="50" as="geometry" />
+          <mxGeometry x="430" y="380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-1" value="设备-柔光屏(1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="40" width="110" height="50" as="geometry" />
+          <mxGeometry x="250" y="90" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-2" value="设备-柔光屏(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="90" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-3" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="165" y="80" width="80" height="20" as="geometry" />
+          <mxGeometry x="265" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-4" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="355" y="80" width="80" height="20" as="geometry" />
+          <mxGeometry x="415" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-5" value="设备与首销会员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-6" value="设备-柔光屏(3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-7" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="565" y="130" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
