@@ -1109,18 +1109,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9KHD2UgjtVx2hMr-oX7O" name="首销赠送会员">
-    <mxGraphModel dx="1254" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MDFHs2awRtF0m6EVyVmC-4" value="欢太账号A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="340" height="60" as="geometry" />
+          <mxGeometry x="140" y="420" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MDFHs2awRtF0m6EVyVmC-1" value="设备-柔光屏(1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="110" height="50" as="geometry" />
+          <mxGeometry x="180" y="380" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MDFHs2awRtF0m6EVyVmC-3" value="设备-柔光屏(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="190" width="110" height="50" as="geometry" />
+          <mxGeometry x="320" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-1" value="设备-柔光屏(1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-2" value="设备-柔光屏(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-3" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="165" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-4" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="355" y="80" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
