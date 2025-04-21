@@ -1006,13 +1006,23 @@
       <root>
         <mxCell id="1yZgNub46wHZnolLwAQ6-0" />
         <mxCell id="1yZgNub46wHZnolLwAQ6-1" parent="1yZgNub46wHZnolLwAQ6-0" />
-        <mxCell id="1yZgNub46wHZnolLwAQ6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;" parent="1yZgNub46wHZnolLwAQ6-1" edge="1">
+        <mxCell id="9rkgmStsleqcyFo8GPDr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1yZgNub46wHZnolLwAQ6-1" source="1yZgNub46wHZnolLwAQ6-9" target="9rkgmStsleqcyFo8GPDr-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1074" y="800" as="targetPoint" />
+            <mxPoint x="130" y="770" as="targetPoint" />
+            <mxPoint x="135" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="135" y="340" />
+              <mxPoint x="135" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1yZgNub46wHZnolLwAQ6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1yZgNub46wHZnolLwAQ6-1" target="9rkgmStsleqcyFo8GPDr-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1074" y="260" as="targetPoint" />
             <mxPoint x="1074.41" y="80" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1075" y="210" />
-              <mxPoint x="1075" y="210" />
+              <mxPoint x="1074" y="210" />
+              <mxPoint x="1075" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1042,16 +1052,6 @@
         </mxCell>
         <mxCell id="1yZgNub46wHZnolLwAQ6-9" value="学习空间(Android)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1yZgNub46wHZnolLwAQ6-1" vertex="1">
           <mxGeometry x="60" y="30" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1yZgNub46wHZnolLwAQ6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1yZgNub46wHZnolLwAQ6-1" source="1yZgNub46wHZnolLwAQ6-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="770" as="targetPoint" />
-            <mxPoint x="135" y="80" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="135" y="170" />
-              <mxPoint x="135" y="170" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1yZgNub46wHZnolLwAQ6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1yZgNub46wHZnolLwAQ6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1103,6 +1103,35 @@
         <mxCell id="NlsZhmz2DW_6XzTpp0SY-7" value="登陆完成，返回用户Token&lt;br&gt;openId+expiration TS + userId + userType" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NlsZhmz2DW_6XzTpp0SY-6">
           <mxGeometry x="-0.0927" y="-1" relative="1" as="geometry">
             <mxPoint x="-19" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-0" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1yZgNub46wHZnolLwAQ6-1">
+          <mxGeometry x="130" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;endArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1yZgNub46wHZnolLwAQ6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134.5" y="780" as="targetPoint" />
+            <mxPoint x="134.5" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="134.5" y="730" />
+              <mxPoint x="134.5" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1yZgNub46wHZnolLwAQ6-1">
+          <mxGeometry x="1070" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1yZgNub46wHZnolLwAQ6-1" source="9rkgmStsleqcyFo8GPDr-0" target="9rkgmStsleqcyFo8GPDr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="395" />
+              <mxPoint x="380" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-8" value="三方平台登陆(/pad/oppoPadLogin)&lt;br&gt;appId + oppoUserId(ssoId) + sign" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9rkgmStsleqcyFo8GPDr-7">
+          <mxGeometry x="-0.027" y="-2" relative="1" as="geometry">
+            <mxPoint y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
