@@ -1146,6 +1146,9 @@
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-7" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="565" y="130" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-11" value="账号与设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
