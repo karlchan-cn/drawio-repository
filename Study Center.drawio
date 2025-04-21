@@ -1158,6 +1158,9 @@
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-19" value="3个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="275" y="420" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-20" value="0个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
