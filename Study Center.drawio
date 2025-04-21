@@ -1161,6 +1161,12 @@
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-20" value="0个月" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="370" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454.5" y="210" as="sourcePoint" />
+            <mxPoint x="454.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
