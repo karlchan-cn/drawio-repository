@@ -1186,7 +1186,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wvwRBgYHjws9nwXpPZ3V-27" value="欢太账号A(会员有效期90天)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;fontStyle=5;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="wvwRBgYHjws9nwXpPZ3V-27" value="欢太账号A(会员有效期210天)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;fontStyle=5;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="240" y="780" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wvwRBgYHjws9nwXpPZ3V-28" value="三方账号会员权益" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;strokeColor=default;dashed=1;dashPattern=1 2;fontFamily=Helvetica;" vertex="1" parent="1">
