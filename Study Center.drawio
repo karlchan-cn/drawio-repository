@@ -1142,9 +1142,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rkgmStsleqcyFo8GPDr-10" value="登陆成功/失败(code=200/others)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9rkgmStsleqcyFo8GPDr-9">
+        <mxCell id="9rkgmStsleqcyFo8GPDr-10" value="登陆成功/失败(http code == 200 &amp;amp;&amp;amp; code=200/others)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9rkgmStsleqcyFo8GPDr-9">
           <mxGeometry x="0.141" y="1" relative="1" as="geometry">
-            <mxPoint x="31" y="-16" as="offset" />
+            <mxPoint x="71" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
