@@ -1134,6 +1134,19 @@
             <mxPoint y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;dashed=1;" edge="1" parent="1yZgNub46wHZnolLwAQ6-1" source="9rkgmStsleqcyFo8GPDr-6" target="9rkgmStsleqcyFo8GPDr-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="465" />
+              <mxPoint x="830" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rkgmStsleqcyFo8GPDr-10" value="登陆成功/失败(code=200/others)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9rkgmStsleqcyFo8GPDr-9">
+          <mxGeometry x="0.141" y="1" relative="1" as="geometry">
+            <mxPoint x="31" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
