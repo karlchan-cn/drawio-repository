@@ -1249,10 +1249,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="anfbGfOCRafoo39wth0O" name="首销赠送会员-服务调用拓扑">
-    <mxGraphModel dx="2081" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2081" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZMnxWa9OK0BJZh5s1ge-2" target="zZMnxWa9OK0BJZh5s1ge-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-48" value="vip refresh 【ssoid + orderId + startTime + endTime】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zZMnxWa9OK0BJZh5s1ge-47">
+          <mxGeometry x="-0.0654" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zZMnxWa9OK0BJZh5s1ge-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;dashed=1;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="450" height="230" as="geometry" />
         </mxCell>
@@ -1383,6 +1391,20 @@
         </mxCell>
         <mxCell id="zZMnxWa9OK0BJZh5s1ge-40" value="学习空间" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.tablet;" vertex="1" parent="1">
           <mxGeometry x="-760" y="280" width="175.68" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZMnxWa9OK0BJZh5s1ge-42" target="zZMnxWa9OK0BJZh5s1ge-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-44" value="DuID to IMEI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zZMnxWa9OK0BJZh5s1ge-43">
+          <mxGeometry x="0.0506" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-42" value="OpenIDService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-293" y="-10" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-45" value="GoodDaddyVipService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="307" width="376" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
