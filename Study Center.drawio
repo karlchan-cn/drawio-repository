@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.2.12" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.2.12" pages="9">
   <diagram id="f4Z1P-DHBVJosH07e57E" name="学习空间-服务端架构">
     <mxGraphModel dx="1254" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1244,6 +1244,59 @@
           <mxGeometry x="-0.2384" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="anfbGfOCRafoo39wth0O" name="首销赠送会员-销售业务">
+    <mxGraphModel dx="1254" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;dashed=1;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-1" value="checkQualification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="301" y="290" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-3" value="redeemMembership" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="301" y="370" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-4" value="IWelfareService" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419" y="240" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;dashed=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="390" width="430" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-6" value="insert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="881" y="450" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-7" value="updateById" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="881" y="530" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-8" value="UserVipMapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="999" y="400" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;dashed=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="140" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-11" value="generateId" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="881" y="180" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-13" value="OrderGenerator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="999" y="150" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;dashed=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="700" width="430" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-15" value="insert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="881" y="760" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-16" value="updateById" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="881" y="840" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-17" value="UserVipMapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="999" y="710" width="152" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
