@@ -1351,6 +1351,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZMnxWa9OK0BJZh5s1ge-18" target="zZMnxWa9OK0BJZh5s1ge-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZMnxWa9OK0BJZh5s1ge-52" value="redeem lock 【string key(nx ex): $imei_msrd expiration-10s 】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zZMnxWa9OK0BJZh5s1ge-51">
+          <mxGeometry x="0.3017" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zZMnxWa9OK0BJZh5s1ge-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="470" y="580" width="50" height="42" as="geometry" />
         </mxCell>
