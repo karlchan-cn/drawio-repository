@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.2.12" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="26.2.12" pages="10">
   <diagram id="f4Z1P-DHBVJosH07e57E" name="学习空间-服务端架构">
     <mxGraphModel dx="1254" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1249,7 +1249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="anfbGfOCRafoo39wth0O" name="首销赠送会员-服务调用拓扑">
-    <mxGraphModel dx="2081" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2302" dy="2001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1413,6 +1413,20 @@
           <mxGeometry x="0.3017" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="首销赠送会员-会员兑换时序" id="zyu-uUK8b1cjVA1-PSmW">
+    <mxGraphModel dx="1254" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Mdp6CvpiApracbQn8037-0" />
+        <mxCell id="Mdp6CvpiApracbQn8037-1" parent="Mdp6CvpiApracbQn8037-0" />
+        <mxCell id="48KCJQB70zI9Gs20qstR-0" value="WelfareService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mdp6CvpiApracbQn8037-1">
+          <mxGeometry x="70" y="100" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="48KCJQB70zI9Gs20qstR-1" value="DeviceMembershipRedemptionMapper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mdp6CvpiApracbQn8037-1">
+          <mxGeometry x="280" y="100" width="270" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
