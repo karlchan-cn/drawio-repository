@@ -622,13 +622,48 @@
           <mxGeometry x="-1305" y="1323" width="40" height="205" as="geometry" />
         </mxCell>
         <mxCell id="3rX4W4iFohVAOzFtzuPi-1" value="物理界预估集群(北方汇天)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2864" y="1831" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2715" y="1834" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3rX4W4iFohVAOzFtzuPi-2" value="AZ预估集群(北方汇天)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2864" y="1953" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2715" y="1956" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3rX4W4iFohVAOzFtzuPi-3" value="AZ预估集群(南方)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2864" y="2234" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2715" y="2234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="3rX4W4iFohVAOzFtzuPi-5" target="3rX4W4iFohVAOzFtzuPi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-5" value="广告拍卖引擎(北方)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3251" y="1886" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="3rX4W4iFohVAOzFtzuPi-7" target="3rX4W4iFohVAOzFtzuPi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-7" value="广告拍卖引擎(南方)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3251" y="2234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-13" value="列表页流量" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="3rX4W4iFohVAOzFtzuPi-8" target="3rX4W4iFohVAOzFtzuPi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2923" y="1864" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-14" value="新媒体流量" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="3rX4W4iFohVAOzFtzuPi-8" target="3rX4W4iFohVAOzFtzuPi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2923" y="1986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-8" value="字节分流网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2983" y="1886" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-12" value="新媒体流量" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="3rX4W4iFohVAOzFtzuPi-9" target="3rX4W4iFohVAOzFtzuPi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-9" value="字节分流网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2983" y="2234" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
