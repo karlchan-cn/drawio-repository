@@ -624,7 +624,7 @@
         <mxCell id="_KqvURZB2HE6t5zpKNbD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1305" y="1323" width="40" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="3rX4W4iFohVAOzFtzuPi-1" value="物理界预估集群(北方&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;汇天&lt;/font&gt;&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-1" value="物理机预估集群(北方&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;汇天&lt;/font&gt;&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2715" y="1834" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3rX4W4iFohVAOzFtzuPi-2" value="AZ预估集群(北方汇天)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
@@ -675,7 +675,7 @@
         <mxCell id="3rX4W4iFohVAOzFtzuPi-9" value="字节分流网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2983" y="2234" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3rX4W4iFohVAOzFtzuPi-15" value="物理界预估集群(北方&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;昌平&lt;/font&gt;&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-15" value="物理机预估集群(北方&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;昌平&lt;/font&gt;&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2715" y="1698" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3rX4W4iFohVAOzFtzuPi-16" value="机房迁移(云数规划) ≈6月" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
