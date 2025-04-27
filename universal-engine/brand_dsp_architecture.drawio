@@ -701,6 +701,9 @@
         <mxCell id="3rX4W4iFohVAOzFtzuPi-21" value="字节分流网关(新域名)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2979" y="2074" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2579" y="2249" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
