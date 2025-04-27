@@ -621,8 +621,14 @@
         <mxCell id="_KqvURZB2HE6t5zpKNbD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1305" y="1323" width="40" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="3rX4W4iFohVAOzFtzuPi-1" value="头条物理机集群(北方汇天)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-1" value="物理界预估集群(北方汇天)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2864" y="1831" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-2" value="AZ预估集群(北方汇天)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2864" y="1953" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rX4W4iFohVAOzFtzuPi-3" value="AZ预估集群(南方)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2864" y="2234" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
