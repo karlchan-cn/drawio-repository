@@ -1485,6 +1485,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="210" width="720" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="84" y="420" width="720" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-3" value="OPPO账号(正式)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-4" value="OPPO账号(测试)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-5" value="公众号(开发测试)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-6" value="公众号(学习空间)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-7" value="小程序(学习空间)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/WeChat-128.png" vertex="1" parent="1">
+          <mxGeometry x="294" y="340" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-9" value="生产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="24" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-10" value="测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="24" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
