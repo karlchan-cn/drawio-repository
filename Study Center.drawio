@@ -1491,8 +1491,23 @@
         <mxCell id="kIrQgWNFDVQjJ8VSiTMk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="84" y="420" width="720" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="kIrQgWNFDVQjJ8VSiTMk-3" target="kIrQgWNFDVQjJ8VSiTMk-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kIrQgWNFDVQjJ8VSiTMk-3" value="OPPO账号(正式)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="114" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="kIrQgWNFDVQjJ8VSiTMk-4" target="kIrQgWNFDVQjJ8VSiTMk-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="393" />
+              <mxPoint x="264" y="393" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kIrQgWNFDVQjJ8VSiTMk-4" value="OPPO账号(测试)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="114" y="440" width="120" height="60" as="geometry" />
@@ -1505,6 +1520,20 @@
         </mxCell>
         <mxCell id="kIrQgWNFDVQjJ8VSiTMk-7" value="小程序(学习空间)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="644" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="kIrQgWNFDVQjJ8VSiTMk-8" target="kIrQgWNFDVQjJ8VSiTMk-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIrQgWNFDVQjJ8VSiTMk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="kIrQgWNFDVQjJ8VSiTMk-8" target="kIrQgWNFDVQjJ8VSiTMk-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kIrQgWNFDVQjJ8VSiTMk-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/WeChat-128.png" vertex="1" parent="1">
           <mxGeometry x="294" y="340" width="70" height="70" as="geometry" />
