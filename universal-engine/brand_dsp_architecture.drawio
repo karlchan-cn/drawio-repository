@@ -8796,7 +8796,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="enZJE_z10DX0NuPBI9P1-48" value="专线数据同步" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;flowAnimation=1;" edge="1" parent="1" source="enZJE_z10DX0NuPBI9P1-18" target="enZJE_z10DX0NuPBI9P1-5">
+        <mxCell id="enZJE_z10DX0NuPBI9P1-48" value="专线数据同步" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;flowAnimation=1;strokeColor=#3399FF;strokeWidth=3;" edge="1" parent="1" source="enZJE_z10DX0NuPBI9P1-18" target="enZJE_z10DX0NuPBI9P1-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
