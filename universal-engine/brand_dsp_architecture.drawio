@@ -9155,20 +9155,13 @@
         <mxCell id="I0nP0LAL9pfHRcEK9URw-7" value="火山专属云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="44.12" width="156.92" height="35.88" as="geometry" />
         </mxCell>
-        <mxCell id="I0nP0LAL9pfHRcEK9URw-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="300" width="260" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="I0nP0LAL9pfHRcEK9URw-1" value="" style="group" vertex="1" connectable="0" parent="I0nP0LAL9pfHRcEK9URw-8">
-          <mxGeometry width="260" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="I0nP0LAL9pfHRcEK9URw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="I0nP0LAL9pfHRcEK9URw-1">
-          <mxGeometry y="30" width="260" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="I0nP0LAL9pfHRcEK9URw-3" value="TDX (Intel)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I0nP0LAL9pfHRcEK9URw-1">
-          <mxGeometry x="70" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="I0nP0LAL9pfHRcEK9URw-8">
-          <mxGeometry x="50" y="50" width="170" height="90" as="geometry" />
+        <mxCell id="pMyHA44RKrbFabH0LJwq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.218;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I0nP0LAL9pfHRcEK9URw-9" target="HNMi8mIivC8-YObbbq3N-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="472" y="310" />
+              <mxPoint x="472" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I0nP0LAL9pfHRcEK9URw-9" value="分包服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="110" width="170" height="90" as="geometry" />
@@ -9218,13 +9211,22 @@
             <mxPoint x="-21" y="-37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMyHA44RKrbFabH0LJwq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HNMi8mIivC8-YObbbq3N-1" target="I0nP0LAL9pfHRcEK9URw-9">
+        <mxCell id="pMyHA44RKrbFabH0LJwq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;" edge="1" parent="1" source="HNMi8mIivC8-YObbbq3N-1" target="I0nP0LAL9pfHRcEK9URw-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-13" value="1. 发送活跃用户&lt;br&gt;加密IMEI&lt;br&gt;请求字节分包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pMyHA44RKrbFabH0LJwq-12">
           <mxGeometry x="-0.4108" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I0nP0LAL9pfHRcEK9URw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="330" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I0nP0LAL9pfHRcEK9URw-3" value="TDX (Intel)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="350" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
