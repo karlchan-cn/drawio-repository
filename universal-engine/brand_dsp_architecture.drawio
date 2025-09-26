@@ -8805,7 +8805,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I2SbU2hUw49dJdJs2StJ" name="字节数据合作">
-    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8869,16 +8869,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-12" value="步骤1: 映射关系同步" style="fillColor=#B3B3B3;strokeColor=none;strokeWidth=2;fontColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-12" value="步骤1: 映射关系同步" style="fillColor=#FFB366;strokeColor=none;strokeWidth=2;fontColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="70" y="95" width="552" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-13" value="步骤2: 业务数据分包" style="fillColor=#B3B3B3;strokeColor=none;strokeWidth=2;fontColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-13" value="步骤2: 业务数据分包" style="fillColor=#FFB366;strokeColor=none;strokeWidth=2;fontColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="70" y="412" width="352" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-14" value="分包服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-14" value="分包服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;strokeWidth=3;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="20" y="840" width="150" height="1203" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-15" value="数据转换服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-15" value="数据转换服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;strokeWidth=3;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="322" y="840" width="150" height="1203" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-16" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="y987USSZnuBKaFbvcn1P-15">
@@ -8887,7 +8887,7 @@
         <mxCell id="y987USSZnuBKaFbvcn1P-17" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="y987USSZnuBKaFbvcn1P-15">
           <mxGeometry x="70" y="574" width="10" height="524" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-18" value="TOS服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-18" value="TOS服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;strokeWidth=3;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="625" y="840" width="150" height="1203" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-19" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="y987USSZnuBKaFbvcn1P-18">
@@ -8984,14 +8984,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-34" value="步骤3: oaId查询转换" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-34" value="步骤3: oaId查询转换" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
           <mxGeometry x="70" y="915" width="655" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-35" value="步骤4: TOS embedding计算" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-35" value="步骤4: TOS embedding计算" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
           <mxGeometry x="372" y="1098" width="353" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-36" value="步骤5: embedding结果回传" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-36" value="步骤5: embedding结果回传" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
           <mxGeometry x="70" y="1333" width="655" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry width="190" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-39" value="OPPO云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="310" width="180" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-41" value="字节云TDX安全环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343.75" y="-30" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
