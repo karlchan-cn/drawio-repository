@@ -8805,7 +8805,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I2SbU2hUw49dJdJs2StJ" name="字节数据合作">
-    <mxGraphModel dx="655" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9074,10 +9074,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-59" value="embedding回传时基于hash取模过滤加密IMEI" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-59" value="embedding回传时基于hash取模过滤加密IMEI" style="fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="2477" width="341" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-60" value="hash(加密IMEI) % 10000 &lt; 过滤比例 → 过滤" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-60" value="hash(加密IMEI) % 10000 &lt; 过滤比例 → 过滤" style="fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="461" y="2526" width="330" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-62" value="" style="group" vertex="1" connectable="0" parent="1">
