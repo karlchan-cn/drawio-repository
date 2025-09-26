@@ -9137,13 +9137,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I0nP0LAL9pfHRcEK9URw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="I0nP0LAL9pfHRcEK9URw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="370" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="HNMi8mIivC8-YObbbq3N-4" value="" style="group;strokeWidth=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="35" y="50" width="260" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
+        <mxCell id="HNMi8mIivC8-YObbbq3N-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 2;" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
           <mxGeometry y="30" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HNMi8mIivC8-YObbbq3N-3" value="OPPO IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
