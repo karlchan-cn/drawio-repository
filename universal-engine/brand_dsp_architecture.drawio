@@ -8875,6 +8875,124 @@
         <mxCell id="y987USSZnuBKaFbvcn1P-13" value="步骤2: 业务数据分包" style="fillColor=#B3B3B3;strokeColor=none;strokeWidth=2;fontColor=#FFFFFF;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="70" y="412" width="352" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-14" value="分包服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="840" width="150" height="1203" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-15" value="数据转换服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="322" y="840" width="150" height="1203" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-16" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="y987USSZnuBKaFbvcn1P-15">
+          <mxGeometry x="70" y="156" width="10" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-17" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="y987USSZnuBKaFbvcn1P-15">
+          <mxGeometry x="70" y="574" width="10" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-18" value="TOS服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="625" y="840" width="150" height="1203" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-19" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="y987USSZnuBKaFbvcn1P-18">
+          <mxGeometry x="75" y="391" width="10" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-20" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="1598" width="417" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-21" value="[hash(加密IMEI) % 10000&#xa;&gt;= 过滤比例]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="y987USSZnuBKaFbvcn1P-20">
+          <mxGeometry x="30" width="387" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-22" value="[hash(加密IMEI) % 10000 &lt;&#xa;过滤比例]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="y987USSZnuBKaFbvcn1P-20">
+          <mxGeometry y="124" width="417" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-23" value="HTTP: 发送小包加密IMEI列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-14" target="y987USSZnuBKaFbvcn1P-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-24" value="查询对应oaId列表" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-16" target="y987USSZnuBKaFbvcn1P-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="1048" />
+              <mxPoint x="452" y="1078" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-25" value="HTTP: 发送oaId列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-16" target="y987USSZnuBKaFbvcn1P-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="1179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-26" value="返回成功标志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-16" target="y987USSZnuBKaFbvcn1P-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="1231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-27" value="embedding计算(数小时)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-19" target="y987USSZnuBKaFbvcn1P-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1283" />
+              <mxPoint x="760" y="1313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-28" value="HTTP: 返回oaId列表+embedding" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-18" target="y987USSZnuBKaFbvcn1P-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-29" value="oaId转换为加密IMEI" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="1466" />
+              <mxPoint x="452" y="1496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-30" value="基于hash取模判断是否过滤" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="1548" />
+              <mxPoint x="452" y="1578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-31" value="HTTP: 回传加密IMEI+embedding" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="1697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-32" value="过滤，不回传embedding" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="1816" />
+              <mxPoint x="452" y="1846" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-33" value="处理完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="1938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-34" value="步骤3: oaId查询转换" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="70" y="915" width="655" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-35" value="步骤4: TOS embedding计算" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1098" width="353" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-36" value="步骤5: embedding结果回传" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1333" width="655" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
