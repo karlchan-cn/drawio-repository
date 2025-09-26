@@ -9280,7 +9280,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMyHA44RKrbFabH0LJwq-5" value="加密IMEI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="pMyHA44RKrbFabH0LJwq-5" value="加密IMEI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66CC00;fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="761.7234950071327" y="250" width="140.6562054208274" height="25" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-32" value="转换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
