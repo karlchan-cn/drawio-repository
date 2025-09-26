@@ -8993,13 +8993,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-34" value="步骤3: oaId查询转换" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-34" value="步骤3: oaId查询转换" style="fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="915" width="655" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-35" value="步骤4: TOS embedding计算" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-35" value="步骤4: TOS embedding计算" style="fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="372" y="1098" width="353" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-36" value="步骤5: embedding结果回传" style="fillColor=#FFB366;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-36" value="步骤5: embedding结果回传" style="fillColor=#FFB366;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="1333" width="655" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
