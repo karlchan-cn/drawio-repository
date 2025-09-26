@@ -8833,14 +8833,14 @@
         <mxCell id="y987USSZnuBKaFbvcn1P-5" value="分包服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=3;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="522" y="20" width="150" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-6" value="HTTPS: 同步映射关系(500万-2亿)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-1" target="y987USSZnuBKaFbvcn1P-3">
+        <mxCell id="y987USSZnuBKaFbvcn1P-6" value="HTTPS: 同步映射关系(500万-2亿)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-1" target="y987USSZnuBKaFbvcn1P-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="253" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-7" value="内存存储双向映射关系" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-3" target="y987USSZnuBKaFbvcn1P-3">
+        <mxCell id="y987USSZnuBKaFbvcn1P-7" value="内存存储双向映射关系" style="curved=1;endArrow=block;rounded=0;fontSize=12;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-3" target="y987USSZnuBKaFbvcn1P-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="228" />
@@ -8848,14 +8848,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-8" value="同步成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-3" target="y987USSZnuBKaFbvcn1P-1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-8" value="同步成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=12;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-3" target="y987USSZnuBKaFbvcn1P-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="256" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-9" value="持久化映射关系" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-4" target="y987USSZnuBKaFbvcn1P-4">
+        <mxCell id="y987USSZnuBKaFbvcn1P-9" value="持久化映射关系" style="curved=1;endArrow=block;rounded=0;fontSize=12;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-4" target="y987USSZnuBKaFbvcn1P-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="362" />
@@ -8863,14 +8863,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-10" value="HTTP: 发送业务加密IMEI列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-1" target="y987USSZnuBKaFbvcn1P-5">
+        <mxCell id="y987USSZnuBKaFbvcn1P-10" value="HTTP: 发送业务加密IMEI列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=12;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-1" target="y987USSZnuBKaFbvcn1P-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="355" y="493" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-11" value="分解为2000个/包的小包" style="curved=1;endArrow=block;rounded=0;fontSize=12;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-5" target="y987USSZnuBKaFbvcn1P-5">
+        <mxCell id="y987USSZnuBKaFbvcn1P-11" value="分解为2000个/包的小包" style="curved=1;endArrow=block;rounded=0;fontSize=12;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-5" target="y987USSZnuBKaFbvcn1P-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="648" y="545" />
