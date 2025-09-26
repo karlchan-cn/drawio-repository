@@ -9156,7 +9156,7 @@
           <mxGeometry x="80" y="110" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I0nP0LAL9pfHRcEK9URw-7" value="火山专属云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="44.12" width="156.92" height="35.88" as="geometry" />
+          <mxGeometry x="599.23" y="44.12" width="156.92" height="35.88" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.218;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="I0nP0LAL9pfHRcEK9URw-9" target="HNMi8mIivC8-YObbbq3N-6">
           <mxGeometry relative="1" as="geometry">
