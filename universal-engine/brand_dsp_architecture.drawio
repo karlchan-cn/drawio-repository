@@ -8809,15 +8809,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y987USSZnuBKaFbvcn1P-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="-30" width="190" height="720" as="geometry" />
-        </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="y987USSZnuBKaFbvcn1P-43">
-          <mxGeometry y="30" width="190" height="690" as="geometry" />
-        </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-39" value="OPPO云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y987USSZnuBKaFbvcn1P-43">
-          <mxGeometry x="60" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry y="800" width="190" height="1250" as="geometry" />
         </mxCell>
@@ -9015,13 +9006,13 @@
           <mxGeometry x="380" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-42" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="-30" width="180" height="720" as="geometry" />
+          <mxGeometry x="310" y="-30" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="y987USSZnuBKaFbvcn1P-42">
-          <mxGeometry y="30" width="180" height="690" as="geometry" />
+          <mxGeometry y="5" width="180" height="115" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-41" value="字节云TDX安全环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y987USSZnuBKaFbvcn1P-42">
-          <mxGeometry x="33.75" width="112.5" height="30" as="geometry" />
+          <mxGeometry x="33.75" y="20" width="112.5" height="5" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-44" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="307.5" y="800" width="180" height="1250" as="geometry" />
@@ -9031,6 +9022,12 @@
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-46" value="字节云TDX安全环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="y987USSZnuBKaFbvcn1P-44">
           <mxGeometry x="33.75" width="112.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry y="-25" width="190" height="115.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="y987USSZnuBKaFbvcn1P-39" value="OPPO云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-10" width="60" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
