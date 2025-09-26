@@ -9149,7 +9149,7 @@
         <mxCell id="HNMi8mIivC8-YObbbq3N-3" value="OPPO IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
           <mxGeometry x="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-1" value="人群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;shadow=1;" vertex="1" parent="1">
+        <mxCell id="HNMi8mIivC8-YObbbq3N-1" value="人群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I0nP0LAL9pfHRcEK9URw-7" value="火山专属云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -9167,8 +9167,11 @@
         <mxCell id="I0nP0LAL9pfHRcEK9URw-3" value="TDX (Intel)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I0nP0LAL9pfHRcEK9URw-1">
           <mxGeometry x="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;shadow=1;" vertex="1" parent="I0nP0LAL9pfHRcEK9URw-8">
+        <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="I0nP0LAL9pfHRcEK9URw-8">
           <mxGeometry x="50" y="50" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I0nP0LAL9pfHRcEK9URw-9" value="人群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="110" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
