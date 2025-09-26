@@ -9110,7 +9110,7 @@
         <mxCell id="y987USSZnuBKaFbvcn1P-71" value="加密IME3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
           <mxGeometry y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-72" value="加密Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
+        <mxCell id="y987USSZnuBKaFbvcn1P-72" value="加密Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;fontSize=13;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
           <mxGeometry x="125" y="32.5" width="136" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-73" value="加密IMEI1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
@@ -9119,7 +9119,7 @@
         <mxCell id="y987USSZnuBKaFbvcn1P-74" value="加密IMEI2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
           <mxGeometry x="441" y="45" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-77" value="加密Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
+        <mxCell id="y987USSZnuBKaFbvcn1P-77" value="加密Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;fontSize=13;" vertex="1" parent="y987USSZnuBKaFbvcn1P-82">
           <mxGeometry x="565" y="32.5" width="136" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y987USSZnuBKaFbvcn1P-79" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;过滤IMEI3&lt;/b&gt;&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="y987USSZnuBKaFbvcn1P-82">
