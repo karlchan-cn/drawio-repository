@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="28.2.5" pages="56">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="28.2.5" pages="57">
   <diagram id="cmUArRPCcL199mpjOxZq" name="消息队列模块">
     <mxGraphModel dx="1260" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8805,7 +8805,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I2SbU2hUw49dJdJs2StJ" name="字节数据合作">
-    <mxGraphModel dx="1123" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9128,6 +9128,26 @@
             <mxPoint x="432.31098430813125" y="43.570000000000164" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zTD_yEASTduJdV2yVpak" name="第 57 页">
+    <mxGraphModel dx="1188" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HNMi8mIivC8-YObbbq3N-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="35" y="50" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HNMi8mIivC8-YObbbq3N-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
+          <mxGeometry y="30" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HNMi8mIivC8-YObbbq3N-3" value="OPPO IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
+          <mxGeometry x="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNMi8mIivC8-YObbbq3N-1" value="人群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
