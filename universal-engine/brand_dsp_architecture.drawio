@@ -9240,7 +9240,7 @@
           <mxGeometry x="435" y="350" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="358.46" y="647" width="401.54" height="130" as="geometry" />
+          <mxGeometry x="358.46" y="647" width="591.54" height="133" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-17" value="火山公有云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="519.23" y="611.12" width="80" height="35.88" as="geometry" />
