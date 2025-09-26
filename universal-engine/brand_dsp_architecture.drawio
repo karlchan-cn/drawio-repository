@@ -9261,6 +9261,19 @@
         <mxCell id="pMyHA44RKrbFabH0LJwq-17" value="火山公有云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="80" height="35.88" as="geometry" />
         </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pMyHA44RKrbFabH0LJwq-18" target="HNMi8mIivC8-YObbbq3N-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="630" />
+              <mxPoint x="660" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-26" value="6. 返回OAID列表&lt;br&gt;统一对应的&lt;br&gt;&lt;b&gt;一个加密的embedding&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pMyHA44RKrbFabH0LJwq-25">
+          <mxGeometry x="-0.0464" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-18" value="TOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="585" width="170" height="90" as="geometry" />
         </mxCell>
