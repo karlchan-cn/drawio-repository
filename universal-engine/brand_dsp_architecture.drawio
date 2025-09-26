@@ -9137,6 +9137,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pMyHA44RKrbFabH0LJwq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="358.46" y="647" width="591.54" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-41" value="抖音曝光" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="761.72" y="678" width="124.10841654778888" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-42" value="抖音点击" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="761.72" y="699" width="124.10841654778888" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-43" value="抖音付费" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="761.72" y="720" width="124.10841654778888" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-44" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="761.72" y="741" width="124.10841654778888" height="21" as="geometry" />
+        </mxCell>
         <mxCell id="I0nP0LAL9pfHRcEK9URw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="590" height="400" as="geometry" />
         </mxCell>
@@ -9239,9 +9254,6 @@
         <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="435" y="350" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pMyHA44RKrbFabH0LJwq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="358.46" y="647" width="591.54" height="133" as="geometry" />
-        </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-17" value="火山公有云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="278.46000000000004" y="695.56" width="80" height="35.88" as="geometry" />
         </mxCell>
@@ -9289,8 +9301,20 @@
         <mxCell id="pMyHA44RKrbFabH0LJwq-33" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="770" y="338" width="124.10841654778888" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pMyHA44RKrbFabH0LJwq-36" target="pMyHA44RKrbFabH0LJwq-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="762" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMyHA44RKrbFabH0LJwq-46" value="公有云同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pMyHA44RKrbFabH0LJwq-45">
+          <mxGeometry x="-0.1185" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-36" value="OAID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="681.72" y="706.44" width="80" height="25" as="geometry" />
+          <mxGeometry x="690" y="706.44" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
