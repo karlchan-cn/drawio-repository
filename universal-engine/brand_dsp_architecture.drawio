@@ -9152,7 +9152,7 @@
         <mxCell id="HNMi8mIivC8-YObbbq3N-3" value="OPPO IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="HNMi8mIivC8-YObbbq3N-4">
           <mxGeometry x="51.15384615384615" width="87.6923076923077" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-1" value="人群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
+        <mxCell id="HNMi8mIivC8-YObbbq3N-1" value="人群服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I0nP0LAL9pfHRcEK9URw-7" value="火山专属云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -9171,7 +9171,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I0nP0LAL9pfHRcEK9URw-9" value="分包服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
+        <mxCell id="I0nP0LAL9pfHRcEK9URw-9" value="分包服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="435" y="110" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-1" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -9267,7 +9267,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
+        <mxCell id="HNMi8mIivC8-YObbbq3N-6" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="435" y="350" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" vertex="1" parent="1">
@@ -9289,7 +9289,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMyHA44RKrbFabH0LJwq-18" value="TOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;" vertex="1" parent="1">
+        <mxCell id="pMyHA44RKrbFabH0LJwq-18" value="TOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="435" y="672" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
