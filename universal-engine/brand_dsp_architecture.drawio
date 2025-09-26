@@ -8933,7 +8933,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-26" value="返回成功标志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-16" target="y987USSZnuBKaFbvcn1P-14">
+        <mxCell id="y987USSZnuBKaFbvcn1P-26" value="返回成功标志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-16" target="y987USSZnuBKaFbvcn1P-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="256" y="1268" />
@@ -8948,7 +8948,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-28" value="HTTP: 返回oaId列表+embedding" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-18" target="y987USSZnuBKaFbvcn1P-17">
+        <mxCell id="y987USSZnuBKaFbvcn1P-28" value="HTTP: 返回oaId列表+embedding" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-18" target="y987USSZnuBKaFbvcn1P-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="1451" />
@@ -8978,7 +8978,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-32" value="过滤，不回传embedding" style="curved=1;endArrow=block;rounded=0;flowAnimation=1;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-17">
+        <mxCell id="y987USSZnuBKaFbvcn1P-32" value="过滤，不回传embedding" style="curved=1;endArrow=block;rounded=0;flowAnimation=1;strokeWidth=3;" edge="1" parent="1" source="y987USSZnuBKaFbvcn1P-17" target="y987USSZnuBKaFbvcn1P-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="452" y="1853" />
@@ -8986,7 +8986,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y987USSZnuBKaFbvcn1P-33" value="内存保留内容，响应处理完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="y987USSZnuBKaFbvcn1P-33" value="内存保留内容，响应处理完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;flowAnimation=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555.25" y="1487" />
