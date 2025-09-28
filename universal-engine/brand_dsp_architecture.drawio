@@ -9137,6 +9137,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DO8vSK6CTbPwbLjqAZJo-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-320" width="690" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="pMyHA44RKrbFabH0LJwq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="298.46" y="642.88" width="561.54" height="137.12" as="geometry" />
         </mxCell>
@@ -9347,14 +9350,8 @@
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-5" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="86.07650499286734" y="-212" width="124.10841654778888" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="DO8vSK6CTbPwbLjqAZJo-7" value="" style="group;strokeWidth=0;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="414" y="-440" width="190" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="DO8vSK6CTbPwbLjqAZJo-9" value="OPPO IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="DO8vSK6CTbPwbLjqAZJo-7">
-          <mxGeometry x="51.15384615384615" width="87.6923076923077" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DO8vSK6CTbPwbLjqAZJo-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-320" width="690" height="140" as="geometry" />
+        <mxCell id="DO8vSK6CTbPwbLjqAZJo-9" value="头条已有数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="361.15" y="-345.29" width="87.69" height="25.29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
