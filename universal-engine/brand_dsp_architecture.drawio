@@ -9516,6 +9516,15 @@
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-69" value="加密IMEI 12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="375" y="-180" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DO8vSK6CTbPwbLjqAZJo-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DO8vSK6CTbPwbLjqAZJo-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="-180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="690" y="-180" />
+              <mxPoint x="690" y="-125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-70" value="加密IMEI 31" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="495" y="-200" width="120" height="20" as="geometry" />
         </mxCell>
@@ -9528,11 +9537,22 @@
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-75" value="加密IMEI 14" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="375" y="-53" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DO8vSK6CTbPwbLjqAZJo-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DO8vSK6CTbPwbLjqAZJo-77" target="DO8vSK6CTbPwbLjqAZJo-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="-53" />
+              <mxPoint x="690" y="-125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-76" value="加密IMEI 42" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="495" y="-73" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-77" value="加密IMEI Y" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="495" y="-53" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DO8vSK6CTbPwbLjqAZJo-81" value="数据转换服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="743" y="-170" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
