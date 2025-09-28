@@ -9353,7 +9353,7 @@
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-5" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="DO8vSK6CTbPwbLjqAZJo-20">
           <mxGeometry x="26.076504992867342" y="133.29000000000002" width="124.10841654778888" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="DO8vSK6CTbPwbLjqAZJo-9" value="头条已有数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="DO8vSK6CTbPwbLjqAZJo-20">
+        <mxCell id="DO8vSK6CTbPwbLjqAZJo-9" value="头条已有OPPO的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="DO8vSK6CTbPwbLjqAZJo-20">
           <mxGeometry x="301.15" width="87.69" height="25.29" as="geometry" />
         </mxCell>
         <mxCell id="DO8vSK6CTbPwbLjqAZJo-10" value="曝光-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="DO8vSK6CTbPwbLjqAZJo-20">
