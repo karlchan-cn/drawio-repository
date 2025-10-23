@@ -9669,7 +9669,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-14" value="2. parquet序列化&lt;div&gt;写入2000大小的&lt;/div&gt;&lt;div&gt;IMEI分组数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-13" vertex="1" connectable="0">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-14" value="2. parquet序列化&lt;div&gt;写入2000大小的&lt;/div&gt;&lt;div&gt;IMEI分组数据&lt;br&gt;输出字节clusterId&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-13" vertex="1" connectable="0">
           <mxGeometry x="-0.6414" y="2" relative="1" as="geometry">
             <mxPoint x="19" y="77" as="offset" />
           </mxGeometry>
@@ -9704,16 +9704,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;strokeWidth=2;strokeColor=#66CC00;exitX=0.029;exitY=0.835;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6y9FOyEJyhLK0YcEhl7M-27" target="6y9FOyEJyhLK0YcEhl7M-31" edge="1">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;flowAnimation=1;strokeWidth=2;strokeColor=#66CC00;exitX=0.029;exitY=0.835;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6y9FOyEJyhLK0YcEhl7M-27" target="6y9FOyEJyhLK0YcEhl7M-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="420" y="1463" />
               <mxPoint x="420" y="1460" />
-              <mxPoint x="360" y="1460" />
-              <mxPoint x="360" y="1766" />
+              <mxPoint x="370" y="1460" />
+              <mxPoint x="370" y="1788" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-24" value="5. 域外使用分包OAID&lt;br&gt;申请计算embedding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-23" vertex="1" connectable="0">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-24" value="4. 使用OPPO clusterId&lt;br&gt;写入分组SHA256-OAID&lt;br&gt;到TOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0276" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -9742,7 +9743,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-30" value="6. 返回OAID列表&lt;br&gt;+&lt;br&gt;&lt;b&gt;一个加密的embedding&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-29" vertex="1" connectable="0">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-30" value="6. 读取 OPPO clusterId&lt;br&gt;以及对应的embedding" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-29" vertex="1" connectable="0">
           <mxGeometry x="-0.0464" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -9786,7 +9787,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-40" value="公有云同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-39" vertex="1" connectable="0">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-40" value="5. 公有云同步 embedding训练" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-39" vertex="1" connectable="0">
           <mxGeometry x="-0.1185" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -9819,7 +9820,7 @@
             <mxPoint x="504" y="1325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rqzejNIX8Um2lz7ZH1je-4" value="3. 根据clusterID转换&lt;div&gt;SHA256OAID并且&lt;/div&gt;&lt;div&gt;定义内部clusterID&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqzejNIX8Um2lz7ZH1je-3">
+        <mxCell id="rqzejNIX8Um2lz7ZH1je-4" value="3. 字节clusterID转换&lt;div&gt;SHA256OAID并且&lt;/div&gt;&lt;div&gt;定义OPPO clusterId&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqzejNIX8Um2lz7ZH1je-3">
           <mxGeometry x="-0.6414" y="2" relative="1" as="geometry">
             <mxPoint x="26" y="60" as="offset" />
           </mxGeometry>
