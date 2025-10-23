@@ -9809,6 +9809,21 @@
         <mxCell id="rqzejNIX8Um2lz7ZH1je-2" value="HDFS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="424.23" y="1200.88" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rqzejNIX8Um2lz7ZH1je-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;flowAnimation=1;strokeWidth=2;strokeColor=#66CC00;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqzejNIX8Um2lz7ZH1je-2" target="6y9FOyEJyhLK0YcEhl7M-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="1238" />
+              <mxPoint x="370" y="1410" />
+            </Array>
+            <mxPoint x="495" y="1180" as="sourcePoint" />
+            <mxPoint x="504" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqzejNIX8Um2lz7ZH1je-4" value="2. parquet序列化&lt;div&gt;写入2000大小的&lt;/div&gt;&lt;div&gt;IMEI分组数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqzejNIX8Um2lz7ZH1je-3">
+          <mxGeometry x="-0.6414" y="2" relative="1" as="geometry">
+            <mxPoint x="148" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
