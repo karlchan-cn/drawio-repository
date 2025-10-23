@@ -9819,9 +9819,9 @@
             <mxPoint x="504" y="1325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rqzejNIX8Um2lz7ZH1je-4" value="2. parquet序列化&lt;div&gt;写入2000大小的&lt;/div&gt;&lt;div&gt;IMEI分组数据&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqzejNIX8Um2lz7ZH1je-3">
+        <mxCell id="rqzejNIX8Um2lz7ZH1je-4" value="2. 根据clusterID转换&lt;div&gt;SHA256OAID并且&lt;/div&gt;&lt;div&gt;定义内部clusterID&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqzejNIX8Um2lz7ZH1je-3">
           <mxGeometry x="-0.6414" y="2" relative="1" as="geometry">
-            <mxPoint x="148" y="50" as="offset" />
+            <mxPoint x="16" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
