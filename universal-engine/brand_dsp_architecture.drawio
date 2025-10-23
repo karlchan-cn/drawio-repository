@@ -9661,17 +9661,17 @@
         <mxCell id="6y9FOyEJyhLK0YcEhl7M-12" value="火山专属云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="579.23" y="970" width="156.92" height="35.88" as="geometry" />
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.218;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;strokeWidth=2;strokeColor=#3399FF;" parent="1" source="6y9FOyEJyhLK0YcEhl7M-15" target="6y9FOyEJyhLK0YcEhl7M-27" edge="1">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;strokeWidth=2;strokeColor=#3399FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6y9FOyEJyhLK0YcEhl7M-15" target="rqzejNIX8Um2lz7ZH1je-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="452" y="1235.88" />
-              <mxPoint x="452" y="1235.88" />
+              <mxPoint x="370" y="1081" />
+              <mxPoint x="370" y="1226" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6y9FOyEJyhLK0YcEhl7M-14" value="3. 多个2000大小加密IMEI包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-13" vertex="1" connectable="0">
           <mxGeometry x="-0.6414" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="42" y="59" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6y9FOyEJyhLK0YcEhl7M-15" value="分包服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
@@ -9687,7 +9687,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6y9FOyEJyhLK0YcEhl7M-17" value="2. 加密IMEI+对应广告&lt;br&gt;行为数据进行人群分包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-16" vertex="1" connectable="0">
+        <mxCell id="6y9FOyEJyhLK0YcEhl7M-17" value="1. 加密IMEI+对应广告&lt;br&gt;行为数据进行人群分包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6y9FOyEJyhLK0YcEhl7M-16" vertex="1" connectable="0">
           <mxGeometry x="0.3023" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-9" as="offset" />
           </mxGeometry>
@@ -9813,6 +9813,9 @@
           <mxGeometry x="-0.6624" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rqzejNIX8Um2lz7ZH1je-2" value="HDFS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="424.23" y="1200.88" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
