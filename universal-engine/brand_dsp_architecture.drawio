@@ -10344,7 +10344,7 @@
             <mxPoint x="26" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1wVwnxbln9upFemH1a_l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MfdQN0Qe22XBI44dlLZ6-1" source="1wVwnxbln9upFemH1a_l-0" target="1wVwnxbln9upFemH1a_l-8">
+        <mxCell id="1wVwnxbln9upFemH1a_l-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="MfdQN0Qe22XBI44dlLZ6-1" source="1wVwnxbln9upFemH1a_l-0" target="1wVwnxbln9upFemH1a_l-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wVwnxbln9upFemH1a_l-0" value="竞品文章爬取&lt;br&gt;(30%)工作量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
@@ -10371,7 +10371,7 @@
         <mxCell id="1wVwnxbln9upFemH1a_l-7" value="小米(公众号)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
           <mxGeometry x="54" y="-460" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1wVwnxbln9upFemH1a_l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MfdQN0Qe22XBI44dlLZ6-1" source="1wVwnxbln9upFemH1a_l-8" target="1wVwnxbln9upFemH1a_l-9">
+        <mxCell id="1wVwnxbln9upFemH1a_l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="MfdQN0Qe22XBI44dlLZ6-1" source="1wVwnxbln9upFemH1a_l-8" target="1wVwnxbln9upFemH1a_l-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wVwnxbln9upFemH1a_l-8" value="竞品文档撰写&lt;br&gt;20%工作量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
