@@ -10347,7 +10347,7 @@
         <mxCell id="1wVwnxbln9upFemH1a_l-0" value="竞品文章爬取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
           <mxGeometry x="170" y="-680" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1wVwnxbln9upFemH1a_l-1" value="巨量引擎(web+微信)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
+        <mxCell id="1wVwnxbln9upFemH1a_l-1" value="巨量引擎(web+微信)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
           <mxGeometry x="195" y="-560" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1wVwnxbln9upFemH1a_l-2" value="腾讯广告(web+公众号)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
