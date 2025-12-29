@@ -10374,7 +10374,7 @@
         <mxCell id="1wVwnxbln9upFemH1a_l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MfdQN0Qe22XBI44dlLZ6-1" source="1wVwnxbln9upFemH1a_l-8" target="1wVwnxbln9upFemH1a_l-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wVwnxbln9upFemH1a_l-8" value="竞品文档撰写()&lt;br&gt;20%工作量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
+        <mxCell id="1wVwnxbln9upFemH1a_l-8" value="竞品文档撰写&lt;br&gt;20%工作量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
           <mxGeometry x="329" y="-700" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1wVwnxbln9upFemH1a_l-9" value="人工检查文档正确性&lt;br&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;(50%)工作量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;shadow=1;fontStyle=1;fontSize=15;" vertex="1" parent="MfdQN0Qe22XBI44dlLZ6-1">
